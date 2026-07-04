@@ -1,0 +1,518 @@
+:root {
+  --paper: #eae1cb;
+  --paper-raised: #f8f3e6;
+  --paper-shadow: #cabf9b;
+  --ink: #2b2620;
+  --ink-soft: #6b6152;
+  --stamp-red: #a6362a;
+  --tab-teal: #3f6357;
+  --tab-teal-soft: rgba(63, 99, 87, 0.13);
+  --radius: 4px;
+  --shadow-card: 0 2px 0 var(--paper-shadow), 0 10px 18px -12px rgba(43, 38, 32, 0.45);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  background-color: var(--paper);
+  background-image: radial-gradient(circle at 1px 1px, rgba(43, 38, 32, 0.05) 1px, transparent 0);
+  background-size: 22px 22px;
+  color: var(--ink);
+  font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+button,
+input,
+select {
+  font-family: inherit;
+  color: inherit;
+}
+
+a {
+  color: var(--tab-teal);
+}
+
+:focus-visible {
+  outline: 2px solid var(--stamp-red);
+  outline-offset: 2px;
+}
+
+.app {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 24px 96px;
+}
+
+/* ---------- Masthead ---------- */
+
+.masthead {
+  position: relative;
+  padding: 48px 0 26px;
+  margin-bottom: 36px;
+  border-bottom: 3px double var(--ink);
+}
+
+.masthead__eyebrow {
+  margin: 0 0 6px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+.masthead h1 {
+  margin: 0;
+  font-family: "Special Elite", "Courier New", monospace;
+  font-weight: 400;
+  font-size: clamp(2rem, 5vw, 3.1rem);
+  letter-spacing: 0.01em;
+}
+
+.masthead__stamp {
+  position: absolute;
+  top: 44px;
+  right: 4px;
+}
+
+/* Ink-stamp signature element, reused smaller on candidate cards. */
+.stamp {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  border: 2px solid var(--stamp-red);
+  border-radius: 3px;
+  padding: 0.32em 0.6em;
+  font-family: "Special Elite", monospace;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--stamp-red);
+  transform: rotate(-4deg);
+  mix-blend-mode: multiply;
+  box-shadow: 0 0 0 3px rgba(166, 54, 42, 0.12);
+  white-space: nowrap;
+}
+
+@media (max-width: 640px) {
+  .masthead__stamp {
+    position: static;
+    display: inline-block;
+    margin-top: 14px;
+  }
+}
+
+/* ---------- Intake tray (upload + search) ---------- */
+
+.intake {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  align-items: start;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 720px) {
+  .intake {
+    grid-template-columns: 1fr;
+  }
+}
+
+.panel-label {
+  margin: 0 0 12px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--tab-teal);
+}
+
+.upload-panel,
+.search-bar {
+  position: relative;
+  background: var(--paper-raised);
+  border: 1px solid var(--paper-shadow);
+  border-radius: var(--radius);
+  padding: 20px;
+  box-shadow: var(--shadow-card);
+}
+
+.upload-panel__row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+}
+
+.upload-panel input[type="file"] {
+  flex: 1;
+  min-width: 0;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+}
+
+.upload-panel input[type="file"]::file-selector-button {
+  margin-right: 10px;
+  border: 1px solid var(--ink);
+  border-radius: 3px;
+  background: var(--paper);
+  color: var(--ink);
+  padding: 0.55em 0.9em;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 120ms ease;
+}
+
+.upload-panel input[type="file"]::file-selector-button:hover {
+  background: var(--paper-shadow);
+}
+
+.search-bar__row {
+  display: flex;
+  gap: 10px;
+}
+
+.search-bar input[type="text"] {
+  flex: 1;
+  min-width: 0;
+  border: 1px solid var(--paper-shadow);
+  border-radius: 3px;
+  background: var(--paper);
+  padding: 0.65em 0.8em;
+  font-size: 0.92rem;
+  color: var(--ink);
+}
+
+.search-bar input[type="text"]::placeholder {
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
+button {
+  border: none;
+  border-radius: 3px;
+  background: var(--ink);
+  color: var(--paper-raised);
+  padding: 0.65em 1.15em;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: transform 120ms ease, box-shadow 120ms ease, opacity 120ms ease;
+}
+
+button:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 0 -1px var(--paper-shadow);
+}
+
+button:active:not(:disabled) {
+  transform: translateY(0);
+  box-shadow: none;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+[role="alert"] {
+  margin: 12px 0 0;
+  padding: 8px 12px;
+  border: 1px solid var(--stamp-red);
+  border-left-width: 4px;
+  border-radius: 2px;
+  background: rgba(166, 54, 42, 0.07);
+  color: var(--stamp-red);
+  font-size: 0.85rem;
+}
+
+[role="alert"] strong {
+  font-family: "IBM Plex Mono", monospace;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-right: 0.4em;
+}
+
+/* ---------- Upload receipt note ---------- */
+
+.receipt {
+  margin: 0 0 28px;
+  padding: 10px 16px;
+  border: 1px dashed var(--paper-shadow);
+  border-radius: 3px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  background: var(--paper-raised);
+}
+
+.receipt strong {
+  color: var(--ink);
+}
+
+/* ---------- Empty state ---------- */
+
+.empty-state {
+  padding: 36px 24px;
+  border: 1px dashed var(--paper-shadow);
+  border-radius: var(--radius);
+  text-align: center;
+  color: var(--ink-soft);
+}
+
+.empty-state p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+/* ---------- Results ---------- */
+
+.results-view {
+  margin-top: 12px;
+  animation: rise 320ms ease both;
+}
+
+.results-view > section {
+  margin-bottom: 36px;
+}
+
+.section-eyebrow {
+  margin: 0 0 6px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+.results-view h2 {
+  margin: 0 0 14px;
+  font-family: "Special Elite", monospace;
+  font-weight: 400;
+  font-size: 1.3rem;
+}
+
+.answer-panel {
+  background: var(--paper-raised);
+  border: 1px solid var(--paper-shadow);
+  border-left: 4px solid var(--tab-teal);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  box-shadow: var(--shadow-card);
+}
+
+.answer-panel p {
+  margin: 0;
+  font-size: 1.02rem;
+  line-height: 1.55;
+}
+
+.candidate-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 22px;
+}
+
+.candidate-card {
+  position: relative;
+  background: var(--paper-raised);
+  border: 1px solid var(--paper-shadow);
+  border-radius: var(--radius);
+  padding: 22px 20px 20px 30px;
+  box-shadow: var(--shadow-card);
+  transition: transform 150ms ease, box-shadow 150ms ease;
+}
+
+.candidate-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 0 var(--paper-shadow), 0 16px 24px -14px rgba(43, 38, 32, 0.5);
+}
+
+/* punch holes, like a filed folder sheet */
+.candidate-card::before,
+.candidate-card::after {
+  content: "";
+  position: absolute;
+  left: 11px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--paper);
+  box-shadow: inset 0 1px 2px rgba(43, 38, 32, 0.4);
+}
+
+.candidate-card::before {
+  top: 22px;
+}
+
+.candidate-card::after {
+  bottom: 22px;
+}
+
+.candidate-card__tab {
+  display: inline-block;
+  margin: 0 0 10px;
+  padding: 0.25em 0.6em;
+  border-radius: 2px;
+  background: var(--tab-teal-soft);
+  color: var(--tab-teal);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.candidate-card__rank {
+  display: inline-block;
+  margin: 0 8px 10px 0;
+  padding: 0.2em 0.55em;
+  border-radius: 2px;
+  background: var(--paper-shadow);
+  color: var(--ink);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
+.candidate-card--best {
+  border-color: var(--stamp-red);
+}
+
+.candidate-card__name {
+  margin: 0 0 4px;
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.candidate-card__reason {
+  margin: 0 0 12px;
+  padding: 8px 10px;
+  background: var(--paper);
+  border-left: 3px solid var(--stamp-red);
+  border-radius: 2px;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: var(--ink-soft);
+}
+
+.candidate-card__meta {
+  margin: 0 0 12px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+}
+
+.candidate-card__score {
+  border-bottom: 1px dotted var(--ink-soft);
+  cursor: help;
+}
+
+.candidate-card a {
+  display: inline-block;
+  margin-bottom: 14px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid var(--tab-teal);
+}
+
+.candidate-card a:hover {
+  color: var(--stamp-red);
+  border-color: var(--stamp-red);
+}
+
+.tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+
+.tag {
+  padding: 0.2em 0.55em;
+  border-radius: 2px;
+  background: var(--tab-teal-soft);
+  color: var(--tab-teal);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+}
+
+.candidate-card pre {
+  margin: 0 0 14px;
+  padding: 12px;
+  max-height: 220px;
+  overflow: auto;
+  background: var(--paper);
+  border: 1px solid var(--paper-shadow);
+  border-radius: 3px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.74rem;
+  line-height: 1.5;
+  color: var(--ink);
+}
+
+.extra-fields label {
+  display: block;
+  margin-bottom: 6px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+.extra-fields select {
+  width: 100%;
+  border: 1px solid var(--paper-shadow);
+  border-radius: 3px;
+  background: var(--paper);
+  padding: 0.5em 0.6em;
+  font-size: 0.85rem;
+}
+
+.extra-fields p {
+  margin: 10px 0 0;
+  padding: 8px 10px;
+  background: var(--paper);
+  border: 1px solid var(--paper-shadow);
+  border-radius: 3px;
+  font-size: 0.85rem;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .results-view,
+  .candidate-card,
+  button {
+    animation: none !important;
+    transition: none !important;
+  }
+}

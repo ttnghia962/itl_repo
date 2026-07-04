@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Tìm ứng viên có kinh nghiệm Python và Machine Learning",
+    "relevant_ids": []
+  },
+  {
+    "query": "Tìm ứng viên thuộc mảng IT có kinh nghiệm quản trị rủi ro (risk management)",
+    "relevant_ids": ["13405733", "15297298", "15791766", "17688766", "18187364", "18752129", "19796840", "20879311", "21283365", "24913648", "28035460", "28697203", "36856210", "41344156", "51363762", "52246737", "81761658"]
+  },
+  {
+    "query": "Gợi ý ứng viên phù hợp cho vị trí Data Engineer",
+    "relevant_ids": ["41344156"]
+  }
+]
