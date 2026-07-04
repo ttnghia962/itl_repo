@@ -1,0 +1,96 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "streamline",
+    "Agile",
+    "billing",
+    "case management",
+    "contracts",
+    "clients",
+    "customer services",
+    "database",
+    "Dictation",
+    "Documentation",
+    "electronic medical records",
+    "features",
+    "functional",
+    "health and human services",
+    "help desk",
+    "Imaging",
+    "information technology",
+    "ITIL",
+    "Materials Management",
+    "Exchange",
+    "enterprise",
+    "Network",
+    "organizational",
+    "policies",
+    "processes",
+    "process improvement",
+    "Project Management",
+    "Quality",
+    "reporting",
+    "San",
+    "scheduling",
+    "Scrum",
+    "Six Sigma",
+    "service level agreements",
+    "strategy",
+    "surveys",
+    "workflow"
+  ],
+  "education": [
+    {
+      "institution": "De La Salle University",
+      "degree": "MS",
+      "field_of_study": "Guidance & Counseling",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "Assumption College",
+      "degree": "BS",
+      "field_of_study": "Psychology",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Assistant Information Technology (IT) Director",
+      "start_date": "January 2011",
+      "end_date": "Current",
+      "description": "Led the organization towards eligibility in the eHealth Exchange Information Network. Completed detailed survey of the county's privacy, security, confidentiality, and information exchange policies. Facilitated the processing of the Entrust Subscriber Agreement. Accelerated the organizations participation in nationwide quality efforts and maturity surveys."
+    },
+    {
+      "company": "Company Name",
+      "title": "IT Supervisor",
+      "start_date": "January 2007",
+      "end_date": "December 2010",
+      "description": "Executed the enterprise information technology strategy. Worked closely with the Health Services CIO and stakeholders to establish project and program governance. Supervised, led, coached, and mentored approximately 12 - 25 Application Support and Project Management staff."
+    },
+    {
+      "company": "Company Name",
+      "title": "Senior Management Information Systems Analyst",
+      "start_date": "July 2005",
+      "end_date": "December 2006",
+      "description": "Developed a comprehensive map and fit-gap review and analysis of the clinical workflow and electronic medical records requirements. Led a cross-functional and multi-dimensional Lean Six Sigma process improvement team."
+    },
+    {
+      "company": "Company Name",
+      "title": "Program Administrator",
+      "start_date": "December 2000",
+      "end_date": "June 2005",
+      "description": "Defined, managed, and owned the three year IT project and program roadmap. Initiated and led the inclusion of HIPAA guidelines, Privacy Rule, and IT Security policies to the department workflow and applications."
+    }
+  ],
+  "current_role": "Assistant Information Technology (IT) Director",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Certified Lean Six Sigma Black Belt, Certified ScrumMaster (CSM), Certified Scrum Product Owner (CSPO), Project Management Professional (PMP), Certified Professional in Health Information Management Systems (CPHIMS)",
+    "training": "Agile Management, Advanced Project Management Program, Project Management, IT Service Management v2"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Computers trouble shooting",
+    "Microsoft Access",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Microsoft Word",
+    "Computer Security",
+    "Anti Hacking",
+    "HIDS",
+    "Microsoft Event logging",
+    "Adobe"
+  ],
+  "education": [
+    {
+      "institution": "Weber State University",
+      "degree": "BS",
+      "field_of_study": "Sociology and Social Work Psychology",
+      "start_date": null,
+      "end_date": "1983"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "System Administrator",
+      "start_date": "07/2005",
+      "end_date": "Current",
+      "description": "Maintain server's operation, security, and analyze and diagnose system hardware and software components."
+    },
+    {
+      "company": "Company Name",
+      "title": "Computer System Administrator",
+      "start_date": "01/1989",
+      "end_date": "04/2007",
+      "description": "Assist public electronic filing programmers by analyzing, diagnosing and making proposals on error in software to getting there software to passing the IRS standards for electronic filing."
+    }
+  ],
+  "current_role": "System Administrator",
+  "domain": "Information Technology",
+  "extra_fields": {}
+}

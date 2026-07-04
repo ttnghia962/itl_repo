@@ -1,0 +1,91 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Active Directory",
+    "Azure",
+    "anti-virus",
+    "Backup Exec",
+    "backup",
+    "Bash",
+    "batch",
+    "Cacti",
+    "Cisco ASA",
+    "databases",
+    "DHCP",
+    "DNS",
+    "documentation",
+    "DataDomain",
+    "EMC",
+    "Enterprise Vault",
+    "ePO",
+    "file servers",
+    "firewall",
+    "GPO",
+    "HTML",
+    "IIS",
+    "ISA",
+    "LDAP",
+    "Linux",
+    "McAfee",
+    "Exchange",
+    "Microsoft Office",
+    "Microsoft Windows",
+    "security",
+    "policies",
+    "PowerShell",
+    "programming",
+    "proxy server",
+    "servers",
+    "scripts",
+    "SolarWinds",
+    "SQL",
+    "StorSimple",
+    "troubleshooting",
+    "TMG",
+    "Ubuntu",
+    "Visual Basic Script",
+    "VBS",
+    "Veritas Netbackup",
+    "VPN",
+    "VRanger",
+    "Veeam",
+    "VMWare",
+    "VDI",
+    "virtual machine",
+    "NMap",
+    "ZenMap"
+  ],
+  "education": [
+    {
+      "institution": "Florida International University",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Information Technology",
+      "start_date": null,
+      "end_date": "2005"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Technician I",
+      "start_date": "2007-08",
+      "end_date": "Current",
+      "description": "Migrating and managing user accounts in Microsoft Office 365 and Exchange Online. Creating and managing virtual machines for systems such as domain controllers and Active Directory Federation Services (ADFS) in Microsoft Windows Azure (IaaS)."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Services Liaison",
+      "start_date": "2005-08",
+      "end_date": "2007-08",
+      "description": "Troubleshooting hardware and software problems over the telephone and through remote PC administration software."
+    }
+  ],
+  "current_role": "Information Technology Technician I",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "CompTIA Network+ - 2014",
+    "programming_languages": "C++, Java, JSP, HTML, CSS, VB.Net, Bash, T-SQL"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Army",
+    "clerical",
+    "good communication skills",
+    "hardware",
+    "Computer Knowledge",
+    "contracts",
+    "excellent customer service",
+    "customer service",
+    "Customer Support",
+    "electrical wiring",
+    "English",
+    "filing",
+    "IBM",
+    "Information technology",
+    "leadership",
+    "mechanic",
+    "Excel",
+    "Microsoft Office",
+    "Outlook",
+    "PowerPoint",
+    "Windows 7",
+    "Word",
+    "migration",
+    "weapons",
+    "Multi-tasking",
+    "network administration",
+    "network",
+    "Operating System",
+    "problem solving skills",
+    "Project Management",
+    "quality",
+    "record keeping",
+    "shipping",
+    "Spanish",
+    "Supervisor",
+    "supervising",
+    "supervision",
+    "Technical support",
+    "Technician",
+    "answering phones",
+    "phone",
+    "troubleshooting",
+    "typing"
+  ],
+  "education": [
+    {
+      "institution": "DeVry University",
+      "degree": "Bachelors of College of Business Management",
+      "field_of_study": "Technical Management",
+      "start_date": null,
+      "end_date": "October 2014"
+    }
+  ],
+  "experience": [
+    {
+      "company": "CompuCom Systems, Inc.",
+      "title": "Windows 7 Support desk Technician",
+      "start_date": "February 2013",
+      "end_date": "December 2013",
+      "description": "Served as a Windows 7 Customer Support agent for Cigna Health Care. Provided customer service support to 35,000 Cigna Health employees after Windows 7 migration. Handled inbound phone calls that involved a variety of requests and inquiries. Helped customers solve a wide variety of technical support issues."
+    },
+    {
+      "company": null,
+      "title": "Information Technology Specialist",
+      "start_date": "October 2010",
+      "end_date": "August 2012",
+      "description": "Provide customer and network administration services. Maintain hardware, software and network. Preformed general clerical duties such as typing, answering phones, filing, record keeping and maintaining military equipment."
+    },
+    {
+      "company": null,
+      "title": "Maintenance Supervisor",
+      "start_date": "May 2007",
+      "end_date": "October 2010",
+      "description": "Supervise and perform field and sustainment maintenance on wheeled vehicles and construction equipment. Supervise recovery operations on wheel vehicles and related activities including electrical wiring harness system repair/maintenance."
+    },
+    {
+      "company": null,
+      "title": "Team Leader, Infantryman",
+      "start_date": "April 1998",
+      "end_date": "February 2003",
+      "description": "Perform as a member of a fire team during drills and combat. Aid in the mobilization of vehicles, troops and weaponry. Assist in reconnaissance missions. Process prisoners of war and captured documents."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "security_clearance": "Secret inactive"
+  }
+}

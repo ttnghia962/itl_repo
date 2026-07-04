@@ -1,0 +1,109 @@
+{
+  "name": "Sagun Pandey",
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Java/J2EE",
+    "JavaScript",
+    "Android",
+    "HTML",
+    "CSS",
+    "SQL",
+    "C",
+    "Spring",
+    "Restful-Web Services",
+    "Hibernate",
+    "AngularJS",
+    "ReactJS",
+    "jQuery",
+    "Bootstrap",
+    "Selenium WebDriver",
+    "Cucumber",
+    "MySQL",
+    "PostgreSQL",
+    "Oracle",
+    "MongoDB",
+    "Gradle",
+    "Maven",
+    "Ant",
+    "Agile/Scrum",
+    "Waterfall",
+    "TDD",
+    "Clean Coding",
+    "Continuous Delivery",
+    "Microservices",
+    "Single Page Application",
+    "REST",
+    "Client/Server",
+    "SVN",
+    "Git",
+    "AWS",
+    "Bower",
+    "Grunt",
+    "Npm",
+    "Node",
+    "JSON",
+    "XML",
+    "Jenkins",
+    "Eclipse",
+    "IntelliJ",
+    "Android Studio",
+    "Linux",
+    "Windows"
+  ],
+  "education": [
+    {
+      "institution": "Lamar University",
+      "degree": "Master of Science",
+      "field_of_study": "Computer Science",
+      "start_date": null,
+      "end_date": "2017"
+    },
+    {
+      "institution": "Tribhuvan University",
+      "degree": "Bachelor of Engineering",
+      "field_of_study": "Electronics and Communication Engineering",
+      "start_date": null,
+      "end_date": "2013"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Intern (Test Automation Engineer)",
+      "start_date": "05/2017",
+      "end_date": "08/2017",
+      "description": "Created nicely baked â€˜Test Automation Framework' to provide an execution environment for the automation test scripts."
+    },
+    {
+      "company": "Company Name",
+      "title": "Java Full Stack Developer",
+      "start_date": "05/2014",
+      "end_date": "06/2016",
+      "description": "Worked on varied aspects of application development including requirement analysis, design, implementation, and testing."
+    },
+    {
+      "company": "Company Name",
+      "title": "Java Developer Intern",
+      "start_date": "03/2014",
+      "end_date": "05/2014",
+      "description": "Core Java programming with Multithreading Exception Handling, File Handling, IO, Generics, and Java Collections."
+    },
+    {
+      "company": "Company Name",
+      "title": "Software Developer Intern",
+      "start_date": "01/2013",
+      "end_date": "10/2013",
+      "description": "Designed and developed applications using Scrum, an iterative and incremental Agile Software Development methodology."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "website": "www.sagunpandey.com",
+    "linkedin": "www.linkedin.com/in/sagunpandey",
+    "github": "www.github.com/sagunpandey",
+    "honours_and_distinction": "Winner of National Robotics Competition, 'Yantra 1.0' organized by Robotics Association of Nepal (RAN): July 2012, Outstanding Student Award, Lamar University: Fall 2017",
+    "extra_curricular_activities": "Resource Manager in Robotics Club, Kathmandu Engineering College, Tribhuvan University (2013 - 2013), Twice the winner of National Robotics Competition organized by Robotics Association of Nepal (RAN)"
+  }
+}

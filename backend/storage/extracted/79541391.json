@@ -1,0 +1,141 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Inventory",
+    "Database",
+    "Excel",
+    "Training",
+    "Stockroom",
+    "Sql",
+    "Databases",
+    "Sap",
+    "Statistics",
+    "Operations",
+    "Sops",
+    "Asset Management",
+    "Access",
+    "Asp",
+    "Asp.net",
+    "Cafm",
+    "Document Management",
+    "Inventory Control",
+    "Microsoft Access",
+    "Ms Access",
+    "Ms Asp",
+    "P3",
+    "Property Management",
+    "Restructuring",
+    "Space Planning",
+    "Telephone",
+    "Vms",
+    "Voice",
+    "Credit",
+    "Credit Card",
+    "Great Plains",
+    "Ms Excel",
+    "Order Processing",
+    "Packing",
+    "Payments",
+    "Qa",
+    "Quality Control",
+    "Shipping",
+    "Warehouse Inventory",
+    "Clients",
+    "Customer Service",
+    "Receptionist",
+    "Retail Sales",
+    "Solutions",
+    "Technical Support",
+    "Wireless",
+    "Wireless Networks",
+    "Network Security",
+    "Security",
+    "Adjustments",
+    "Clarify",
+    "Data Conversion",
+    "Data Validation",
+    "Deployment",
+    "Fixed Asset",
+    "Fixed Assets",
+    "Ids",
+    "Integration",
+    "Integration Testing",
+    "Integrator",
+    "Maintenance",
+    "Plant Maintenance",
+    "Real Estate",
+    "Subject Matter Expert",
+    "Testing",
+    "Autocad",
+    "Database Management",
+    "Mac",
+    "System Development"
+  ],
+  "education": [
+    {
+      "institution": "The Chubb Institute",
+      "degree": "Certification in Network Security",
+      "field_of_study": "Network Security",
+      "start_date": "2003",
+      "end_date": "2005"
+    },
+    {
+      "institution": "Oneonta State University",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science & Business",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Subject Matter Expert (Information Technology Assistant)",
+      "start_date": "September 2013",
+      "end_date": "Current",
+      "description": "SAP Data Validation and Population for Real Estate, Fixed Asset and Plant Maintenance Modules. Assist, Support and coordinate with Missions to create Database/ SAP IDs for testing / enrichment of loaded data."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Assistant (OSAU)",
+      "start_date": "October 2010",
+      "end_date": "August 2013",
+      "description": "Conduct walk-throughs on UN floors to verify Locations, Staff and Space configurations. Assist Project Managers evaluate Vacancies, Overcapacities and Room Type changes."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Assistant (PMICU)",
+      "start_date": "January 2008",
+      "end_date": "October 2011",
+      "description": "Organize all PMICU Stockrooms. Perform physical inventory counts of all PMICU Stockrooms. Process Work Orders using MP-2 / iNeed (Work order software)"
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Assistant (BCSS)",
+      "start_date": "September 2007",
+      "end_date": "December 2007",
+      "description": "Managed a variety of expendable and non-expendable audio-visual supplies. Arranged the contents of the stockroom and receiving areas in a manner that maintains a safe and efficient working environment."
+    },
+    {
+      "company": "Company Name",
+      "title": "Technical Support Representative",
+      "start_date": "July 2005",
+      "end_date": "September 2007",
+      "description": "Managed Inventory of assigned IT products in assigned work car. Assisted in yearly storewide physical inventory. Performed Customer Service."
+    },
+    {
+      "company": "Company Name",
+      "title": "QA compliance",
+      "start_date": "September 2002",
+      "end_date": "July 2005",
+      "description": "Tracked and managed resources, using Great Plains and MS Excel. Assisted in yearly warehouse inventory. Organized warehouse stockroom."
+    }
+  ],
+  "current_role": "Subject Matter Expert (Information Technology Assistant)",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Certification in Network Security"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "William Hale",
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Security+",
+    "Customer Service",
+    "Networking",
+    "Internet Explorer",
+    "Symantec Antivirus",
+    "Windows 7",
+    "XP",
+    "DOS",
+    "Windows 8.1",
+    "IP",
+    "Mac OS",
+    "iPhone",
+    "iPad",
+    "User Interface Writing",
+    "Troubleshooting",
+    "IT Operations"
+  ],
+  "education": [
+    {
+      "institution": "Rollins College",
+      "degree": null,
+      "field_of_study": "Finance",
+      "start_date": null,
+      "end_date": "1987"
+    },
+    {
+      "institution": "City University of New York",
+      "degree": null,
+      "field_of_study": "Computer and Information Systems Security / Information Assurance",
+      "start_date": null,
+      "end_date": "2017"
+    },
+    {
+      "institution": "Computer Career College",
+      "degree": "MCSE, CNA, A+",
+      "field_of_study": "Information Technology",
+      "start_date": null,
+      "end_date": "2017"
+    },
+    {
+      "institution": "Hofstra College",
+      "degree": null,
+      "field_of_study": "Business Administration",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Current Company Name",
+      "title": "Information Technology Certified Technician",
+      "start_date": "03/2010",
+      "end_date": null,
+      "description": "Desktop support, software/hardware installations and configurations for Manhattan area."
+    },
+    {
+      "company": "Company Name",
+      "title": "Senior Technical Support Technician",
+      "start_date": "01/2006",
+      "end_date": "01/2011",
+      "description": "Senior Desktop Support Analyst responsible for software & hardware assets for company. Dedicated technician to 500+ end users. Senior Technician for SAP Project 2006-2010."
+    }
+  ],
+  "current_role": "Information Technology Certified Technician",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "MCSE, MCP, CNA, Comptia A+, A+Network, A+ Security, HIPPA, Series 7,63,24",
+    "projects": "SAP Project 2006-2010"
+  }
+}

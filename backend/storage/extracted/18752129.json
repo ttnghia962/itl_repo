@@ -1,0 +1,95 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "apple",
+    "Art",
+    "book",
+    "Oral",
+    "concept",
+    "conflict resolution",
+    "CPR",
+    "creativity",
+    "Designing",
+    "direction",
+    "Documentation",
+    "First Aid",
+    "Flash",
+    "fundraising",
+    "drawing",
+    "instruction",
+    "Materials",
+    "meetings",
+    "organizing",
+    "philosophy",
+    "express",
+    "Read",
+    "Recording",
+    "Safety",
+    "sound",
+    "teacher",
+    "Teaching",
+    "Transportation"
+  ],
+  "education": [
+    {
+      "institution": "Folsom Lake College",
+      "degree": "B.E",
+      "field_of_study": "Computer Science and Engineering",
+      "start_date": null,
+      "end_date": "December 2016"
+    },
+    {
+      "institution": "Karunya Institute of Technology, Coimbatore",
+      "degree": "Matriculation",
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": "May 2004"
+    },
+    {
+      "institution": "Sri Vijay Vidyalaya Matriculation HSS, Dharmapuri",
+      "degree": "S.S.L.C",
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": "April 1998"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Analyst",
+      "start_date": "09/2010",
+      "end_date": "09/2011",
+      "description": "Designing an organized classroom setup, positive and welcoming, caring and secured, safe-risk taking, theme based, and discussions on their interests during class meetings would create warm atmosphere and environment to grow in every domain of development socially, emotionally, physically, and intellectually."
+    },
+    {
+      "company": "Company Name",
+      "title": "Technology Analyst",
+      "start_date": "01/2010",
+      "end_date": "08/2010",
+      "description": null
+    },
+    {
+      "company": "Company Name",
+      "title": "Software Engineer",
+      "start_date": "10/2006",
+      "end_date": "06/2008",
+      "description": null
+    },
+    {
+      "company": "Company Name",
+      "title": "Project Engineer",
+      "start_date": "07/2004",
+      "end_date": "10/2006",
+      "description": null
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "First Aid and CPR certification",
+    "volunteer_experience": "Book fair, PTO member, organizing team events, fundraising, traditional events, patriotic events, field trip chaperones",
+    "coursework": "Early Childhood Education course"
+  }
+}

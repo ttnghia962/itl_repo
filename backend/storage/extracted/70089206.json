@@ -1,0 +1,97 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Configuration Management",
+    "Process Development",
+    "Process Improvement",
+    "Database Management",
+    "Software Development",
+    "Software Testing",
+    "Serena Version Manager",
+    "Serena Business Manager",
+    "Serena Business Administrator",
+    "Reflections",
+    "WinSCP",
+    "JavaScript",
+    "LINUX",
+    "Microsoft Access",
+    "Office",
+    "SharePoint",
+    "Enterprise",
+    "Oracle",
+    "PL/SQL",
+    "Oracle SQL",
+    "C",
+    "SAS",
+    "Visual Basic"
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland",
+      "degree": null,
+      "field_of_study": "Applied Probability and Statistics",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "USDA Graduate School",
+      "degree": null,
+      "field_of_study": "Survey Theory",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "Indiana University of Pennsylvania",
+      "degree": "Master of Science",
+      "field_of_study": "Urban Regional Planning",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "Indiana University of Pennsylvania",
+      "degree": "Bachelor of Arts",
+      "field_of_study": "Physical Geography",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist",
+      "start_date": "August 2006",
+      "end_date": "Current",
+      "description": "Track and control over 150 change requests per month. Manage the repository for Software and Customer Requirements Documents, Agreements and Governance Specifications. Document and communicate defects and problems with stakeholders and developers."
+    },
+    {
+      "company": "Company Name",
+      "title": "Computer Specialist",
+      "start_date": "August 1996",
+      "end_date": "August 2006",
+      "description": "Detailed and refined requirements, wrote algorithms, developed programs and command procedures. Developed solutions to improve software performance. Enhanced testing procedures."
+    },
+    {
+      "company": "Company Name",
+      "title": "Computer Specialist",
+      "start_date": "July 1994",
+      "end_date": "August 1996",
+      "description": "Designed and developed electronic questionnaires, 'instruments', for Computer Assisted Survey Information Collection (CASIC) activities. Led meetings with subject matter staff to review project status and proposed changes."
+    },
+    {
+      "company": "Company Name",
+      "title": "Mathematical Statistician",
+      "start_date": "February 1988",
+      "end_date": "July 1994",
+      "description": "Worked in the Research & Methodology Branch of the Industry Division. Worked with team on the statistical methodology for designing a ratio estimation procedure. Developed estimation and variance methodologies."
+    }
+  ],
+  "current_role": "Information Technology Specialist",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "languages": "JavaScript, C, SAS, Visual Basic, PL/SQL, Oracle SQL",
+    "projects": "Survey of Inmates of Local Jails, MAF/TIGER database's migration to Oracle",
+    "professional_development": "Serena Business Manager Composer, Serena Business Manager Administrator, Configuration and Release Management Training, Unix Programming, Oracle 10G Programming, Oracle JDeveloper, Java Programming, Object Oriented Programming"
+  }
+}

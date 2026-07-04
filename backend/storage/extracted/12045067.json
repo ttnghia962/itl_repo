@@ -1,0 +1,107 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Administrative",
+    "Analyst",
+    "Army",
+    "Agency",
+    "cable",
+    "cabling",
+    "Cat5",
+    "documentation",
+    "Engineer",
+    "engineering support",
+    "financial",
+    "Functional",
+    "Government",
+    "IMS",
+    "Information Systems",
+    "Information Technology",
+    "local area networks",
+    "Local Area Network",
+    "LANs",
+    "LAN",
+    "law",
+    "Materials",
+    "meetings",
+    "Office",
+    "Network",
+    "networks",
+    "personnel",
+    "procurement",
+    "project leader",
+    "project coordination",
+    "QA",
+    "quick",
+    "Radio",
+    "routing",
+    "SAT",
+    "scheduling",
+    "Supervisor",
+    "surveys",
+    "Switch",
+    "System Design",
+    "Systems Integration",
+    "telecommunications",
+    "Telephone",
+    "Theatre",
+    "UHF",
+    "Ultra High Frequency",
+    "upgrades",
+    "upgrade",
+    "validation",
+    "Vista",
+    "voice and data"
+  ],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "degree": "Bachelor of Science (BS)",
+      "field_of_study": "Information Technology",
+      "start_date": null,
+      "end_date": "2005"
+    },
+    {
+      "institution": "Cochise College",
+      "degree": "Associates of Applied Science (AAS)",
+      "field_of_study": "Electronic Technology",
+      "start_date": null,
+      "end_date": "2003"
+    },
+    {
+      "institution": "Cochise College",
+      "degree": "Associate",
+      "field_of_study": "General Studies",
+      "start_date": null,
+      "end_date": "2001"
+    }
+  ],
+  "experience": [
+    {
+      "company": "U.S. Army Information Systems Engineering Command (USAISEC)",
+      "title": "IT Specialist Project Engineer",
+      "start_date": "December 2009",
+      "end_date": "Current",
+      "description": "Develop, manage and coordinate the implementation of network communications, local area networks (LANs), visual information systems (VIS), and information technology (IT) infrastructure projects."
+    },
+    {
+      "company": "Company Name",
+      "title": "Systems Integration Analyst",
+      "start_date": "July 2009",
+      "end_date": "December 2009",
+      "description": "Systems Integration Analyst responsible for contract Information Technology (IT) engineering services in support of the US Army Information Systems Engineering Command (USAISEC)."
+    },
+    {
+      "company": "Company Name",
+      "title": "Functional Area Expert (Command and Control)",
+      "start_date": "April 2001",
+      "end_date": "September 2009",
+      "description": "Communications Engineer supporting the U.S. Army Information Systems Engineering Command (USAISEC) by providing IT engineering services in the form of quick reaction engineering to Engineer, Furnish, Install, and Test (EFIT) total communications functionality at multiple Command and Control (C2) facilities."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {}
+}

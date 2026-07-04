@@ -1,0 +1,121 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Issue escalation",
+    "Server and System Administration",
+    "Reporting and analysis",
+    "End-User Training",
+    "Quality control",
+    "Program installations",
+    "Schematic understanding",
+    "Software testing",
+    "Critical thinking",
+    "Server improvements",
+    "Data management",
+    "Data backups",
+    "Network Administration",
+    "Project management",
+    "Experience in leadership",
+    "Security technologies",
+    "Improvement plan knowledge",
+    "Network configuration",
+    "Supervision",
+    "Time management",
+    "Hardware repair",
+    "Active Directory knowledge",
+    "Computer configurations",
+    "Cybersecurity analysis",
+    "System upgrades",
+    "New program installations",
+    "Microsoft Office",
+    "Organizational leadership",
+    "MS Office",
+    "Troubleshooting and Maintenance",
+    "Apple iOS Technician",
+    "Equipment repair",
+    "Help desk assistance",
+    "Power and hand tool use",
+    "Application software testing",
+    "Troubleshooting and repairs",
+    "Mechanical abilities",
+    "Preventative maintenance",
+    "Information Systems Security Professional",
+    "Telecommunications systems",
+    "Advanced knowledge of Windows OS",
+    "Advanced knowledge of Google Chrome OS",
+    "Multitasking",
+    "Soldering",
+    "Part inspections",
+    "Database management",
+    "Friendly, positive attitude",
+    "Technical knowledge of server system softwares",
+    "LAN and WAN configurations"
+  ],
+  "education": [
+    {
+      "institution": "The Federal Polytechnic, Ado-Ekiti",
+      "degree": "Associate of Science",
+      "field_of_study": "Science Technology",
+      "start_date": null,
+      "end_date": "2003"
+    },
+    {
+      "institution": "Phoenix East Aviation",
+      "degree": "F.A.A Aircraft Dispatcher License",
+      "field_of_study": "Aviation",
+      "start_date": null,
+      "end_date": "2014"
+    },
+    {
+      "institution": "University Of Colorado At Boulder",
+      "degree": "Certificate",
+      "field_of_study": "Cybersecurity Policy For Aviation And Internet",
+      "start_date": null,
+      "end_date": "07/2020"
+    },
+    {
+      "institution": "GOOGLE I.T SUPPORT",
+      "degree": "Certificate",
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": "03/2021"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Discountpcfix",
+      "title": "Information Technology Specialist",
+      "start_date": "11/2011",
+      "end_date": "Current",
+      "description": "Assisted client with new computer and network equipment purchases. Updated or installed software for customers to ensure computer efficiency. Checked in computers and performed diagnostics for repair. Backed up data each evening, helping alleviate lost information following malware incident. Updated software versions with patches and new installations to close security loopholes and protect users. Identified hardware issues caused by component failures using approved diagnostic tools. Installed over motherboards, processors and graphics cards. Configured computers to network drivers and connected to printers and other peripheral equipment. Upgraded laptops/desktops, improving speed and performance. Fixed All Apple(iphone,imac,ipad,laptop) Products Screen damage. Fixed any brand,Windows OS,Mac OS,Chrome OS products liquid damage."
+    },
+    {
+      "company": null,
+      "title": "Quality Control Inspector Contractor",
+      "start_date": "04/2019",
+      "end_date": "Current",
+      "description": "Conferred with scientific, engineering and technical personnel to resolve design, research and testing problems. Worked with engineers to facilitate research and development testing, correct mechanical failures and generate technical specifications prior to release. Developed and implemented best practices for defect prevention and continuous improvement. Used specialized tools to take precise measurements of various aspects of samples. Consulted with engineers to resolve quality, production and efficiency problems."
+    },
+    {
+      "company": null,
+      "title": "Network Analyst",
+      "start_date": "06/2016",
+      "end_date": "05/2018",
+      "description": "Identified operational and performance issues and worked with managers to resolve concerns. Supporting of the following hardware types: servers, storage systems, network equipment, PCs ipad and notebooks of any brands. Analyzed operational performance to identify pain points and provided actionable solutions to management. Educated personnel on company policies to foster improved customer retention and increased revenue."
+    },
+    {
+      "company": null,
+      "title": "Quality Control Manager",
+      "start_date": "07/2013",
+      "end_date": "08/2015",
+      "description": "Stayed well-informed of all company and federal regulations, which bolstered compliance of all corporate processes. Used creative and professional policy to find solutions to issues while diminishing conflicts. Handled all scheduling procedures for the department and directed team members in setting and achieving goals. Observed customer specifications by monitoring the quality control of finished products."
+    }
+  ],
+  "current_role": "Information Technology Specialist",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "F.A.A Aircraft Dispatcher License, Certificate in Cybersecurity Policy For Aviation And Internet, GOOGLE I.T SUPPORT Certificate"
+  }
+}

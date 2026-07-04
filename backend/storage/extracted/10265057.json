@@ -1,0 +1,106 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "big data",
+    "C",
+    "C++",
+    "charts",
+    "Circuit design",
+    "hardware",
+    "Data acquisition",
+    "data analyst",
+    "data collection",
+    "data mining",
+    "databases",
+    "dBm",
+    "DTI",
+    "design software",
+    "documentation",
+    "functional",
+    "GSM",
+    "innovation",
+    "Java",
+    "LabView",
+    "Team leader",
+    "Logic Analyzer",
+    "Mac",
+    "manufacturing processes",
+    "Matlab",
+    "Excel",
+    "Microsoft office",
+    "Office",
+    "Microwave",
+    "Radar",
+    "NCs",
+    "Network",
+    "dB",
+    "packaging",
+    "pivot tables",
+    "Programming",
+    "project design",
+    "proposals",
+    "Publication",
+    "Python",
+    "quality",
+    "requirement",
+    "research",
+    "SAS",
+    "self-starter",
+    "Spectrum analyzer",
+    "SPSS",
+    "SQL",
+    "SSL",
+    "statistics",
+    "surveys",
+    "system design",
+    "troubleshooting",
+    "validation"
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "degree": "M.S",
+      "field_of_study": "Electrical and Computer Engineering",
+      "start_date": null,
+      "end_date": "Dec. 2013"
+    },
+    {
+      "institution": "Purdue University",
+      "degree": "B.S",
+      "field_of_study": "Electrical and Computer Engineering",
+      "start_date": null,
+      "end_date": "Dec. 2011"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Working RF Systems Engineer",
+      "start_date": "May 2014",
+      "end_date": "Current",
+      "description": "Multidisciplinary background: RF hardware designs, manufacturing operations and data analyst. Experienced in developing hardware's DFM procedures, checklists and requirements to subcontractors. Perform EVT, DVT, PVT verifications and utilize FA process to drive root cause from system to unit level. Team leader on multiple end-to-end technical project design, development, testing and validation."
+    },
+    {
+      "company": "Company Name",
+      "title": "System Data Analyst",
+      "start_date": "August 2011",
+      "end_date": "December 2013",
+      "description": "Prioritize and extract big data from Purdue University's SQL database and maintain its accuracy and completeness. Develop and implement data collection systems strategies that optimize statistical efficiency and data quality."
+    },
+    {
+      "company": "Company Name",
+      "title": "Electrical/Validation Engineer",
+      "start_date": "May 2011",
+      "end_date": "August 2011",
+      "description": "Develop and maintain data requirement for PCBA EVT, DVT, and PVT assembly for touch-pads. Design and implement automated test for sensitivity, packrat, hovering, profiles, ripple, GSM, EMI, and ESD."
+    }
+  ],
+  "current_role": "Working RF Systems Engineer",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "projects": "The Design and Evaluation of a 5.8 GHz Laptop-Based Radar System",
+    "thesis": "The Design and Evaluation of a 5.8 GHz Laptop-Based Radar System"
+  }
+}

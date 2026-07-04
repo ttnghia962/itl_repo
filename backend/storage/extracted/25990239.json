@@ -1,0 +1,112 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Photoshop",
+    "Premier",
+    "art",
+    "Cable",
+    "Hardware",
+    "computer repair",
+    "curriculum development",
+    "client",
+    "Customer service training",
+    "Database",
+    "Department of Health",
+    "documentation",
+    "Dreamweaver",
+    "Fireworks",
+    "Flash",
+    "help desk",
+    "HTML Coding",
+    "Illustrator",
+    "InDesign",
+    "information technology",
+    "Inventory control",
+    "Mac OS",
+    "market",
+    "Excel",
+    "Microsoft Networking",
+    "Outlook",
+    "Powerpoint",
+    "Windows OS",
+    "Word",
+    "multimedia presentations",
+    "Natural",
+    "Network Management",
+    "Novell",
+    "PHP",
+    "progress",
+    "QuarkXpress",
+    "staff training",
+    "technical support",
+    "user training",
+    "phone",
+    "troubleshooting",
+    "Wiring"
+  ],
+  "education": [
+    {
+      "institution": "Concordia University",
+      "degree": "Doctorate of Education",
+      "field_of_study": "Higher Education",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "Western Governor's University",
+      "degree": "Masters of Education",
+      "field_of_study": "Learning & Technology",
+      "start_date": null,
+      "end_date": "2012"
+    },
+    {
+      "institution": "Western Governor's University",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Information Technology Management",
+      "start_date": null,
+      "end_date": "2010"
+    },
+    {
+      "institution": "Utah Valley University",
+      "degree": "Associate of Applied Science",
+      "field_of_study": "Multimedia Technologies",
+      "start_date": null,
+      "end_date": "2003"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Instructor",
+      "start_date": "Jan 2012",
+      "end_date": "Current",
+      "description": "Manage student learning needs. Create Curriculum for IT Program. Manage two part time instructors. Teach three classes of twenty-two students each class per day. Manage open entry/open exit curriculum for all training in the program. Verify training outcome reports to maintain COE standards. Data metric analysis of student progress throughout the course. Answer questions of potential students and parents. Review and update training standards as needed."
+    },
+    {
+      "company": "Company Name",
+      "title": "Help Desk Manager",
+      "start_date": "Jan 2010",
+      "end_date": "Jan 2012",
+      "description": "Manage incoming troubleshooting calls from four state agencies. Assisted help desk staff members in resolving customer requests with first call resolution. Create and specify computer standards for the Utah Dept. of Health. Trained fourteen help desk staff members on help desk phone client installation and usage."
+    },
+    {
+      "company": "Company Name",
+      "title": "Media Designer",
+      "start_date": "Jan 2009",
+      "end_date": "Jan 2010",
+      "description": "Prepare training curriculum for preparedness trainings. Designed eighteen computer based training courses for the department of Health's management staff training over one hundred managers providing significant cost savings."
+    },
+    {
+      "company": "Company Name",
+      "title": "Technical Support Specialist",
+      "start_date": "Jan 2002",
+      "end_date": "Jan 2009",
+      "description": "Provided advanced level technical support for department staff in computer repair and service. Inventory control for department of health hardware. Created Technology standards for division of Health systems improvement."
+    }
+  ],
+  "current_role": "Information Technology Instructor",
+  "domain": "Information Technology",
+  "extra_fields": {}
+}

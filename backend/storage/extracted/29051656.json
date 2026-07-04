@@ -1,0 +1,73 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Oracle databases",
+    "Sql Server databases",
+    "AWS infrastructure",
+    "DBA",
+    "Database administration",
+    "SQL*PLUS",
+    "PL/SQL",
+    "UNIX Shell Scripting",
+    "Ksh",
+    "bash",
+    "TKPROF",
+    "EXPLAIN PLAN",
+    "STATSPACK",
+    "AWR",
+    "ADDM",
+    "Toad",
+    "Putty",
+    "X-wing32",
+    "WinSCP",
+    "Oracle Enterprise Manager",
+    "Real Application Cluster",
+    "ASM",
+    "Transportable Tablespaces",
+    "SQL*Loader",
+    "RMAN",
+    "DataPump",
+    "Export",
+    "Import"
+  ],
+  "education": [
+    {
+      "institution": "University Of Buea",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Civil Engineering",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist",
+      "start_date": "03/2018",
+      "end_date": "Current",
+      "description": "Production support, installation and configuration, migration, backup and recovery, performance tuning, cloning, security, upgrades, and patches."
+    },
+    {
+      "company": "Company Name",
+      "title": "Database Administrator",
+      "start_date": "12/2014",
+      "end_date": "Current",
+      "description": "Troubleshot and resolved web application issues, analyzed performance monitoring/tuning/troubleshooting, installed, configured and maintained Physical, Logical, Active standby databases."
+    },
+    {
+      "company": "Company Name",
+      "title": "Oracle Database Administrator",
+      "start_date": "07/2012",
+      "end_date": "10/2014",
+      "description": "Prepared technical architecture proposals, provided senior technical support to Developers, troubleshot performance issues, maintained high availability and security of databases."
+    }
+  ],
+  "current_role": "Information Technology Specialist",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "languages": "SQL*PLUS, PL/SQL, UNIX Shell Scripting, Ksh, bash",
+    "technical_environment": "Databases: Oracle 10g, 11g, 12c, MySQL 5.6, 5.7, Sql Server 2008, 2012. Platforms: Oracle Enterprise Linux 5.11, 6.7, 7, HP-UX 10.x, 11.x. Sun Solaris 2.5, 2.6, Windows Server 2008"
+  }
+}

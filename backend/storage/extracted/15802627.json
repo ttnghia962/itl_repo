@@ -1,0 +1,126 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Business Continuity",
+    "Technology Infrastructure",
+    "File",
+    "Lan",
+    "Architecture",
+    "Business Process Improvement",
+    "Cdm",
+    "Cisco",
+    "Contracts",
+    "Ecommerce",
+    "Fulfillment",
+    "Network Security",
+    "Opex",
+    "Process Improvement",
+    "Procurement",
+    "Provisioning",
+    "Retail",
+    "Retail Marketing",
+    "Security",
+    "Case Management",
+    "Copy Machine",
+    "Disaster Recovery",
+    "Document Management",
+    "Enterprise Resource Planning",
+    "Increase",
+    "Lending",
+    "Operations",
+    "Roi",
+    "Server Virtualization",
+    "Virtualization",
+    "Active Directory",
+    "Databases",
+    "Directory Service",
+    "Engineer",
+    "Exchange",
+    "Lan/wan",
+    "Maintenance",
+    "Microsoft Exchange",
+    "Netware",
+    "Novell",
+    "Outlook",
+    "Backups",
+    "Its",
+    "Network Administration",
+    "Workstations",
+    "Certified Information Systems Security Professional",
+    "Cissp",
+    "Information Technology Infrastructure Library",
+    "Itil",
+    "Journal",
+    "Systems Engineer",
+    "Systems Security",
+    "Biochemistry"
+  ],
+  "education": [
+    {
+      "institution": "State University of New York at Stony Brook",
+      "degree": "Bachelor of Arts",
+      "field_of_study": "Geography",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "State University of New York at Stony Brook",
+      "degree": "Bachelor of Arts",
+      "field_of_study": "Sociology",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "State University of New York at Stony Brook",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Biochemistry",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "State University of New York at Stony Brook",
+      "degree": "Associates",
+      "field_of_study": "Geography",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Senior Vice-President and Chief Information Officer",
+      "start_date": "01/2009",
+      "end_date": "Current",
+      "description": "Industry expert in a wide variety of technology systems, business applications and IT service management. Primary focus: Network Security and IT Operational Management using the fundamentals of scalar design/architecture and business process improvement."
+    },
+    {
+      "company": "Company Name",
+      "title": "Vice-President, Information Technology",
+      "start_date": "01/2005",
+      "end_date": "01/2009",
+      "description": "Designed a system to overhaul the entire information gathering and distribution process through the use of portal technology. Streamlined operations and in doing so foster an atmosphere of empowerment and accountability using the principles of Enterprise Resource Planning."
+    },
+    {
+      "company": "Company Name",
+      "title": "Manager/Senior Network Engineer, Information Technology",
+      "start_date": "01/2001",
+      "end_date": "01/2005",
+      "description": "Challenged to secure and improve reliability of wide area network and all future business expansions sites."
+    },
+    {
+      "company": "Company Name",
+      "title": "Network Administrator",
+      "start_date": "01/1997",
+      "end_date": "01/2001",
+      "description": "Network Administration"
+    }
+  ],
+  "current_role": "Senior Vice-President and Chief Information Officer",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Microsoft Certified Systems Engineer, Certified Information Systems Security Professional, Certified Ethical Hacker (CEH) v8, Information Technology Infrastructure Library Foundations",
+    "affiliations": "Goodwill Industries International, Executive Development Program Graduate, Mobile Enterprise Executive Panelist, Gartner Summit Panelist, Enterprise CIO Forum Contributor, Wall Street Journal CIO Contributor"
+  }
+}

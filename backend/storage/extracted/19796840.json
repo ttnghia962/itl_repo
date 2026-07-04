@@ -1,0 +1,107 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "PeopleSoft HCM 8.8/9.x",
+    "PeopleSoft Financials 8.8/9.x",
+    "PeopleTools 8.51/ 8.54",
+    "SQL Developer",
+    "MS Office",
+    "Visio",
+    "MS Project",
+    "Dell Stat 5.6/5.7",
+    "SQL Developer",
+    "Application Designer",
+    "Putty",
+    "SharePoint",
+    "HP Application Lifecycle Management",
+    "Oracle Enterprise Manager",
+    "STAT Admin",
+    "TOAD",
+    "Service Now",
+    "Remedy",
+    "Heat",
+    "Oracle E-Business",
+    "Asset Suite 8"
+  ],
+  "education": [
+    {
+      "institution": "University of Houston",
+      "degree": "B.B.A",
+      "field_of_study": "Management Information Systems",
+      "start_date": null,
+      "end_date": "2010"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Auditor",
+      "start_date": "10/2016",
+      "end_date": "Current",
+      "description": "Participate in the annual risk assessment and audit planning process covering IT, financial, operational, and contract areas. Assist with IT audits and reviews including user access, database and service configurations, security, and policy and procedural compliance."
+    },
+    {
+      "company": "Company Name",
+      "title": "PeopleSoft Security Administrator III",
+      "start_date": "04/2015",
+      "end_date": "10/2016",
+      "description": "Work closely with the internal and external audit department to provide reports and documentation for compliance. Perform user access recertification, operational audits, quarterly performance assessments for Segregation of Duty /SOX controls by compiling and distributing monthly and quarterly user access reports."
+    },
+    {
+      "company": "Company Name",
+      "title": "Sr. Application Systems Analyst",
+      "start_date": "07/2014",
+      "end_date": "04/2015",
+      "description": "Worked with business owner to gather and document business requirements and business processes. Created and configured Work centers, Dashboards, and Interaction Hubs for HCM,and Financials using PeopleSoft 9.2 PeopleTools framework."
+    },
+    {
+      "company": "Company Name",
+      "title": "Sr. ERP Security Analyst/Team Lead/Project Lead",
+      "start_date": "10/2007",
+      "end_date": "07/2014",
+      "description": "As a team lead, was responsible for implementation, troubleshooting, cybersecurity assessments, PeopleSoft user security reviews and security support, user system access review, and upgrades for PeopleSoft HRMS, PeopleSoft Financial systems, and Workday HCM."
+    },
+    {
+      "company": "Company Name",
+      "title": "Manager",
+      "start_date": "04/2007",
+      "end_date": "10/2007",
+      "description": "Managed and assisted in development of major incident management procedures to be followed by IT staff in resolving network related issues."
+    },
+    {
+      "company": "Company Name",
+      "title": "Lead Client Security Analyst",
+      "start_date": "03/2006",
+      "end_date": "04/2007",
+      "description": "Served as the liaison between the business and IT departments supporting global accounts for companies located all over the world."
+    },
+    {
+      "company": "Company Name",
+      "title": "Sr. Technical Analyst",
+      "start_date": "05/2002",
+      "end_date": "03/2006",
+      "description": "Coordinated with analysts/programmers to evaluate, modify, test, debug, and maintain applications."
+    },
+    {
+      "company": "Company Name",
+      "title": "Systems Infrastructure Analyst",
+      "start_date": "02/2000",
+      "end_date": "09/2001",
+      "description": null
+    },
+    {
+      "company": "Company Name",
+      "title": "Technology Service Consultant",
+      "start_date": "10/1999",
+      "end_date": "02/2000",
+      "description": null
+    }
+  ],
+  "current_role": "Information Technology Auditor",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Certified Information Systems Auditor (CISA) Certification, Legacy MCSE, CCNA, and Novell certified"
+  }
+}

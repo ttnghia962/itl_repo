@@ -1,0 +1,101 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Air Force",
+    "art",
+    "Agency",
+    "Basic",
+    "budget",
+    "oral",
+    "hardware",
+    "Computer Operations",
+    "configuration management",
+    "cost analysis",
+    "data management",
+    "Dec",
+    "direction",
+    "documentation",
+    "edge",
+    "feasibility studies",
+    "forms",
+    "functional",
+    "Government",
+    "Information Systems",
+    "information technology",
+    "computer support",
+    "meetings",
+    "Office",
+    "enterprise",
+    "Network",
+    "personnel",
+    "policies",
+    "problem resolution",
+    "procurement",
+    "project management",
+    "publications",
+    "publication",
+    "software development",
+    "strategic",
+    "systems administration",
+    "systems analysis",
+    "systems development",
+    "systems integration",
+    "training manuals",
+    "trend",
+    "written"
+  ],
+  "education": [
+    {
+      "institution": "Sul Ross University",
+      "degree": "M.S",
+      "field_of_study": "Public Administration, Government Law",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "Morgan State University",
+      "degree": "B.S",
+      "field_of_study": "Psychology, Education",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Branch Chief Information Technology Specialist",
+      "start_date": "07/2014",
+      "end_date": "Current",
+      "description": "Effectively oversee, manage, and evaluate multiple enterprise level IT programs, serve as senior technical advisor and evaluator for programs using cutting edge technology for the Headquarters Air Force (HAF) command, control, communications, computer, intelligence, surveillance and reconnaissance (C4ISR)."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist (INFOSEC/NETOPS)",
+      "start_date": "08/2009",
+      "end_date": "07/2014",
+      "description": "Developed detailed operations plans and operations orders supporting cyber requirements at the strategic, operational, and tactical levels of cyber warfare."
+    },
+    {
+      "company": "Company Name",
+      "title": "Senior Technical Analyst",
+      "start_date": "09/2006",
+      "end_date": "08/2009",
+      "description": "Technical lead on digital media projects, guided teams to solutions that leveraged technical capabilities."
+    },
+    {
+      "company": "Company Name",
+      "title": "IT Specialist",
+      "start_date": "08/1998",
+      "end_date": "09/2006",
+      "description": "Managed computer support, cost analysis, and acquisition to support ANG work plans."
+    }
+  ],
+  "current_role": "Branch Chief Information Technology Specialist",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Security + Certified, CE 20-",
+    "security_clearance": "TOP SECRET (SCI) w/CI Polygraph"
+  }
+}

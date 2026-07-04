@@ -1,0 +1,71 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Administrative",
+    "Consultant",
+    "Course Development",
+    "Client",
+    "DC",
+    "delivery",
+    "Instructor",
+    "leadership development",
+    "Leadership and Development",
+    "Curriculum Development",
+    "Trainer workshops (T3)"
+  ],
+  "education": [
+    {
+      "institution": "University of the South",
+      "degree": "Bachelor of Arts (Equivalent)",
+      "field_of_study": "Theology",
+      "start_date": null,
+      "end_date": "2007"
+    },
+    {
+      "institution": "Coleman University",
+      "degree": "Associates (Equivalent)",
+      "field_of_study": "Office Automation/Computer Specialist",
+      "start_date": null,
+      "end_date": "1989"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Training Manager",
+      "start_date": "08/2011",
+      "end_date": "09/2015",
+      "description": "Creating and implementing training programs and overseeing the development of careers. Set performance metrics, evaluate productivity, and help workers create long-term career plans within an organization."
+    },
+    {
+      "company": "Company Name",
+      "title": "Owner/Partner Defense Contractor",
+      "start_date": "10/2006",
+      "end_date": "07/2011",
+      "description": "Supervised, and trained employees for high level security Military Intelligence operations, recruited quality personnel for special assignments, conducted high level briefings and debriefing for various security level investigations at Federal locations to Military, civilian and Congressional personnel."
+    },
+    {
+      "company": "Company Name",
+      "title": "Program Administrator II, Project Manager. Training Specialist II: US Army (CISAC)",
+      "start_date": "01/2004",
+      "end_date": "09/2006",
+      "description": "Consultant and liaison to the Department of Interior (DOI) and Department of Defense (DOD) to effectively modernize inventory/cataloging processes for sensitive and classified files, material and property."
+    },
+    {
+      "company": "Company Name",
+      "title": "Role Player",
+      "start_date": "01/2003",
+      "end_date": "01/2004",
+      "description": "Provided services as a role player in support of CISAC for US Army Intelligence Center."
+    }
+  ],
+  "current_role": "Training Manager",
+  "domain": "Training and Development",
+  "extra_fields": {
+    "certifications": "Master Black Belt Instructor, Certified Train the Trainer (T3)",
+    "affiliations": "Leadership Development Program, Tracy's Karate Studio Master Black Belt Association, American Kenpo Karate Association",
+    "interests": "Saint Stephen's Episcopal Church Vestry Member and Youth Minister, Coaching and Playing softball, Umpire for Little League, Volunteer for Special Olympics, Arizona Business and Professional Women (past President), Stand for Children, Member GCKT"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Not Provided",
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Strategic Planning",
+    "Project and Program Management",
+    "Results-Oriented Change Implementation",
+    "Self-Motivated Team Leadership",
+    "Customer-Oriented Time and Resources Optimization",
+    "Experienced in strategic planning and execution",
+    "Considerable knowledge of business theory, business processes, management, budgeting, and business office operations",
+    "Substantial exposure to data processing, hardware platforms, enterprise software applications, and outsourced systems, including cloud SaaS and IaaS",
+    "Excellent understanding of computer systems characteristics, features, and integration capabilities",
+    "Experienced with systems design and development from business requirements analysis through to day-to-day management",
+    "Proven experience in IT planning, organization, and development",
+    "Excellent understanding of project management principles",
+    "Constant focus on organization's goals and objectives",
+    "Demonstrated ability to apply IT in solving business problems",
+    "In-depth knowledge of applicable laws and regulations as they relate to IT",
+    "Strong understanding of human resource management principles, practices, and procedures",
+    "Proven leadership ability",
+    "Ability to set and manage priorities judiciously"
+  ],
+  "education": [
+    {
+      "institution": "University of Texas at El Paso",
+      "degree": "B.S",
+      "field_of_study": "Computer Science",
+      "start_date": null,
+      "end_date": "1983"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Senior Vice President of Global Information Technology",
+      "start_date": "06/2004",
+      "end_date": "Current",
+      "description": "Responsible for all aspects of Information Technology globally with a staff of 70 employees world wide."
+    },
+    {
+      "company": "Company Name",
+      "title": "Director of Information Technology",
+      "start_date": "01/2002",
+      "end_date": "06/2004",
+      "description": "Managed a large ERP implementation project and the technical infrastructure operations for a large replicator and distributor of DVD and VHS movies."
+    },
+    {
+      "company": "Company Name",
+      "title": "Practice Director",
+      "start_date": "01/1995",
+      "end_date": "01/2002",
+      "description": "Managed projects ranging from $500K to $10M, with an average budget savings of 20% under estimate and ahead of schedule."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Systems Director",
+      "start_date": "01/1993",
+      "end_date": "01/1995",
+      "description": "Managed business applications and technical infrastructure operations, for a 2,800-employee manufacturing and distribution company."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Systems Director",
+      "start_date": "01/1990",
+      "end_date": "01/1993",
+      "description": "Supported corporate-wide projects in the selection, delivery and management of new technology."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Systems & Technology Manager",
+      "start_date": "01/1985",
+      "end_date": "01/1990",
+      "description": "Functioned as the Information Technology Manager while orchestrating the proposal and selection of new computing technology and Enterprise Resources Planning systems application."
+    },
+    {
+      "company": "Company Name",
+      "title": "Senior Systems Analyst",
+      "start_date": "01/1984",
+      "end_date": "01/1985",
+      "description": "Responsible for the implementation of retail industry best practices and for the development of new distribution and replenishment systems."
+    }
+  ],
+  "current_role": "Senior Vice President of Global Information Technology",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "languages": "Bilingual - Fully fluent in English and Spanish"
+  }
+}

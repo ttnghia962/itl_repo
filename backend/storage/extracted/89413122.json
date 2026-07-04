@@ -1,0 +1,58 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Project Management",
+    "Information Design",
+    "Relationship Building",
+    "Information Technology",
+    "Procedure Development",
+    "Scheduling",
+    "Website Design",
+    "MS Office Suite",
+    "Training Development",
+    "Quality Processes",
+    "Event Planning",
+    "Work Breakdown Structures"
+  ],
+  "education": [
+    {
+      "institution": "New York University",
+      "degree": "BS",
+      "field_of_study": "Management Information Systems",
+      "start_date": null,
+      "end_date": "May 2005"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Operations Research Analyst",
+      "start_date": "01/2010",
+      "end_date": "Current",
+      "description": "Initiated and managed program to test incoming radiation detection equipment into New York, New Jersey and Connecticut. Since 2009, the project has tested over 25 million dollars worth of equipment and more than 10,000 units."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist",
+      "start_date": "03/2003",
+      "end_date": "01/2010",
+      "description": "Data Collection and Test Manager for the Department of Homeland Security and NYPD collaborative acquisition program for a roadway deployed radiation detector prototype."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist",
+      "start_date": "08/1999",
+      "end_date": "03/2003",
+      "description": "Designed data structures and developed systems for science related database applications."
+    }
+  ],
+  "current_role": "Operations Research Analyst",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Test and Evaluation Manager Level II",
+    "awards": "Numerous awards for both team and individual performance",
+    "projects": "Equipment testing program, Advanced Spectroscopic Portal test campaign"
+  }
+}

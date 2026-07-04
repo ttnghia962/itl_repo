@@ -1,0 +1,100 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Microsoft Office",
+    "Excel",
+    "Power Point",
+    "Word",
+    "Outlook",
+    "SQL",
+    "Adobe Suit",
+    "Flash",
+    "Photoshop",
+    "Illustrator",
+    "3D Max",
+    "PHP",
+    "Java",
+    "C#",
+    "Visual Basic",
+    "HTML",
+    "Cording",
+    "Programming",
+    "Customer relationship management (CRM)",
+    "ERP System",
+    "RFID",
+    "E-Commerce",
+    "Electronic Product Code (EPC)",
+    "Financial Accounting",
+    "Human Resources",
+    "Business Marketing",
+    "International Trade",
+    "App Development",
+    "SEM",
+    "analysis",
+    "QMS Statistics",
+    "Healthcare",
+    "Chinese",
+    "English",
+    "Japanese"
+  ],
+  "education": [
+    {
+      "institution": "Metropolitan State University",
+      "degree": "Master of Business Administration (MBA)",
+      "field_of_study": "Business Administration and Management",
+      "start_date": null,
+      "end_date": "2016"
+    },
+    {
+      "institution": "National Taipei University of Nursing and Health Science",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Information Management",
+      "start_date": null,
+      "end_date": "2015"
+    },
+    {
+      "institution": "Global Language Institute",
+      "degree": null,
+      "field_of_study": "English",
+      "start_date": null,
+      "end_date": "2015"
+    }
+  ],
+  "experience": [
+    {
+      "company": "City, State",
+      "title": "Information Technology (Internship)",
+      "start_date": "July 2014",
+      "end_date": "September 2014",
+      "description": "Examined problems between users and systems. Worked at different stations of hospital, including: ER, Registration, Pharmacy, Central Sterile Supplies Department (CSSD), and Medical Supplies store room."
+    },
+    {
+      "company": "City, State",
+      "title": "Business Analyst",
+      "start_date": "September 2013",
+      "end_date": "December 2015",
+      "description": "Worked with Tourism Bureau to publish 'Taiwan Hot Spring Voucher' in order to promote Taiwan. Generated 3K followers in Facebook Fan page within 3 months. Built and designed official website."
+    },
+    {
+      "company": "City, State",
+      "title": "Chief Executive Officer",
+      "start_date": "May 2012",
+      "end_date": "January 2015",
+      "description": "Expand five new business sites, two located at the large-scale department stores in the country. Planned for cultural events, including Simple Life Festival in Taipei and Shanghai China. Launched limited edition custom dress with bloggers, created record sales. 100 customer dresses were sold out within 4 hours. Increased sales by 25% in two quarters."
+    },
+    {
+      "company": "City, State",
+      "title": "Campus Youth E- Service Volunteer",
+      "start_date": "September 2011",
+      "end_date": "June 2013",
+      "description": "Planned summer and winter camps for kids who lack educational resources. Team lead and Recorder"
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "languages": "Chinese, English, Japanese"
+  }
+}

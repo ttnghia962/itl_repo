@@ -1,0 +1,121 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "A+",
+    "A+ certification",
+    "active directory",
+    "CCNA",
+    "Cisco Certified Network Associate",
+    "hardware",
+    "consultation",
+    "client",
+    "DHCP",
+    "e-mail",
+    "fax machines",
+    "ghost",
+    "IP",
+    "LANs",
+    "access",
+    "Microsoft Certified Professional",
+    "MCSE",
+    "Windows 7",
+    "Windows",
+    "Network",
+    "Networking",
+    "networks",
+    "printers",
+    "problem analysis and resolution",
+    "protocols",
+    "real time",
+    "router",
+    "routers",
+    "scanners",
+    "servers",
+    "switches",
+    "switch",
+    "Systems Engineer",
+    "teaching",
+    "telecommunications",
+    "phones",
+    "Troubleshoot",
+    "troubleshooting",
+    "video",
+    "video conferencing",
+    "Windows Server",
+    "wiring"
+  ],
+  "education": [
+    {
+      "institution": "Northern Virginia Community College",
+      "degree": "A.A.S Networking",
+      "field_of_study": "Networking",
+      "start_date": null,
+      "end_date": "06-25-2001"
+    },
+    {
+      "institution": "Northern Virginia Community College",
+      "degree": "A.A.S Microcomputer Specialization",
+      "field_of_study": "Microcomputer Specialization",
+      "start_date": null,
+      "end_date": "06-25-2001"
+    },
+    {
+      "institution": "Virginia Commonwealth University",
+      "degree": null,
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "George Mason University",
+      "degree": "M.A",
+      "field_of_study": "Education Biology and General Science",
+      "start_date": null,
+      "end_date": "1982"
+    },
+    {
+      "institution": null,
+      "degree": "B.S",
+      "field_of_study": "Biology",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist",
+      "start_date": "April 2015",
+      "end_date": "Current",
+      "description": "Set up and maintained the network infrastructure both wired and wireless configuration. Setup and maintained all user's computers including hardware and software. Set up and assisted users with their e-mail accounts. I maintained security on our networks in which only company users could access the network. Setup and configured users android phones so they could access the company's resources. I maintained security on all companies' machines."
+    },
+    {
+      "company": "Company Name",
+      "title": "Computer Technical Specialist",
+      "start_date": "September 2007",
+      "end_date": "January 2014",
+      "description": "Set up and maintain all software on Faculty and Staff computers in a Windows and McIntosh environment. Troubleshoot all software and hardware problems on user's machines. Check network connectivity issues on the client side. Set up and maintain all printers' scanners and fax machines for staff and faculty and students. Configure and setup all PDA s for all faculty and staff. Help maintain lab computers on the windows and McIntosh environment including hardware software and printing issues. Assist network Administrators with setting up and maintaining the network and assisting with network issues including routers switches and servers."
+    },
+    {
+      "company": null,
+      "title": "Senior Computer Network Support Technician",
+      "start_date": "November 2001",
+      "end_date": "September 2007",
+      "description": "Provide statewide data telecommunications and on the-site problem analysis and resolution; consultation; hardware and software installations; technical guidance and support for personal computing equipment. Provide local and wide area networking support, which included router switch and server and router configurations, and installations and problem resolutions. Troubleshoot all network components including routers switches servers and patch panels. Analyzing and diagnosing the network for the correct topology protocols and configurations."
+    },
+    {
+      "company": "Company Name",
+      "title": "Junior Network Administrator",
+      "start_date": "September 1999",
+      "end_date": "November 2001",
+      "description": "Performed the installation and removal of all programs on a network in a teaching and testing facility. Assigned rights and permissions to users and servicing them on the network. Troubleshoot all hardware as well as software problems on the network. Also configured IP addresses dynamically and statically for new machines on the network using a DHCP server. Maintaining compatibility of new hardware and software on our network which included routers, switches, and servers as well as workstations."
+    }
+  ],
+  "current_role": "Information Technology Specialist",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "CompTIA A+ certification, CompTIA Network+ certification, CompTIA Security+ certification, MCSE - Microsoft Certified Professional Systems Engineer, CCNA (Cisco Certified Network Associate), Certified Ethical Hacker class"
+  }
+}

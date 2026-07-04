@@ -1,0 +1,86 @@
+{
+  "name": "Kevin L. Trostle",
+  "email": null,
+  "phone": "DSN 266-4800, COMM. 865) 336-4800",
+  "skills": [
+    "budget",
+    "cabling",
+    "cisco",
+    "hardware",
+    "Client",
+    "documentation",
+    "Electrician",
+    "feasibility studies",
+    "funds",
+    "Information Technology",
+    "inspector",
+    "LAN",
+    "materials",
+    "access",
+    "network",
+    "networking",
+    "networks",
+    "personnel",
+    "Telephone Systems",
+    "printers",
+    "processes",
+    "Project Management",
+    "Quality Assurance",
+    "routers",
+    "system design",
+    "technical assistance",
+    "Technician",
+    "Telecommunications",
+    "Troubleshoot",
+    "troubleshooting",
+    "upgrades",
+    "video",
+    "wiring"
+  ],
+  "education": [
+    {
+      "institution": "Brockport High School",
+      "degree": "HS Diploma",
+      "field_of_study": "General Studies",
+      "start_date": null,
+      "end_date": "JUN 1996"
+    },
+    {
+      "institution": "University of TN",
+      "degree": "BS Degree",
+      "field_of_study": "Electrical Engineering",
+      "start_date": null,
+      "end_date": "MAY 2003"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist GS11",
+      "start_date": "07/2004",
+      "end_date": "Current",
+      "description": "Manage the assigned IT/communications environment with privileged access at the network level for the Wing, Geographically Separated Units (GSU), and Tenants."
+    },
+    {
+      "company": "Company Name",
+      "title": "Cyber Transport/ Client Systems Workcenter Supervisor",
+      "start_date": "02/2001",
+      "end_date": "Current",
+      "description": "Manage Cyber Transport/Client Systems work center personnel."
+    },
+    {
+      "company": "Company Name",
+      "title": "F-16 Ejection System Technician",
+      "start_date": "07/1996",
+      "end_date": "07/2000",
+      "description": "Troubleshot, removed, tested, inspected, repaired, modified, and installed explosive and non-explosive components and assemblies on ejection systems."
+    }
+  ],
+  "current_role": "Information Technology Specialist GS11",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "USAF, Electronic Principles, USAF, Telephone Systems Apprentice Course, USAF, Aircrew Egress Systems Apprentice Course",
+    "awards": "Superior Performer, 2nd Quarter 2003; USAF Achievement Medal, June 2000; Humanitarian Service Medal, January 1998; 20 CRS Maintenance Professional of the Year, 1998; Airman of the Quarter, May 1997; Airman of the Month, March 1997; Airman of the Month, February 1997",
+    "volunteer_work": "Habitat for Humanity"
+  }
+}

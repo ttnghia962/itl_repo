@@ -1,0 +1,41 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Attention to detail",
+    "Fast learning",
+    "Ability to work under pressure",
+    "Problem-solving"
+  ],
+  "education": [
+    {
+      "institution": "Richard Bland College",
+      "degree": "Associate of Science",
+      "field_of_study": "Business Administration",
+      "start_date": null,
+      "end_date": "1980"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "INFORMATION TECHNOLOGY SPECIALIST (INFOSEC)",
+      "start_date": "01/2012",
+      "end_date": "11/2015",
+      "description": "Interpreted scan results, implemented corrective action, and prepared reports of findings in support of the network infrastructure. Worked in coordination with Army Cyber Command and Regional Computer Emergency Response (Army Cyber and RCERT) to support Computer Networks Attacks (CNA) and Computer Network Defense (CND) efforts."
+    },
+    {
+      "company": "Company Name",
+      "title": "Chief Steward",
+      "start_date": "01/2000",
+      "end_date": "01/2012",
+      "description": "Defended the interest of the federal employees at Fort Sam Houston, TX. Assigned cases to stewards based on their skill sets. Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Prepared employee's rebuttal to grievances. Organized files, developed spreadsheets, faxed reports and scanned documents. Participated in arbitrations, mediations, and Alternate dispute resolutions."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Information Assurance Systems Security Certification"
+  }
+}

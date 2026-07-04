@@ -1,0 +1,53 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "C#",
+    "Java",
+    "VB.Net",
+    "C",
+    "C++",
+    ".Net Technologies",
+    "ASP.Net",
+    "ASP.NET MVC",
+    "ADO.Net",
+    "Entity Framework",
+    "AJAX",
+    "Web Service",
+    "LINQ",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "JQuery",
+    "Bootstrap CSS"
+  ],
+  "education": [
+    {
+      "institution": "University of Missouri",
+      "degree": "Master of Science",
+      "field_of_study": "Computer Engineering",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "Jawaharlal Nehru Technological University",
+      "degree": "Bachelor of Technology",
+      "field_of_study": "Electrical and Electronics Engineering",
+      "start_date": null,
+      "end_date": "May 2013"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Application Development Network (ADN), DoIT",
+      "title": "Database Programmer/Analyst (.NET Developer)",
+      "start_date": "Jun 2014",
+      "end_date": "Feb 2016",
+      "description": "Worked as Graduate Research Assistant performing the duties of Database Programmer/Analyst at Application Development Network (ADN), DoIT which supports University of Missouri System faculty and students through agile and rapid creation of new applications."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {}
+}

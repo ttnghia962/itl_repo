@@ -1,0 +1,64 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Windows",
+    "Unix",
+    "Linux",
+    "VMWare",
+    "Wireshark",
+    "Snort",
+    "TCPDump",
+    "EnCase",
+    "Bash Programming",
+    "configuring routers and switches",
+    "computer networking",
+    "Intrusion analysis",
+    "Firewalls"
+  ],
+  "education": [
+    {
+      "institution": "Park University",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Information and Computer Science Emphasis in Network Security",
+      "start_date": null,
+      "end_date": "2018"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Current Company Name",
+      "title": "Information Technology Specialist",
+      "start_date": "05/2009",
+      "end_date": null,
+      "description": "Provide electronic surveillance of information systems, perform digital evidence analysis (DEA), and provide technical analytical support to computer surveillance activities. Provide traffic analysis against adversary's (TTP) tactics, techniques and protocols. Configure and install routers, switches and wireless controllers. Draft training materials and organize training sessions for 6 employees."
+    },
+    {
+      "company": "Company Name",
+      "title": "Network Security Analyst",
+      "start_date": "08/2008",
+      "end_date": "05/2009",
+      "description": "Analyzed software, hardware and network systems for various transmission systems. Identified, reported and resolved network security violations."
+    },
+    {
+      "company": "Company Name",
+      "title": "Corporate Security",
+      "start_date": "11/2007",
+      "end_date": "08/2008",
+      "description": "Ensured Rackspace was in compliance with industry standards such as PCI (Payment Card Industry), HIPAA, ISO 27001, and Sarbanes-Oxley. Responded to all client requests for technical support by phone and email."
+    },
+    {
+      "company": "Company Name",
+      "title": "Network Security Analyst",
+      "start_date": "11/2003",
+      "end_date": "11/2007",
+      "description": "Identified and responded to threats against Air Force worldwide computer networks on an unclassified and classified entity (NIPR and SIPR). Provided immediate analysis and verification of network activity using Automatic Signature Identification Measurement (ASIM) and Cisco Intrusion Detection System (CIDS). Detected network intrusions and applied appropriate methods of counter activity. Analyzed trends of all network activity. Provided daily activity reports to management and headquarters."
+    }
+  ],
+  "current_role": "Information Technology Specialist",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "security_clearance": "TS/SCI"
+  }
+}

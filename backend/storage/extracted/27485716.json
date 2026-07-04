@@ -1,0 +1,106 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "A+",
+    "acquisitions",
+    "backup",
+    "budget planning",
+    "Budgeting",
+    "budgets",
+    "budget",
+    "business development",
+    "change management",
+    "conversion",
+    "decision making",
+    "delivery",
+    "direction",
+    "disaster planning",
+    "documentation",
+    "ERP",
+    "Enterprise Resource Planning",
+    "Facilities Management",
+    "Financials",
+    "focus",
+    "Forecasting",
+    "help desk",
+    "information technology",
+    "ITIL",
+    "Leadership",
+    "Team-Building",
+    "managing",
+    "materials",
+    "access",
+    "Microsoft Certified Professional",
+    "MCP",
+    "network",
+    "networks",
+    "operations management",
+    "organizational",
+    "PC systems",
+    "people skills",
+    "policies",
+    "POS",
+    "process design",
+    "Procurement",
+    "Project Management",
+    "proposal development",
+    "sales",
+    "Scheduling",
+    "SDLC",
+    "SLA",
+    "strategic",
+    "Strategic Planning",
+    "technical support",
+    "user training",
+    "training material",
+    "Upgrades",
+    "Windows server",
+    "workflow"
+  ],
+  "education": [
+    {
+      "institution": "UNIVERSITY OF PHOENIX",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computers and Information Technology",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "LAKE SUMTER COMMUNITY COLLEGE",
+      "degree": "Associates of Arts",
+      "field_of_study": "Finance and Business Administration",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Corporate Project Manager",
+      "start_date": "01/2014",
+      "end_date": "01/2016",
+      "description": "Manage direct reports supporting multiple locations with annual revenues of $2M. Accountable for the strategic direction, implementation, support, and development of all business applications, Enterprise Resource Planning (ERP), Facilities Management, Financials, Forecasting and Procurement."
+    },
+    {
+      "company": "Company Name",
+      "title": "Director of Information Technology and Systems",
+      "start_date": "01/2008",
+      "end_date": "01/2014",
+      "description": "Responsible for managing and executing business development activities for IT and other company business lines. Provided executive leadership over internal company-wide IT infrastructure."
+    },
+    {
+      "company": "Company Name",
+      "title": "Director of Information Technology and Systems",
+      "start_date": "01/2006",
+      "end_date": "01/2008",
+      "description": "Manage four hotels within REIT interfacing with both management and ownership to guide the hotel through day-to-day operations. Insure that the company's strategic technologies needs are the primary focus."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "ITIL Foundation Course, Microsoft Certified Professional (MCP), CompTia A+, CompTia N+"
+  }
+}

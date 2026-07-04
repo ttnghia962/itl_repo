@@ -1,0 +1,120 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Army",
+    "Cisco",
+    "counseling",
+    "customer assistance",
+    "database",
+    "documentation",
+    "Information Technology",
+    "inventory",
+    "IP",
+    "LAN",
+    "Windows 7",
+    "Network",
+    "personnel",
+    "policies",
+    "protocols",
+    "repairs",
+    "Routing",
+    "San",
+    "supervisor",
+    "test equipment",
+    "troubleshoot",
+    "WAN",
+    "SharePoint",
+    "Microsoft Excel",
+    "Project",
+    "Visio"
+  ],
+  "education": [
+    {
+      "institution": "Northwest Florida State College",
+      "degree": "Associate of Science",
+      "field_of_study": "Radiography",
+      "start_date": null,
+      "end_date": "2008"
+    },
+    {
+      "institution": "Trumbull Career and Technical Center",
+      "degree": "Certificate",
+      "field_of_study": "IT Tech Prep",
+      "start_date": null,
+      "end_date": "2001"
+    },
+    {
+      "institution": "Warren G. Harding",
+      "degree": "Diploma",
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": "2001"
+    },
+    {
+      "institution": "U.S. Army",
+      "degree": "Distinguished Graduate Certificate",
+      "field_of_study": "Information Technology (Network Communications)",
+      "start_date": null,
+      "end_date": "2009"
+    },
+    {
+      "institution": "IT Field Services Branch",
+      "degree": "Certificate",
+      "field_of_study": "IT Network and Cisco Routing",
+      "start_date": null,
+      "end_date": "2009"
+    },
+    {
+      "institution": "Microsoft",
+      "degree": "Certification",
+      "field_of_study": "Windows 7",
+      "start_date": null,
+      "end_date": "2012"
+    },
+    {
+      "institution": "Comptia",
+      "degree": "Certification",
+      "field_of_study": "Security",
+      "start_date": null,
+      "end_date": "2012"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Supervisor",
+      "start_date": "01/2011",
+      "end_date": "05/2014",
+      "description": "Supervise up to 10 personnel at one time, delegating tasks, conducting performance evaluations and providing corrective counseling as necessary. Train personnel in the set-up and proper use of IT related equipment while adhering to all policies and procedures. Responsible for the inventory of over $1 million worth of network communications equipment."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Technician",
+      "start_date": "01/2009",
+      "end_date": "01/2011",
+      "description": "Maintained communications equipment in order to effectively relay confidential and secret information. Utilized electronic test equipment to troubleshoot malfunctioning communications equipment and complete repairs as necessary."
+    },
+    {
+      "company": "Company Name",
+      "title": "Radiology Technologist",
+      "start_date": "05/2008",
+      "end_date": "09/2008",
+      "description": "Routinely performed radiological examinations in a medical clinic. Competent and experienced in the set-up and adjustment of medical devices or equipment."
+    },
+    {
+      "company": "Company Name",
+      "title": "Command Post Controller",
+      "start_date": "10/2001",
+      "end_date": "10/2005",
+      "description": "Provided command, control, communications, and information support throughout operations during peacetime, emergency, and disaster situations."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Security, Microsoft, Windows 7",
+    "awards": "Army Achievement Medal, Air Force Achievement Medal, Certificate of Achievement, Good Conduct Medal"
+  }
+}

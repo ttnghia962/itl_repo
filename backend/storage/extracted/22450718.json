@@ -1,0 +1,96 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "interpersonal",
+    "hardware",
+    "concept",
+    "content",
+    "clients",
+    "customer satisfaction",
+    "Database",
+    "debugging",
+    "desktops",
+    "direction",
+    "documentation",
+    "engineer",
+    "functional",
+    "Help Desk",
+    "human resource",
+    "J2EE",
+    "LDAP",
+    "Linux",
+    "Mainframe",
+    "memory",
+    "access",
+    "Excel",
+    "MS Office",
+    "Outlook",
+    "PowerPoint",
+    "Windows",
+    "Word",
+    "network management",
+    "network",
+    "networks",
+    "operating system",
+    "optimization",
+    "Oracle",
+    "organizational skills",
+    "policies",
+    "problem analysis",
+    "processes",
+    "real-time",
+    "research",
+    "self-starter",
+    "servers",
+    "spreadsheet",
+    "system integration",
+    "Team player",
+    "technical support",
+    "troubleshoot",
+    "troubleshooting",
+    "UNIX",
+    "validation",
+    "video",
+    "web applications"
+  ],
+  "education": [
+    {
+      "institution": "Prairie View A&M University",
+      "degree": "Bachelors of Science",
+      "field_of_study": "Computer Engineering Technology",
+      "start_date": null,
+      "end_date": "Spring 2008"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist",
+      "start_date": "Sep 2013",
+      "end_date": "Dec 2015",
+      "description": "Automated repeatable tasks where possible to increase efficiency. Consistently received a 100% rate of customer satisfaction. Performed root cause analysis to identify system errors and improve accuracy by 15%. Awarded with the Tech of the quarter for contributions to mission."
+    },
+    {
+      "company": "Company Name",
+      "title": "Systems Engineer",
+      "start_date": "May 2010",
+      "end_date": "Sep 2013",
+      "description": "Obtained all mission related certification required for the application services provider, within the 24x7 technical support tier. Trained current and new team members on existing and new application services procedure and Commercial off the Shelf (COTS) software."
+    },
+    {
+      "company": "Company Name",
+      "title": "Systems Engineer Associate",
+      "start_date": "Feb 2009",
+      "end_date": "May 2010",
+      "description": "Coordinated all NEAS weekly brown-bag seminar for the VA-95 Technical Resource Center. Formatted and delivered training specific to the intended party and purpose for company standards."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "CompTIA Security + CE SY0-401",
+    "security_clearance": "Active TS/SCI w Poly (last update, 05/2010)"
+  }
+}

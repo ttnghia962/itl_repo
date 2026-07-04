@@ -1,0 +1,89 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Executive and Legal Support",
+    "Business Analysis",
+    "Strong Communication Skills",
+    "Business Operations",
+    "Detail oriented",
+    "Documentation and Time Management",
+    "Information Technology and Technical Support",
+    "Leadership",
+    "Legal Terminology",
+    "Managerial Experience",
+    "Meeting Organizational Skills",
+    "Advanced Problem-solving Skills",
+    "Paralegal",
+    "Performance appraisals",
+    "Personnel",
+    "Presentations",
+    "Processes",
+    "Procurement",
+    "Project Management",
+    "LR&W",
+    "Westlaw",
+    "LexisNexis"
+  ],
+  "education": [
+    {
+      "institution": "College of Lake County",
+      "degree": "CFTC - Computer Forensics Technician Certification",
+      "field_of_study": "Computer Forensics",
+      "start_date": null,
+      "end_date": "2014"
+    },
+    {
+      "institution": "College of Lake County",
+      "degree": "CFAC - Computer Forensics Analyst Certification",
+      "field_of_study": "Computer Forensics",
+      "start_date": null,
+      "end_date": "2014"
+    },
+    {
+      "institution": "College of Lake County",
+      "degree": "Certificate of Completion, Paralegal Studies",
+      "field_of_study": "Legal",
+      "start_date": null,
+      "end_date": "2013"
+    },
+    {
+      "institution": "Strayer University",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Information Systems, Emphasis in InfoSec",
+      "start_date": null,
+      "end_date": "2008"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Coordinator",
+      "start_date": "01/2014",
+      "end_date": null,
+      "description": "Worked across all levels of the organization to support the Corporate Information Officer (CIO) and the Senior Leadership Team. Enable the CIO and Senior Leadership Team to effectively and efficiently execute their duties by continuously managing, maintaining appointment calendars, and documentation of forecasted project plans/milestones, communications derived from their initiatives, commitments, and ongoing management functions."
+    },
+    {
+      "company": "Company Name",
+      "title": "Executive Assistant, Contractor",
+      "start_date": "01/2013",
+      "end_date": "09/2013",
+      "description": "Key executive support person in the management, coordination, and implementation of the operations of the Quality department; responsible for interacting on behalf of several Vice Presidents with all elements of the department and to foster productive relationships among key executives."
+    },
+    {
+      "company": "Company Name",
+      "title": "Legal Administrative Supervisor",
+      "start_date": "10/2006",
+      "end_date": "07/2012",
+      "description": "Coordinated the support function in the Law School Division, Chicago Office. Supervised temporary staff, performed administrative personnel related activities, monitored workflow, supervised and oriented new employees, and ensured efficiency of work processes."
+    }
+  ],
+  "current_role": "Information Technology Coordinator",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "CFTC, CFAC, Encase and FTK Certification Candidate",
+    "professional_affiliations": "Illinois Paralegal Association, National Federation of Paralegal Association, Cook County Bar Association, Lake County Bar Association",
+    "training": "Cisco Studies, Training for Cisco; CCNA, CCNA-Security, CCNA-Voice"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Christopher Townes",
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Routers",
+    "Excellent Interpersonal Skills",
+    "Staff Management",
+    "End-User Support",
+    "Hardware Troubleshooting",
+    "Repair",
+    "Network Administration",
+    "Advanced Computer Proficiency",
+    "Cisco Industry Needs Awareness",
+    "Help Desk Support",
+    "Contract Review Proficiency",
+    "Cisco Switching",
+    "Company Policy Adherence",
+    "Cisco Routers",
+    "Device Configuration",
+    "Hardware Installations",
+    "Hardware and Software Installation",
+    "Learning Strategies",
+    "Technical Support",
+    "Software Updates",
+    "Hardware Updates",
+    "Problem Diagnosis",
+    "System Testing",
+    "Software Security Protocols",
+    "Operation Monitoring",
+    "Security Oversight",
+    "Problem-Solving Skills",
+    "Speaking"
+  ],
+  "education": [
+    {
+      "institution": "University Of Advancing Technology",
+      "degree": "Some College (No Degree)",
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist",
+      "start_date": "Feb 2015",
+      "end_date": "Feb 2021",
+      "description": "Created new accounts, reset passwords and configured access to servers and file management software for users. Researched issues on various computer systems and databases to determine resolutions to problems and answer inquiries. Maintained records, logs and lifecycle documentation of work requests. Mentored other technologists and support professionals to provide professional development and skill enhancement. Increased overall company performance through improved IT uptime and cost reductions. Coordinated ongoing performance assurance for software applications and automated performance test scripts. Reviewed support cases for technical and troubleshooting accuracy and identified needed process improvements. Tested performance, functionality and security of network systems, individual workstations and peripheral devices. Devised automation, backup and recovery protocols to preserve and safeguard data. Maintained and controlled server room, wireless network, and server infrastructure. Led working groups to develop mitigation strategies and prepare standard operating procedures. Assessed customer bug reports and enhancement requests and prioritized development to streamline response. Provided on-site technical support after project implementation and recommended product changes and upgrades to product managers. Implemented unit and integration testing protocols to consistently deliver high quality, functional features with minimal defects. Authored and distributed training manuals for handheld computers and devices used by staff. Provided onsite IT and AV technical support for 4000 staff members. Developed online documentation for common processes for both support staff and end-users. Kept hardware and software systems current with latest patches and current licenses. Directed account management and customer training on company technical software and tools for new accounts and new users."
+    },
+    {
+      "company": "Company Name",
+      "title": "Computer Repair Technician",
+      "start_date": "Jun 2016",
+      "end_date": "Feb 2017",
+      "description": "Checked in computers and performed diagnostics for repair. Updated or installed software for customers to ensure computer efficiency. Backed up data each evening, helping alleviate lost information following malware incident. Identified hardware issues caused by component failures using approved diagnostic tools. Upgraded laptops/desktops, improving speed and performance. Supported employees with advanced troubleshooting on helpdesk tickets. Built and repaired Lenovo computers according to schedule. Configured computers to network drivers and connected to printers and other peripheral equipment. Installed appropriate security patches to eliminate security vulnerabilities. Updated software versions with patches and new installations to close security loopholes and protect users. Consulted via telephone to understand user problems, run through testing scripts and ask probing questions to locate root causes. Explained technology-related details in easy-to-understand terms to individuals from all walks of life and in various job positions. Reviewed current hardware and software configurations and recommended modifications to increase system speed. Removed malware and viruses from laptops and desktop systems using specialized software. Observed system functioning and entered commands to test different areas of operations. Disassembled computer systems to troubleshoot and resolve hardware issues."
+    },
+    {
+      "company": "Company Name",
+      "title": "Correctional Officer",
+      "start_date": "Mar 2014",
+      "end_date": "Dec 2014",
+      "description": "Detected potential threats and quickly defused conflicts. Conducted internal security checks to ascertain inmate safety. Maintained clear and open communications with all facility areas to support efficient and safe operations. Supervised inmates during day-to-day activities. Maintained correct physical head count at all times. Informed inmates and visitors of rules, safety and security procedures and responsibilities. Observed and directed inmates during recreation, visits, telephone and shower time. Employed de-escalation techniques, verbal commands and physical and mechanical restraints to address unruly inmates. Transported inmates to and from personal appointments, including medical and dental appointments, funerals, work details and court hearings. Maintained records and logs of man hours, materials and equipment used. Monitored daily activities to identify and manage suspicious behavior, improper conduct and signs of conflict. Promoted rehabilitation of offenders and maintained safety of staff and residents. Received property from incoming inmates, provided receipts and inspected items for contraband. Supervised activities of adolescents in residential setting. Monitored inmate behavior to prevent crime, escape attempts and other dangerous activities. Instructed inmates on work detail and oversaw work-site transportation. Maintained appropriate control, security and well-being over those detained. Maintained communications with staff and inmate body to maintain safe, effective prison environment. Applied non-violent response tools and physical restraint during problematic situations. Inspected cells and conducted random searches of common areas. Assisted in restraining violent and unruly inmates. Maintained daily logs of shift activity. Transported inmates to and from work sites with optimal security procedures."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {}
+}

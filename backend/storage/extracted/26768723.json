@@ -1,0 +1,83 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Active Directory",
+    "AD",
+    "asset management",
+    "automate",
+    "hardware",
+    "CSS",
+    "documentation",
+    "hard drives",
+    "Linux",
+    "Mac OS",
+    "Macintosh OS",
+    "director",
+    "meetings",
+    "Microsoft Office",
+    "Windows 7",
+    "Microsoft Windows",
+    "Windows",
+    "Windows XP",
+    "network and support",
+    "Network & Support",
+    "network",
+    "networking",
+    "operating systems",
+    "organizational",
+    "processes",
+    "programming",
+    "research",
+    "scheduling",
+    "supervision",
+    "phone",
+    "test equipment",
+    "troubleshooting",
+    "tutoring",
+    "Vista"
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Information Science & Technology",
+      "start_date": null,
+      "end_date": "12-2014"
+    },
+    {
+      "institution": "Waukesha County Technical College",
+      "degree": "AAS",
+      "field_of_study": "IT-Computer Support Specialist",
+      "start_date": null,
+      "end_date": "12-2011"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Support & Network Services Intern",
+      "start_date": "September 2014",
+      "end_date": "December 2014",
+      "description": "Customized and implemented Microsoft SCSM from SCCM in order to automate departmental organizational needs. Facilitated proper asset management and user onboarding processes tailored to the Student Affairs department. Worked with Network & Support Services team to learn more about the general campus and supported users."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Lead Intern",
+      "start_date": "June 2012",
+      "end_date": "June 2013",
+      "description": "Worked with director on minimizing Windows XP machines and migrated to Windows 7 based on Spiceworks solution. Contacted Central IT when appropriate with regards to diagnosing distance education connections and supporting equipment."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Student Center Intern",
+      "start_date": "September 2011",
+      "end_date": "December 2011",
+      "description": "Resolved student center questions and arranged peer-to-peer tutoring/assistance with specific students in CSS program. Prepared and delivered a Microsoft Office training session, training videos for the general public in a workforce environment."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {}
+}

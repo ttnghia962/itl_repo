@@ -1,0 +1,101 @@
+{
+  "name": "Not specified",
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Accounting",
+    "administrative",
+    "agency",
+    "Basic Programming",
+    "Bookkeeping",
+    "Business Communication",
+    "hardware",
+    "Finance",
+    "fundraising",
+    "help desk support",
+    "help desk",
+    "IBM",
+    "IBM Software",
+    "inventory",
+    "letters",
+    "Lotus 2.1",
+    "Macros",
+    "Marketing",
+    "mail",
+    "Office",
+    "MS-DOS",
+    "Network",
+    "networking",
+    "Novell Netware",
+    "Novell Netware 4.11",
+    "page",
+    "Programming",
+    "express",
+    "Shorthand",
+    "technical training",
+    "telephone",
+    "troubleshooting",
+    "Typing",
+    "Word Processing",
+    "WordPerfect 5.1",
+    "written"
+  ],
+  "education": [
+    {
+      "institution": "Shippensburg University of Pennsylvania",
+      "degree": "B.S.B.A",
+      "field_of_study": "Business Administration/Office Administration",
+      "start_date": null,
+      "end_date": "12 1993"
+    },
+    {
+      "institution": "Harrisburg Area Community College",
+      "degree": "A.A",
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": "5 1991"
+    },
+    {
+      "institution": "East Pennsboro Area High School",
+      "degree": null,
+      "field_of_study": "Academics/Business",
+      "start_date": null,
+      "end_date": "1 1988"
+    },
+    {
+      "institution": "KnowledgeSoft, Inc.",
+      "degree": null,
+      "field_of_study": null,
+      "start_date": "3/1997",
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Production Associate",
+      "start_date": "03/2006",
+      "end_date": "Current",
+      "description": null
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Technician",
+      "start_date": "01/2000",
+      "end_date": "10/2002",
+      "description": "Provided computer help desk support via telephone communications with end-users. Performed diagnostics and troubleshooting of system issues, documented help desk tickets/resolutions, and maintained equipment inventory lists."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Technician",
+      "start_date": "02/1996",
+      "end_date": "01/2000",
+      "description": "Provided computer help desk support and technical training on hardware/software to end users. Documented help desk tickets/resolutions, and provided overall assistance in daily administration of a Novell Netware 4.11 Network. Performed set-up, break-down, and transport of agency equipment on an as-needed basis."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "NTSA defensive driving certification"
+  }
+}

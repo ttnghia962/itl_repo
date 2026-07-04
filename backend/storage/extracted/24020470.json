@@ -1,0 +1,95 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Salesforce.com",
+    "TapScan",
+    "Joomla",
+    "WordPress",
+    "Photoshop",
+    "Illustrator",
+    "Hardware repair",
+    "Diagnostic skills",
+    "Desktop Support"
+  ],
+  "education": [
+    {
+      "institution": "Ashworth College",
+      "degree": "Residential Energy Auditor",
+      "field_of_study": "Energy Management and Systems Technology/Technician",
+      "start_date": null,
+      "end_date": "2014"
+    },
+    {
+      "institution": "Ashworth College",
+      "degree": "Undergraduate Certificate",
+      "field_of_study": "Computer Information Management",
+      "start_date": null,
+      "end_date": "2010"
+    },
+    {
+      "institution": "SUNY Orange",
+      "degree": "Associate of Arts and Sciences (A.A.S)",
+      "field_of_study": "Business Administration, Management and Operations",
+      "start_date": null,
+      "end_date": "2009"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist",
+      "start_date": "02/2012",
+      "end_date": "Current",
+      "description": "Service and maintain numerous makes, models and types of equipment, including client servers, workstations, laptops and peripherals."
+    },
+    {
+      "company": "Company Name",
+      "title": "IT Systems Administrator",
+      "start_date": "09/2008",
+      "end_date": "05/2012",
+      "description": "Responsible for all maintenance on 55 Windows variant based workstations, Dell Precision server, IBM xSeries Blade server, the telephony/VOIP/POTS systems, T1/network troubleshooting in a multi-building environment as well as providing end user assistance and training to sales, service and management teams."
+    },
+    {
+      "company": "Company Name",
+      "title": "Field Service Technician II",
+      "start_date": "12/2009",
+      "end_date": "10/2011",
+      "description": "Perform field service work on IBM servers, IBM/Lenovo desktops and IBM Point-of-Sale POS) equipment as well as repair Lexmark monochrome and color laser printers."
+    },
+    {
+      "company": "Company Name",
+      "title": "Kodak Imaging Expert / Field Marketing Specialist",
+      "start_date": "03/2006",
+      "end_date": "12/2009",
+      "description": "Responsible to engage and train sales associates and customers in large retail stores by organizing training events, presentations and role playing demonstrations."
+    },
+    {
+      "company": "Company Name",
+      "title": "Merchandising / Marketing Specialist",
+      "start_date": "10/2005",
+      "end_date": "12/2007",
+      "description": "In-Store marketing, merchandising and sales of technical hardware and services, such as Dell, Sprint, Logitech and Garmin."
+    },
+    {
+      "company": "Company Name",
+      "title": "Digital Imaging Specialist",
+      "start_date": "08/2005",
+      "end_date": "03/2006",
+      "description": "Retail sales of digital, 35mm, and DSLR cameras and accessories."
+    },
+    {
+      "company": "Company Name",
+      "title": "Business Machines Sales Associate",
+      "start_date": "09/2002",
+      "end_date": "07/2005",
+      "description": "Retail sales of computers, office supplies, electronics and related peripherals."
+    }
+  ],
+  "current_role": "Information Technology Specialist",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "CompTIA, Lexmark, Hewlett Packard, Microsoft, Fujitsu, IC³, ETA, FEMA"
+  }
+}

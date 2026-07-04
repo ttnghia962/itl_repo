@@ -1,0 +1,53 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "System administration",
+    "Windows Server 2003",
+    "Windows Server 2008",
+    "VMware",
+    "Active Directory",
+    "Microsoft Exchange 2013",
+    "Large computer networks",
+    "Linux",
+    "Mac OS",
+    "Microsoft Dynamics",
+    "Access Control Security"
+  ],
+  "education": [
+    {
+      "institution": "University of Houston",
+      "degree": "Master of Science",
+      "field_of_study": "Computer & Information Science",
+      "start_date": null,
+      "end_date": "2015"
+    },
+    {
+      "institution": "University of Maryland University College",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Management of Information Systems",
+      "start_date": null,
+      "end_date": "2011"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Manager - Information Technology and Building Automation Systems",
+      "start_date": "October 2014",
+      "end_date": "Current",
+      "description": "Led a cross-functional team of engineers, QAs and UX designers to develop features and fix product defects. Delivered detailed feature roadmaps that included action items and project targets. Leveraged in-depth understanding of end-to-end customer experience to identify pain points and latent customer needs. Managed the 8-person local IT team, allocating resources to ongoing projects and enforcing deadlines."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Systems Technician",
+      "start_date": "July 2008",
+      "end_date": "July 2014",
+      "description": "Utilized IT expertise to support communications efforts in Operation Iraqi Freedom and Operation New Dawn, focusing on network security, Microsoft-based programs, and the installation and maintenance of affiliated hardware."
+    }
+  ],
+  "current_role": "Manager - Information Technology and Building Automation Systems",
+  "domain": "Information Technology",
+  "extra_fields": {}
+}

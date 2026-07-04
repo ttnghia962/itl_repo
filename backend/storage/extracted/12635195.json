@@ -1,0 +1,64 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Google suite",
+    "Microsoft suite",
+    "Project management",
+    "Educational technology"
+  ],
+  "education": [
+    {
+      "institution": "Murray State University",
+      "degree": "Master of Science",
+      "field_of_study": "Computer Information Systems",
+      "start_date": null,
+      "end_date": "2015"
+    },
+    {
+      "institution": "Murray State University",
+      "degree": "Master of Arts",
+      "field_of_study": "Education",
+      "start_date": null,
+      "end_date": "2013"
+    },
+    {
+      "institution": "Murray State University",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Education",
+      "start_date": null,
+      "end_date": "2011"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Adjunct Information Technology Instructor",
+      "start_date": "01/2014",
+      "end_date": "Current",
+      "description": "Taught courses concerning the Python, Visual Basic, and C# programming languages. Sat on CIT advisory board committee to improve and recruit students to the KCTCS CIT program."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Instructor and School Technology Coordinator",
+      "start_date": "11/2011",
+      "end_date": "Current",
+      "description": "Responsible for meeting the educational needs of high school students. Instructed classes concerning A+ certification, Cisco certification, web design, programming, game design, and help desk. Taught programming courses concerning C#, Python, Java, and Javascript programming language, as well as taught various web frameworks. STC support staff for CTE Unit to meet staff's technological needs including LMS support, teacher technology training, and maintaining school website. Developed mobile applications with student body to meet district needs. Supervisor of internally ran Help Desk, support ticket maintenance, and department head of technology troubleshooting for staff."
+    },
+    {
+      "company": "Company Name",
+      "title": "Geek Squad Agent",
+      "start_date": "04/2007",
+      "end_date": "09/2010",
+      "description": "Set up, tested and configured networks, desktops, laptops and printers. Coordinated hardware and software repair processes with outside vendors. Trained new employees in effective diagnostic and repair procedures. Analyzed software, hardware and network systems for various transmission systems. Configured and installed routers, switches and wireless controllers."
+    }
+  ],
+  "current_role": "Adjunct Information Technology Instructor",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Comptia - Strata IT Fundamentals, Microsoft Technology Associate - Network Fundamentals, Microsoft Technology Associate - Windows O.S. Fundamentals, Microsoft Technology Associate - Software Development, Microsoft Technology Associate - Web Development",
+    "awards": "Kentucky Colonel Award, Cum Laude - Murray State University May 2011",
+    "volunteer_work": "HCHS Curriculum Committee - Vice Chair"
+  }
+}

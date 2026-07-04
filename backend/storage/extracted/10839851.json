@@ -1,0 +1,51 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Desktops",
+    "Ethernet cables",
+    "Cisco routers",
+    "Video & Sound Cards",
+    "CD-ROM Drives",
+    "Multiplexors",
+    "Scanners",
+    "Monitors",
+    "Switches",
+    "TCP/IP Configuration",
+    "Active Directory",
+    "Avaya",
+    "Microsoft Office",
+    "Remedy",
+    "ITSM"
+  ],
+  "education": [],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist",
+      "start_date": "02/2018",
+      "end_date": "Current",
+      "description": "Defines scope, plans and deliverables for assigned projects. Coordinates and collaborates with others in analyzing collected requirements to ensure plans and identified solutions meet customer needs and expectations."
+    },
+    {
+      "company": "Company Name",
+      "title": null,
+      "start_date": "06/2016",
+      "end_date": "01/2018",
+      "description": "Protected U.S. diplomats while visiting foreign dignitaries for diplomatic missions. Maintained security awareness in a federal environment."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Interpreter",
+      "start_date": "08/2010",
+      "end_date": "03/2016",
+      "description": "Assisted United States military in training foreign nationals on information technology. Diagnosed computer errors and provided technical support."
+    }
+  ],
+  "current_role": "Information Technology Specialist",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "languages": "Dari, Dutch, Russian"
+  }
+}

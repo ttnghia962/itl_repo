@@ -1,0 +1,98 @@
+{
+  "name": "Zeel Patel",
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Microsoft Office Suite",
+    "Office 365",
+    "Dynamics 365",
+    "Project",
+    "PowerApps",
+    "PowerBI",
+    "Flow",
+    "Sharepoint",
+    "Excel",
+    "Access",
+    "Intune",
+    "Visio",
+    "EMS",
+    "Azure",
+    "SQL",
+    "SSRS",
+    "SSIS",
+    "SSAS",
+    "VBA",
+    "DAX",
+    "HTML",
+    "CSS",
+    "VB.NET",
+    "R",
+    "Powershell",
+    "Python",
+    "Oracle",
+    "Cisco",
+    "Automation Anywhere",
+    "Active Directory",
+    "AWS",
+    "VMWare",
+    "Hyper-V",
+    "RDP",
+    "iOS",
+    "Android",
+    "Windows",
+    "Red Hat Linux",
+    "RF devices"
+  ],
+  "education": [
+    {
+      "institution": "Rowan College",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Management of Information Systems",
+      "start_date": null,
+      "end_date": "2017"
+    },
+    {
+      "institution": "Rowan College",
+      "degree": "Associates of Science",
+      "field_of_study": "Accounting",
+      "start_date": null,
+      "end_date": "2015"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Master Data Manager",
+      "start_date": "01/2019",
+      "end_date": "Current",
+      "description": "Aligning 100+ supply chain-related master data attributes to ensure the following guidelines are met: Data Stewardship, Data Quality, Data Integrity/Data Warehousing, Reporting, and Data Governance Committee."
+    },
+    {
+      "company": "Company Name",
+      "title": "Director of Information Technology",
+      "start_date": "01/2017",
+      "end_date": "01/2019",
+      "description": "Supply Chain Management - Warehouse, 3PL, Food Services, Served as the corporate Project Manager, overseeing all implementations (WMS, ERP, QMS, CMMS, infrastructure)."
+    },
+    {
+      "company": "NatJan Solutions",
+      "title": "Information Technology and Analytics Manager",
+      "start_date": "01/2014",
+      "end_date": "01/2017",
+      "description": "Implemented process within external ERP portal to monetize 1000's of vendors to generate lean revenue based on financial and operational data analysis."
+    },
+    {
+      "company": "HGF",
+      "title": "Co-Founder",
+      "start_date": "01/2015",
+      "end_date": "01/2017",
+      "description": "Co-Founded indoor, hydroponic farming company in South Jersey. Bringing a hyper-local product to the Camden and Philadelphia region HGF generated $100K in its first year via a strategic relationship with the premier food management service in Philadelphia, local restaurants, farmer's markets, and Whole Foods retail chain."
+    }
+  ],
+  "current_role": "Master Data Manager",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Pursuing Project Management Professional (PMP) certification",
+    "summary": "Zeel Patel is an Information Technology Manager with a focus on IT transformation and process improvement currently looking for opportunities in the greater Miami, FL metropolitan area."
+  }
+}

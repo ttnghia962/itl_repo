@@ -1,0 +1,83 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Windows 2000",
+    "Windows 2003 Server",
+    "Windows XP",
+    "Win 3.11/95/98",
+    "Dos 6.22",
+    "Citrix ICA",
+    "MS Exchange 2000",
+    "HP",
+    "IBM",
+    "Dell",
+    "Intel Based Server and Desktop Platforms",
+    "Cisco 2500 Switches",
+    "Sonic Wall Hardware VPNs",
+    "HP Laser Jets",
+    "Toshiba E-310 Color Copier",
+    "Toshiba and Sony Laptops",
+    "Inter-tel",
+    "MS Office",
+    "Visio",
+    "Citrix Metaframe XP",
+    "Symantec",
+    "PC Anywhere",
+    "Ghost",
+    "Antivirus",
+    "Utilities",
+    "Win fax",
+    "McAfee Virus Scan",
+    "Adobe",
+    "Acrobat",
+    "Illustrator",
+    "Photoshop",
+    "Partition Magic",
+    "Adware",
+    "Spyware",
+    "TCP/IP",
+    "Wireless 802.11 a/b/g",
+    "DNS",
+    "WINS",
+    "DHCP"
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland University College",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Management Information Systems",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Wilkes & McHugh",
+      "title": "Information Technology Manager / Network Engineer",
+      "start_date": "Feb 2006",
+      "end_date": "Current",
+      "description": "Responsible for all day-to-day operations and functions of Wilkes & McHugh's six offices and 300 staff members. Lead a team of 6 IT professionals and Developers in the planning, upgrades, and implementation of IT systems, business applications, and development of new software tools."
+    },
+    {
+      "company": "Company Name",
+      "title": "Network Engineer",
+      "start_date": "Sep 2003",
+      "end_date": "Jan 2006",
+      "description": "Administered and managed a Windows 2003 server network environment. Responsible for all LAN and WAN duties of local and remote Networks."
+    },
+    {
+      "company": "Company Name",
+      "title": "Network Support Technician",
+      "start_date": "Jan 2003",
+      "end_date": "Aug 2003",
+      "description": "Provided network and desktop support to over 800 users. Provided technical support to all offices of the S.B.A."
+    }
+  ],
+  "current_role": "Information Technology Manager / Network Engineer",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Microsoft Certified Technology Specialist 2008 (MCTS 2008), Citrix Certified Administrator (CCA), Information Systems Management Certificate, Project Management Certificate"
+  }
+}

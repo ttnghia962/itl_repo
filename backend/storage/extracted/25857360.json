@@ -1,0 +1,102 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "75 WPM typing speed",
+    "Advanced clerical knowledge",
+    "Excellent communication skills",
+    "HIPAA compliance",
+    "Articulate and well-spoken",
+    "Accurate and detailed",
+    "Works well under pressure",
+    "accounting",
+    "audio",
+    "Backup",
+    "billing",
+    "conferences",
+    "content",
+    "customer service experience",
+    "customer service",
+    "data Entry",
+    "directing",
+    "electronics",
+    "fax",
+    "filing",
+    "Information Technology",
+    "inventory",
+    "law",
+    "LEGAL",
+    "Lotus Notes",
+    "managing",
+    "materials",
+    "meetings",
+    "Excel",
+    "Exchange",
+    "mail",
+    "Office",
+    "Microsoft Word",
+    "multi-line telephone",
+    "multi-tasking",
+    "organizing",
+    "copier",
+    "procurement",
+    "receptionist",
+    "reception",
+    "scheduling",
+    "supervisor",
+    "telephone",
+    "70 wpm"
+  ],
+  "education": [
+    {
+      "institution": "Southwest Virginia Community College",
+      "degree": "Associate of Arts : General Studies",
+      "field_of_study": "General Studies",
+      "start_date": null,
+      "end_date": "2000"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "STAFF ASSISTANT",
+      "start_date": "08/2007",
+      "end_date": "Current",
+      "description": "Providing support to Richard Biever, CISO and his staff. Primary duties include calendaring and scheduling responsibilities, telephone screening/triage, preparing materials and making arrangements for conferences and travel."
+    },
+    {
+      "company": "Company Name",
+      "title": "RECEPTIONIST",
+      "start_date": "09/2006",
+      "end_date": "08/2007",
+      "description": "Answering and directing incoming calls, disbursing parking passes and visitor's badges, greeting visitors, accepting and disbursing incoming packages, leave tracking, maintaining telephone directory, and providing support to Staff Assistants."
+    },
+    {
+      "company": null,
+      "title": "DEPUTY CLERK",
+      "start_date": null,
+      "end_date": null,
+      "description": "Ordered and distributed office supplies while adhering to a fixed office budget. Managed office supplies, vendors, organization and upkeep. Directed guests and routed deliveries and courier services."
+    },
+    {
+      "company": "Company Name",
+      "title": "Legal Secretary",
+      "start_date": "01/2000",
+      "end_date": "01/2003",
+      "description": "Preparation of court motions and orders, customer service, billing /accounting and extensive communications with the courts and other law offices."
+    },
+    {
+      "company": "Company Name",
+      "title": "Deputy Clerk",
+      "start_date": "2003",
+      "end_date": "2006",
+      "description": "Responsible for the filing, preparation and maintenance of court files. Completing and filing Warrant in Debts, completing and filing Garnishments, collecting court fines and costs, data Entry and court room support to the Judge."
+    }
+  ],
+  "current_role": "STAFF ASSISTANT",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "typing_speed": "75 WPM"
+  }
+}

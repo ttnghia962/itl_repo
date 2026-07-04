@@ -1,0 +1,138 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "ADABAS",
+    "AIX",
+    "analyst",
+    "Application Development",
+    "Budgeting",
+    "business solution",
+    "CISCO",
+    "Coaching",
+    "Databases",
+    "Database",
+    "direction",
+    "documentation",
+    "edge",
+    "English",
+    "Forecasting",
+    "Frame Relay",
+    "IBM",
+    "DB2",
+    "information technology",
+    "innovation",
+    "leadership",
+    "Linux",
+    "Mentoring",
+    "Exchange",
+    "Office",
+    "SharePoint",
+    "Microsoft Windows",
+    "Enterprise",
+    "network",
+    "Networking",
+    "Networks",
+    "Operating Systems",
+    "OS",
+    "ORACLE",
+    "Performance management",
+    "personnel",
+    "PhD",
+    "PR",
+    "Process Improvement",
+    "Programming",
+    "Project Management",
+    "Rehabilitation",
+    "Relational Databases",
+    "SCADA",
+    "Supervisory Control and Data Acquisition",
+    "Servers",
+    "software development",
+    "Spanish",
+    "SQL",
+    "Staff Supervision",
+    "supervision",
+    "System Analysis and Design",
+    "Technical Management",
+    "Telecommunications",
+    "Tivoli",
+    "Track-It",
+    "Visio",
+    "water treatment"
+  ],
+  "education": [
+    {
+      "institution": "Capella University",
+      "degree": "Ph.D.",
+      "field_of_study": "Organization and Management",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "Inter American University",
+      "degree": null,
+      "field_of_study": "Educational Computing",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "University of Puerto Rico",
+      "degree": "BSBA",
+      "field_of_study": "Finance & Computers",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Information Technology Bureau",
+      "title": "Deputy Director",
+      "start_date": "January 2010",
+      "end_date": "Current",
+      "description": "Oversee and lead the Infrastructure & Operations IT Service, 24x7. This includes the supervision of four divisions: (1) Programming & Applications; (2) Networking & Communications; (3) Desktop Services & Support; and (4) Operating Systems & Database. Performance management and KPIs."
+    },
+    {
+      "company": null,
+      "title": "Information Technology Director",
+      "start_date": "October 2009",
+      "end_date": "January 2010",
+      "description": "Provided technical leadership to a data center and technical supervision of analysts, programmers, database administrators, and network as well as the support personnel."
+    },
+    {
+      "company": null,
+      "title": "Senior IT Project Manager",
+      "start_date": "July 2004",
+      "end_date": "August 2009",
+      "description": "Delivered technical direction for a multimillion dollar Monitoring and Controlling System."
+    },
+    {
+      "company": null,
+      "title": "IT Business Consultant",
+      "start_date": "January 2003",
+      "end_date": "June 2004",
+      "description": "Assist in computer network & voice integrator in over 11 Medical Center locations. Consulted for individuals and organizations in information technology business solution."
+    },
+    {
+      "company": null,
+      "title": "Professor",
+      "start_date": "January 2003",
+      "end_date": "June 2003",
+      "description": "Taught courses in (1) Optical Networking; (2) System Analysis and Design."
+    },
+    {
+      "company": null,
+      "title": "Professor",
+      "start_date": "September 1999",
+      "end_date": "August 2003",
+      "description": "Taught graduate courses in (1) Data Communication, Networks and Distributed Processing; (2) Computer Concepts and Programming Tools; (3) Relational Databases."
+    }
+  ],
+  "current_role": "Information Technology Bureau Deputy Director",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "languages": "English, Spanish",
+    "awards": "Computerworld Honors Award Laureate Medal, Chamber of Representatives of Puerto Rico-Achievement Award, AITP Distinguished Information Science Award in the Government Sector"
+  }
+}

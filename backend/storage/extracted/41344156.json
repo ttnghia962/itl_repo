@@ -1,0 +1,110 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "ASP.Net 4.5",
+    "ASP.Net",
+    "VB.NET",
+    "Active Directory",
+    "Backup",
+    "Budget",
+    "Contract negotiation",
+    "CRM",
+    "Data Analysis",
+    "Data Processing",
+    "Databases",
+    "Disaster Recovery",
+    "ETL",
+    "EDI",
+    "ITIL",
+    "Training",
+    "Executive Management",
+    "Senior Management",
+    "GoldMine",
+    "Information Security",
+    "HealthCare IT",
+    "IT support",
+    "Leadership",
+    "Marketing",
+    "Network analysis",
+    "Performance reviews",
+    "VoIP",
+    "Presentations",
+    "Process Enhancement",
+    "Product Development",
+    "Servers",
+    "SQL",
+    "SQL Server",
+    "Strategy",
+    "Desktop support",
+    "Visual Studio",
+    "Workflow"
+  ],
+  "education": [
+    {
+      "institution": "Park University",
+      "degree": "Bachelor of Science : Management",
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": "2007"
+    },
+    {
+      "institution": "Park University",
+      "degree": "Information Systems",
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": "2014"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "VP of Information Technology",
+      "start_date": "07/2014",
+      "end_date": "03/2017",
+      "description": "Hired to transform the IT department, which was successful within the first few months. Developed an IT strategy designed to increase sales and business process efficiency, and lower costs and company risk. Built and managed a highly effective team of employees, vendors, and service providers."
+    },
+    {
+      "company": "Company Name",
+      "title": "VP of Information and Security Technology",
+      "start_date": "02/2009",
+      "end_date": "05/2014",
+      "description": "Lead all IT operations, including purchasing, budget and structure. Conduct performance reviews and record results. Prepare and deliver reports and presentations on IT issues for CEO and VP of Sales on Demand."
+    },
+    {
+      "company": "Company Name",
+      "title": "Director of Information Technology",
+      "start_date": "02/2006",
+      "end_date": "02/2009",
+      "description": "Managed all information security to follow HIPAA Compliance guidelines. Advise the CEO and other executives on advanced technology solutions. Began serving on the Executive Management Team."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Manager",
+      "start_date": "02/2003",
+      "end_date": "02/2006",
+      "description": "Continued to improve and expand the Commissions Tracking Application. Gained expertise in the companies CRM and digitally integrated the Commissions Tracking System with the CRM."
+    },
+    {
+      "company": "Company Name",
+      "title": "Application Developer",
+      "start_date": "08/2002",
+      "end_date": "02/2003",
+      "description": "Spearheaded major, year-long initiative to plan, design, build, and implement an ETL commission database system utilizing SQL databases and ASP.Net, including data analysis reporting that recovered more than $2.5M in 'lost' commissions."
+    },
+    {
+      "company": "Company Name",
+      "title": "Electronics Technician",
+      "start_date": "07/1997",
+      "end_date": "07/2001",
+      "description": "Deployed and maintained CAT5 and fiber optic cable. Directed and trained subordinate Technicians. Configured 5 stations with CAT5 and fiber optic cable. Conducted quarterly and annual formal performance reviews for all subordinates."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "military_experience": "Electronics Technician",
+    "awards": "good conduct and sharpshooter awards"
+  }
+}

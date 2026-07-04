@@ -1,0 +1,80 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Project Management",
+    "IT",
+    "Infrastructure Technology",
+    "Strategic Planning",
+    "Financial Analysis",
+    "Cost Projections",
+    "Business Proposals",
+    "Security Clearance",
+    "DISA End-to-End Business Flow Process",
+    "Federal Data Center Consolidation Initiative",
+    "ITIL",
+    "CompTIA Security+",
+    "Microsoft Project",
+    "System Integration",
+    "Network and Internet Security Administration",
+    "Operating Systems",
+    "Virtual Machines",
+    "Network Configurations",
+    "Backup Imaging",
+    "Disaster Recovery"
+  ],
+  "education": [
+    {
+      "institution": "Shippensburg University",
+      "degree": "Master of Science",
+      "field_of_study": "Organizational Development and Leadership",
+      "start_date": null,
+      "end_date": "2015"
+    },
+    {
+      "institution": "YTI Career Technical Instituation",
+      "degree": "Associate Technical",
+      "field_of_study": "Network and Internet Security Administration",
+      "start_date": null,
+      "end_date": "2009"
+    },
+    {
+      "institution": "Millersville University",
+      "degree": "Bachelor of Arts",
+      "field_of_study": "Sociology",
+      "start_date": null,
+      "end_date": "2006"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Department of Defense",
+      "title": "Information Technology Project Manager System Analysis",
+      "start_date": "January 2010",
+      "end_date": "Current",
+      "description": "Manages IT projects, provides project management support, and serves as a subject matter expert for the Federal Data Center Consolidation Initiative."
+    },
+    {
+      "company": "Company Name",
+      "title": "Computer Technician Specialist",
+      "start_date": "August 2009",
+      "end_date": "January 2010",
+      "description": "Managed, provisioned, configured, built, and staged operational computer systems for the Navy/Marine Corps Intranet project."
+    },
+    {
+      "company": "Company Name",
+      "title": "IT Specialist STEP",
+      "start_date": "March 2008",
+      "end_date": "August 2009",
+      "description": "Reported to the Lead Supervisor of DISA Naval service desk support and managed data tape entry into storage drives."
+    }
+  ],
+  "current_role": "Information Technology Project Manager System Analysis",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "CompTIA Security+, ITIL Foundation Certification",
+    "training": "Action Officer Course, Acquisition Training 101, Aspiring Leaders, Briefing Techniques",
+    "projects": "System Integration and Delivery (SID) proposal evaluation team"
+  }
+}

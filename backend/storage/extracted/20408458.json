@@ -1,0 +1,120 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "A+",
+    "Active Directory",
+    "Apollo",
+    "ARMY",
+    "com",
+    "hardware",
+    "Data Migration",
+    "DELL",
+    "Email",
+    "Engineer",
+    "Flash",
+    "HP",
+    "IBM",
+    "Image",
+    "INTEL",
+    "Inventory",
+    "laptops",
+    "leadership",
+    "logging",
+    "meetings",
+    "MICROSOFT Software",
+    "access",
+    "MCSE",
+    "MOS",
+    "Outlook",
+    "SharePoint",
+    "Windows",
+    "migration",
+    "NDS",
+    "Network Attached Storage (NAS)",
+    "network support",
+    "network",
+    "networks",
+    "Novel",
+    "Novell",
+    "Netware",
+    "pdf",
+    "peripherals",
+    "personnel",
+    "processors",
+    "receiving",
+    "recruiting",
+    "reporting",
+    "retail",
+    "servers",
+    "scripts",
+    "Shipping",
+    "installing Software",
+    "Systems Analyst",
+    "desktop support",
+    "Troubleshoot",
+    "type",
+    "upgrade",
+    "vb"
+  ],
+  "education": [
+    {
+      "institution": "University of Phoenix",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Information Technology",
+      "start_date": null,
+      "end_date": "2011"
+    },
+    {
+      "institution": "Southern College",
+      "degree": "Associate of Arts",
+      "field_of_study": "Paralegal Network Engineering",
+      "start_date": null,
+      "end_date": "2001"
+    },
+    {
+      "institution": "Southern Technical Institute",
+      "degree": "Diploma",
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": "2002"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Support Specialist Network Specialist ~ PC Technician IT Consultant Customer Engineer",
+      "start_date": "01/2011",
+      "end_date": "Current",
+      "description": "Provided technical leadership for the design, deployment and operation of IT hardware and software. Built, implemented and sold numerous computers systems. Instrumental in the service environment of the systems using the latest processor technologies like INTEL and AMD processors. Helpdesk support experience, Systems Analyst and strong leadership in the management of IT Systems and devices."
+    },
+    {
+      "company": "Company Name",
+      "title": "Customer Engineer",
+      "start_date": "12/2009",
+      "end_date": "05/2010",
+      "description": "Prepare directory structures and applying appropriate permissions for users on the Network Attached Storage (NAS). Send email notifications to the branch mgr, asst mgr, ROM, and area mgr's in order for them to prepare for the centralization of the branch."
+    },
+    {
+      "company": "Company Name",
+      "title": null,
+      "start_date": "07/2009",
+      "end_date": "10/2009",
+      "description": "Responsible for providing technical desktop support for ATT upgrade project for 7+ ATT wireless stores."
+    },
+    {
+      "company": "Company Name",
+      "title": null,
+      "start_date": "12/2008",
+      "end_date": "05/2009",
+      "description": "Responsible for the network support of the recruiting team while at the Radisson Hotel. Lead the deployment of 300 PC and peripherals once the main building was finish."
+    }
+  ],
+  "current_role": "Information Technology Support Specialist Network Specialist ~ PC Technician IT Consultant Customer Engineer",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "MCSE, A+, NET+, and SEC+",
+    "military_service": "US ARMY, 1989-1998, MOS-12B (Combat Engineer)"
+  }
+}

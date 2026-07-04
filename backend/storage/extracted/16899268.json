@@ -1,0 +1,71 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Project management",
+    "Results-oriented",
+    "Program management",
+    "Effective multi-tasker",
+    "Process improvement",
+    "Data analysis",
+    "Requirements gathering",
+    "Team player",
+    "Team leader",
+    "Team building",
+    "Strategic planning",
+    "Extensive technology experience"
+  ],
+  "education": [
+    {
+      "institution": "Iowa State University",
+      "degree": "Graduate Certificate",
+      "field_of_study": "Family Financial Planning",
+      "start_date": null,
+      "end_date": "1998"
+    },
+    {
+      "institution": "Iowa State University",
+      "degree": "B.S",
+      "field_of_study": "Marketing",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "New Horizons",
+      "degree": "Microsoft Front Page Certified",
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": "1999"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Manager/Analyst",
+      "start_date": "07/2006",
+      "end_date": "Current",
+      "description": "Analyze the technology needs of the Graduate College, to develop short term and long term goals and to meet and implement the solutions to those needs by working with internal, external or mixed teams tech or non-tech teams."
+    },
+    {
+      "company": "Company Name",
+      "title": "Manager",
+      "start_date": "06/2003",
+      "end_date": "06/2006",
+      "description": "Assisted with the running of the Des Moines Store (Largest in district). Managed 25 employees. Trained employees to complete their position duties. Handled cash daily and reconciled accounts."
+    },
+    {
+      "company": "Company Name",
+      "title": "Web Communications Manager",
+      "start_date": "01/1999",
+      "end_date": "01/2003",
+      "description": "Developed and managed websites and web software related projects while staying within the $2 million budget of the Web Communications department."
+    }
+  ],
+  "current_role": "Information Technology Manager/Analyst",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Microsoft Front Page Certified",
+    "projects": "Rolled out the first company wide intranet for a Fortune 500 Company, Implemented entire electronic thesis/dissertation solution at Iowa State University"
+  }
+}

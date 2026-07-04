@@ -1,0 +1,97 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Enterprise Resource Planning Systems",
+    "Education Software",
+    "Accounting Systems",
+    "Learning Management Systems",
+    "Manufacturing Systems",
+    "Customer Relationship Management Systems",
+    "Enterprise BackOffice Systems",
+    "Microsoft Server",
+    "Microsoft SQL server",
+    "Microsoft Exchange",
+    "Microsoft SharePoint",
+    "Linux",
+    "Storage Area Network",
+    "Active Directory",
+    "Microsoft Terminal Services",
+    "Microsoft Remote desktop Services",
+    "Citrix",
+    "Network Devices and Monitoring Tools",
+    "Juniper switches, routers and firewalls",
+    "Netgear switches, routers and firewalls",
+    "CISCO switches, routers and firewalls",
+    "Solarwinds network monitoring tools",
+    "Sophos Unified Threat Management",
+    "IDERA SQL Management",
+    "WebSense",
+    "Virtual System",
+    "VMWare",
+    "HyperV",
+    "Cloud based phone systems",
+    "Cloud based storage and backup",
+    "Cloud Technologies",
+    "Amazon Web Services",
+    "Microsoft Azure and O365",
+    "Miscellaneous Applications and Desktop Applications",
+    "Microsoft Office suite",
+    "Sophos Anti-Virus",
+    "Sophos Mobile Device Management",
+    "DeepFreeze Desktop management"
+  ],
+  "education": [
+    {
+      "institution": "Walden University",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Business Administration",
+      "start_date": null,
+      "end_date": "2010"
+    },
+    {
+      "institution": "University of Essex",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Information and Business Systems Technology",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Weston Educational Group Inc",
+      "title": "Senior Director, Information Technology",
+      "start_date": "02/2015",
+      "end_date": "11/2016",
+      "description": "Oversaw the day to day operations of all aspects of technology. This included a student and faculty portal that needed to be support 24/7, a Student Information System (SIS) that was used to manage all aspects of the student matriculation from a lead, through financial aid to academics, student services and career services."
+    },
+    {
+      "company": "American Career College and West Coast University",
+      "title": "Senior Manager, Student Information System",
+      "start_date": "07/2009",
+      "end_date": "02/2015",
+      "description": "Oversaw the Student Information System for both brands which had a student portal, faculty portal and several integrations into other systems such as a CRM system and internal applications developed on SharePoint platform."
+    },
+    {
+      "company": "Aldreteem Inc",
+      "title": "President",
+      "start_date": "01/2005",
+      "end_date": "08/2009",
+      "description": "Accountable for the entire business including overall customer satisfaction and profitability. Created new revenue streams through by partnering with other ERP vendors that did not have our expertise to deploy solutions on Sage, SAP, Great Plains and Epicor."
+    },
+    {
+      "company": "BatchMaster Software Inc",
+      "title": "Director, Client Services",
+      "start_date": "03/2001",
+      "end_date": "12/2004",
+      "description": "Increased revenue by 60% through the creation of the client services department. The department performed implementations and support. Created the Rapid implementation process where we reduced the implementation from months to 4 weeks."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "minor": "Leadership",
+    "GPA": "3.85"
+  }
+}

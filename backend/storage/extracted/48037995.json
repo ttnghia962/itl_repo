@@ -1,0 +1,70 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Integrity and Honesty",
+    "Compassion and Courtesy",
+    "Excellent Interpersonal Skills",
+    "High Level of Analytical and Cognitive Skills",
+    "Self-Disciplined and Self-Motivated"
+  ],
+  "education": [
+    {
+      "institution": "Massachusetts College of Pharmacy and Health Science",
+      "degree": "Doctor of Pharmacy",
+      "field_of_study": "Pharmaceutics",
+      "start_date": null,
+      "end_date": "2002"
+    },
+    {
+      "institution": "University of Information Technology, Mechanics and Optics",
+      "degree": "Master of Science",
+      "field_of_study": "Hardware Engineering",
+      "start_date": null,
+      "end_date": "1992"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Staff Pharmacist",
+      "start_date": "12/2002",
+      "end_date": "04/2009",
+      "description": "Manage ancillary staff in fulfilling more than 1,500 prescriptions weekly. Consult with physicians and patients with regard to medication dosage, drug interactions, medical equipment, disease management and potential side effects of prescription and OTC medications."
+    },
+    {
+      "company": "Company Name",
+      "title": "Pharmacy Intern",
+      "start_date": "01/1998",
+      "end_date": "11/2002",
+      "description": null
+    },
+    {
+      "company": "Company Name",
+      "title": "Pharmacy technician",
+      "start_date": "12/1995",
+      "end_date": "09/1998",
+      "description": null
+    },
+    {
+      "company": "Company Name",
+      "title": "Electronics Technician",
+      "start_date": "01/1990",
+      "end_date": "11/1993",
+      "description": "Worked closely with team of engineers and technician. Maintained and troubleshoot electronic and computer based equipment."
+    },
+    {
+      "company": "Company Name",
+      "title": "Teaching Assistant/ Laboratory Supervisor",
+      "start_date": "01/1990",
+      "end_date": "04/1991",
+      "description": "Supervised and helped students during laboratory experiments. Soldered and assembled laboratory equipment."
+    }
+  ],
+  "current_role": null,
+  "domain": "Pharmacy",
+  "extra_fields": {
+    "certifications": "In good standing with the Massachusetts Board of Pharmacy"
+  }
+}

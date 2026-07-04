@@ -1,0 +1,108 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "SAP",
+    "Business Process Design",
+    "Dispersed Team Management"
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland",
+      "degree": "Master of Business Administration",
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": "2003"
+    },
+    {
+      "institution": "New Jersey Institute of Technology",
+      "degree": "Master of Science",
+      "field_of_study": "Computer Science",
+      "start_date": null,
+      "end_date": "1994"
+    },
+    {
+      "institution": "New Jersey Institute of Technology",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "start_date": null,
+      "end_date": "1990"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Head, Information Technology and Information Center",
+      "start_date": "March 2015",
+      "end_date": null,
+      "description": "Provide leadership and direction to the GMS Information Center - a collection of data scientists and analysts dedicated to the production of high-value analytics to support manufacturing."
+    },
+    {
+      "company": "Company Name",
+      "title": "Director, Supply Chain and Logistics Information Technology",
+      "start_date": "October 2010",
+      "end_date": "March 2015",
+      "description": "Established supply chain technology direction for global manufacturing organization. Established the GMS Information Center - an organization dedicated to providing advanced analytical capabilities to support the manufacturing organization."
+    },
+    {
+      "company": "Company Name",
+      "title": "Senior Director, COMET Program",
+      "start_date": "November 2009",
+      "end_date": "October 2010",
+      "description": "Responsible for managing the delivery efforts for the global COMET program, focusing on the procurement, employee expense management and eSourcing areas."
+    },
+    {
+      "company": "Company Name",
+      "title": "Director, SAP Center of Excellence",
+      "start_date": "May 2005",
+      "end_date": "November 2009",
+      "description": "Responsible for a $15MM annual budget; 75 FTEs and 30+ offshore (mix of consultants and employees); adept at remote management with domestic staff in New Jersey, Tennessee, Delaware and international staff in Europe and Singapore."
+    },
+    {
+      "company": "Company Name",
+      "title": "Director, Supply Chain Systems",
+      "start_date": "January 2002",
+      "end_date": "May 2005",
+      "description": "Led the effort to implement SAP for the US Commercial operations of Schering - Plough."
+    },
+    {
+      "company": "Company Name",
+      "title": "Manager, Commercial and Field Force Systems",
+      "start_date": "April 1998",
+      "end_date": "January 2002",
+      "description": "Led a team of developers implementing web-based solutions for support of Schering - Plough's field forces in the United States."
+    },
+    {
+      "company": "Company Name",
+      "title": "Manager, Service Delivery Systems",
+      "start_date": "April 1997",
+      "end_date": "May 1998",
+      "description": "Led the implementation of outbound call center solutions for key operations in the Ohio call center."
+    },
+    {
+      "company": "Company Name",
+      "title": "Manager, Client Services Systems",
+      "start_date": "February 1994",
+      "end_date": "April 1997",
+      "description": "Led the implementation of the Marketing and Client Services application for the front-office organization of the global bond operations."
+    },
+    {
+      "company": "Company Name",
+      "title": "Project Manager",
+      "start_date": "January 1992",
+      "end_date": "February 1994",
+      "description": "Led the implementation of a new cash management system to support the treasury operations of Prudential."
+    },
+    {
+      "company": "Company Name",
+      "title": "PC Coordinator",
+      "start_date": "January 1990",
+      "end_date": "January 1992",
+      "description": "Responsible for day-to-day support of PC hardware and software for the Prudential Help Desk."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {}
+}

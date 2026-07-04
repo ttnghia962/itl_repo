@@ -1,0 +1,63 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "SQL",
+    "Windows",
+    "Unix",
+    "Linux",
+    "Mac OSX",
+    "VMWare",
+    "HTTP/Apache",
+    "DNS/BIND",
+    "SSH",
+    "SNMP",
+    "DNS",
+    "DHCP",
+    "FTP",
+    "Microsoft Word",
+    "Excel",
+    "Access",
+    "SQL Server",
+    "VBA",
+    "Visual Studio"
+  ],
+  "education": [
+    {
+      "institution": "SAN DIEGO STATE UNIVERSITY",
+      "degree": "Bachelor of Arts",
+      "field_of_study": "English",
+      "start_date": null,
+      "end_date": "2006"
+    }
+  ],
+  "experience": [
+    {
+      "company": "INFORMATION TECHNOLOGY STUDENT",
+      "title": null,
+      "start_date": "January 2014",
+      "end_date": "Current",
+      "description": "Presented various projects including VPN, RDMS, and IT Proposals to several classes and instructors. Worked independently and as part of a team to achieve most equitable outcome."
+    },
+    {
+      "company": "FORECLOSURE PROCESSOR PARALEGAL",
+      "title": null,
+      "start_date": "September 2010",
+      "end_date": "October 2013",
+      "description": "Diligently reviewed the specialty loan portfolio for compliance with all reporting requirements. Communicated regularly with management regarding portfolio performance and new loan transaction quality."
+    },
+    {
+      "company": "TOEFL/TESL INSTRUCTOR",
+      "title": null,
+      "start_date": "February 2008",
+      "end_date": "May 2008",
+      "description": "Developed interesting course plans to meet academic, intellectual and social needs of students. Developed and implemented interesting and interactive learning mediums to increase student understanding of course materials."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "projects": "VPN, RDMS, IT Proposals"
+  }
+}

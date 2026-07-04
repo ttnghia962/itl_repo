@@ -1,0 +1,57 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Sharepoint",
+    "SAP",
+    "Cisco Telephony tools",
+    "Active Directory",
+    "Bomgar",
+    "Mobileiron",
+    "Visio",
+    "HPSM",
+    "Que Monitoring",
+    "IOS"
+  ],
+  "education": [
+    {
+      "institution": "William Woods University",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Management Information Systems",
+      "start_date": null,
+      "end_date": "May 2014"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "IT Support Technician",
+      "start_date": "12/2014",
+      "end_date": "Current",
+      "description": "Provide technical assistance and support for incoming queries and issues related to computer systems, software, and hardware. Respond to queries either in person or over the phone. Vast troubleshooting capabilities with IOS. Train computer users. Maintain daily performance of computer systems. Process an average of 15-20 inbound and outbound technical support calls daily"
+    },
+    {
+      "company": "Company Name",
+      "title": "Network Assistant Intern",
+      "start_date": "01/2014",
+      "end_date": "05/2014",
+      "description": "Assisted University network administrator with daily tasks including wireless, VDI, patchwork. Network infrastructure, hardware management, and server room operations."
+    },
+    {
+      "company": "Company Name",
+      "title": "Technology Assistant Intern",
+      "start_date": "08/2013",
+      "end_date": "05/2014",
+      "description": "Maintained 489 page University website. Managed and completed daily work orders for University Help Desk. Attended weekly administrative technology meetings relating to technology problems/solutions. Managed/deployed hardware and software to student body as well as faculty."
+    }
+  ],
+  "current_role": "IT Support Technician",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "IC3 Internet and Computing Core Certification",
+    "projects": "Website Development, Business Communications, Advanced Web, Entrepreneurship, Database Management, Project Management, MIS Capstone, Systems Analysis",
+    "activities": "Captain- 4-years of collegiate basketball, Active member of S.W.A.T. (Student Website Advancement Team), Active member of the IT Student Academic Advisory Council, Over 100 hours of community service",
+    "honors": "Trio Scholarship, LEAD Scholarship, Potential Award, JUCO All-American, Male Athlete of the Year, Academic All-Conference"
+  }
+}

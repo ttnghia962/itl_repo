@@ -1,0 +1,102 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Arabic",
+    "Back-up",
+    "budgets",
+    "hardware",
+    "client",
+    "Database",
+    "database management",
+    "designing",
+    "disaster recovery",
+    "documentation",
+    "financial",
+    "Help Desk",
+    "HP",
+    "local area network",
+    "LAN",
+    "Leadership",
+    "access",
+    "network",
+    "networks",
+    "NT servers",
+    "PC's",
+    "policies",
+    "printer",
+    "processes",
+    "Research",
+    "sql",
+    "MS SQL",
+    "desktop support",
+    "training programs",
+    "Trouble shooting",
+    "troubleshooting",
+    "Upgrades",
+    "WAN",
+    "workflow"
+  ],
+  "education": [
+    {
+      "institution": "AMERICAN MILITARY UNIVERSITY",
+      "degree": "Master of Arts",
+      "field_of_study": "National Security Studies Cyber Security",
+      "start_date": null,
+      "end_date": "2014"
+    },
+    {
+      "institution": "AIR FORCE AIR COMMAND AND STAFF COLLEGE",
+      "degree": "State Graduate Certificate",
+      "field_of_study": "Aerospace, Cyberspace and Joint Professional Education",
+      "start_date": null,
+      "end_date": "2013"
+    },
+    {
+      "institution": "MARYMOUNT UNIVERSITY",
+      "degree": "Master",
+      "field_of_study": "Science Computer Information Systems Management",
+      "start_date": null,
+      "end_date": "2007"
+    },
+    {
+      "institution": "MARYMOUNT UNIVERSITY",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Information Systems",
+      "start_date": null,
+      "end_date": "1999"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Administrator of Information Technology",
+      "title": null,
+      "start_date": "2007-01-17",
+      "end_date": null,
+      "description": "Research, implement and support new technologies in support of developing public policy implement and support of 175-person infrastructure upgrades Train technical and general staff in support processes and troubleshooting techniques Establishes system specifications by conferring with users; analyzing workflow, access, information, and security requirements; designing system infrastructure."
+    },
+    {
+      "company": "United States Senate",
+      "title": "Network Support Engineer",
+      "start_date": "2004-08-17",
+      "end_date": "2006",
+      "description": "Integrated, selected and developed procedures to support 3rd party. Provided support for software, printing, and network access issues to entire Senate community. Provided senior level support to internal Help Desk operations."
+    },
+    {
+      "company": "United States Senate",
+      "title": "Software Specialist",
+      "start_date": "2000-08-15",
+      "end_date": "2004",
+      "description": "Provides client site level 2 support of capitol Correspond database management software running on MS SQL database. Responsible for installation, configuration and support of Capitol Correspond SQL database."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Certified Cyber Intelligence Professional (CCIP), CompTIA A+, Network+ Security+",
+    "languages": "Arabic (fluent)",
+    "publications": "Congressional Scholar Certificate: Security Policy",
+    "professional_affiliations": "Member of the Delta Epsilon Sigma Honor Society, Member of Intelligence and National Security Alliance, Member of the Senate Information Security IT group, Member of Council for Emerging National Security Affairs, Member of Partnership for Secure America"
+  }
+}

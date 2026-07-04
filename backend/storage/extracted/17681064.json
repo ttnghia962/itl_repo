@@ -1,0 +1,101 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "streamline",
+    "Banking",
+    "budget",
+    "Business Systems",
+    "C",
+    "Cisco",
+    "closing 3",
+    "Consulting",
+    "contracts",
+    "CRM",
+    "Client",
+    "Customer Service",
+    "E-Business",
+    "Email",
+    "Senior Management",
+    "Finance",
+    "Guardian",
+    "Information Systems",
+    "Information Technology",
+    "Insurance",
+    "Investments",
+    "ITIL",
+    "ITIL v",
+    "Leadership",
+    "Director",
+    "Managing",
+    "money",
+    "MSA",
+    "negotiating",
+    "Enterprise",
+    "Oracle",
+    "Project Management",
+    "quality",
+    "Relationship Management",
+    "RFI",
+    "RFP",
+    "Sales",
+    "Sales Support",
+    "SLA",
+    "Strategic",
+    "technical support",
+    "Vendor Management",
+    "VoIP"
+  ],
+  "education": [
+    {
+      "institution": "Adelphi University",
+      "degree": "M.B.A.",
+      "field_of_study": "Business Administration",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "State University of New York",
+      "degree": "B.S",
+      "field_of_study": "Management and Economics",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Senior Manager",
+      "start_date": "April 2013",
+      "end_date": "February 2015",
+      "description": "Leading worldwide major manufacturer, distributor and retailer of high quality vitamins & supplements. Leadership role in the Vendor selection process (RFI/RFP/SOW). Negotiated and Contracted with selected technology vendors to optimize quality and minimize IT costs."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Director",
+      "start_date": "January 2000",
+      "end_date": "February 2013",
+      "description": "Major Entertainment Company providing Internet, Email, VoIP and HDTV/VOD to 3.2 million customers. Researched, selected, implemented and managed multiple Vendor relationships. Lead several RFI, RFP, MSO and SOW's."
+    },
+    {
+      "company": "Company Name",
+      "title": "Business Systems Delivery Consultant",
+      "start_date": "January 1999",
+      "end_date": "January 2000",
+      "description": "Client Company (Cablevision Systems) â€œcontract-to-hireâ€​ and was offered a Senior Management position within Corporate Information Technology."
+    },
+    {
+      "company": "Company Name",
+      "title": "Client Services Manager",
+      "start_date": "January 1998",
+      "end_date": "January 1999",
+      "description": "Provided professional consulting services to multiple Fortune 500 Companies in Investments, Banking, Finance and Insurance areas."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "ITIL v3 Foundation, ITIL v3 Practitioner, Pega Certified Project Management Project Manager Certification"
+  }
+}

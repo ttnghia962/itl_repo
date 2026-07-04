@@ -1,0 +1,47 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Audio Visual",
+    "Games",
+    "Coaching",
+    "Customer Service",
+    "Fast Learner",
+    "Receptionist",
+    "Retail Sales",
+    "Landscaping",
+    "Maintenance",
+    "Marketing"
+  ],
+  "education": [
+    {
+      "institution": "Utica College",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Management",
+      "start_date": null,
+      "end_date": "May 2014"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Assistant Football Coach",
+      "start_date": "03/2014",
+      "end_date": "Current",
+      "description": "Assist in the design and execution of the offensive scheme for 60+ athletes including 20 wide receivers. Prepare field with all of the necessities for practices and games."
+    },
+    {
+      "company": "Company Name",
+      "title": "Property Maintenance Assistant",
+      "start_date": "09/2010",
+      "end_date": "Current",
+      "description": "Distribute media equipment to classrooms. Instruct professors through the application of Microsoft and Internet services. Answer phone calls and maintain an organized office for students and professors to enter freely. Performed various maintenance duties necessary to maintain and enhance the value of residential and commercial properties."
+    }
+  ],
+  "current_role": "Assistant Football Coach",
+  "domain": "Sports",
+  "extra_fields": {
+    "volunteer_work": "America's Greatest Heart Run & Walk Volunteer, Salvation Army Volunteer, Neighborhood clean-up, North Utica Youth Football Volunteer"
+  }
+}

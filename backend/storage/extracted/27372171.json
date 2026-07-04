@@ -1,0 +1,107 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Active Directory",
+    "Microsoft Outlook 2013",
+    "Windows 7",
+    "Windows 10",
+    "system security",
+    "data automation",
+    "Circuit Design application",
+    "UNIX client server",
+    "interpersonal skills",
+    "hardware and software installations",
+    "network systems",
+    "content encryption",
+    "customer relations",
+    "desktop support",
+    "telecommunications",
+    "databases query",
+    "electronic filing",
+    "forms",
+    "Microsoft Windows deployment",
+    "software Imaging",
+    "contract specialist and acquisition",
+    "Supply and property inventory",
+    "WAN",
+    "LAN",
+    "Lotus Notes",
+    "mainframes",
+    "materials",
+    "trouble shooting and ticketing systems",
+    "network security",
+    "policies",
+    "formal presentations",
+    "quality assurance",
+    "Life Cycle Replacement (LCR)",
+    "radio communication",
+    "geographical statistics",
+    "strategic planning",
+    "supervisor",
+    "Cisco switches and routers",
+    "system administration",
+    "technical support"
+  ],
+  "education": [
+    {
+      "institution": "GRANTHAM UNIVERSITY",
+      "degree": "Master of Science",
+      "field_of_study": "Information Management Technology",
+      "start_date": null,
+      "end_date": "2017"
+    },
+    {
+      "institution": "SAINT LEO UNIVERSITY",
+      "degree": "Bachelor of Business Administration",
+      "field_of_study": "Management",
+      "start_date": null,
+      "end_date": "2015"
+    },
+    {
+      "institution": "SAINT LEO UNIVERSITY",
+      "degree": "Associate of Arts",
+      "field_of_study": "Liberal Arts",
+      "start_date": null,
+      "end_date": "2013"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist/System Analysis",
+      "start_date": "February 2015",
+      "end_date": "May 2016",
+      "description": "Serve as IT System Analyst; assist with business process improvement efforts, responsible for the physical setup of computer workstations, configuration of Microsoft Outlook 2013, operation, and integration of hardware and software components associated with databases that support the Department of The Army."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist/Network Administrator",
+      "start_date": "October 2013",
+      "end_date": "December 2014",
+      "description": "Serve as a system analyst; primary job duty is to monitor servers and load balancers activity through sophisticated software applications such as HP Business Services Manager, HP Network Node Manager, and HP Operation Manager for UNIX."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist",
+      "start_date": "April 2005",
+      "end_date": "July 2013",
+      "description": "Knowledge of data communications, networking equipment such as wide area network, local network routers, switches assist in trouble shooting devices and computers with end users."
+    },
+    {
+      "company": "Company Name",
+      "title": "Data Entry Specialist",
+      "start_date": "March 2004",
+      "end_date": "April 2006",
+      "description": "Served as a medical reviewer and data entry processor of DOT physical examines of various clients into medical system program Occulink, Microsoft excel for tracking of missing information."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "CompTIA Security+, Cisco Network Associate",
+    "clearance": "Active Top Secret Clearance",
+    "awards": "Military Good Conduct Awards, Overseas Ribbons, Operation Iraq Freedom Award, Global War on Terrorism Award, and Certificate of Appreciation"
+  }
+}

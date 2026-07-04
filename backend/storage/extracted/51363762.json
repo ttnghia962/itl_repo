@@ -1,0 +1,86 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Procurement Clerk",
+    "Purchasing Agent",
+    "Computer Programmer",
+    "Contracting Officer Representative (COR)",
+    "Customer Support",
+    "Information Technology",
+    "Information Security",
+    "Hardware",
+    "Network systems",
+    "Decision Making",
+    "Information Systems",
+    "IT Strategy",
+    "Local Area Network",
+    "Microsoft Certified Professional",
+    "MCP",
+    "Policies",
+    "Processes",
+    "Project Management",
+    "Risk Assessment",
+    "Cobol Programming",
+    "ADA Programming"
+  ],
+  "education": [
+    {
+      "institution": "Pillar College",
+      "degree": "Bachelor of Arts",
+      "field_of_study": "Business Admin and Management",
+      "start_date": "January 2016",
+      "end_date": null
+    },
+    {
+      "institution": "CED Solutions",
+      "degree": null,
+      "field_of_study": "Computer Software",
+      "start_date": "2006",
+      "end_date": null
+    },
+    {
+      "institution": "Defense Acquisition University",
+      "degree": null,
+      "field_of_study": null,
+      "start_date": "2015",
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "AMC",
+      "title": "Computer Specialist and Intern",
+      "start_date": "Sep 1989",
+      "end_date": "Sep 1992",
+      "description": "Wrote two programs to estimate the cost for the Panama Canal Conflict. Coordinated with QA testers for end-to-end unit testing and post-production testing. Implemented system security and data assurance software. Developed custom software solutions for the organization."
+    },
+    {
+      "company": null,
+      "title": "Computer Specialist (Special Assignment)",
+      "start_date": "Jun 1992",
+      "end_date": "Oct 1993",
+      "description": "Assisted the Lead Software Engineer in writing the code to repair the Kiowa 58D helicopter computer module. Project was successful From coding to test and evaluation."
+    },
+    {
+      "company": null,
+      "title": "Information Technology Specialist",
+      "start_date": "Sep 1992",
+      "end_date": "Sep 2011",
+      "description": "Experienced in management of principles, evaluation techniques and systems management and planning. Efficient planning and delivery of customer support services."
+    },
+    {
+      "company": null,
+      "title": "Information Technology Specialist",
+      "start_date": "Sep 2011",
+      "end_date": null,
+      "description": "Effective Acting branch and division chief of Customer Support Branch ATEC Headquarters. Implements IT concepts, principles and methods and practices, providing technical oversight and Headquarters systems monitoring."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Microsoft Certified Professional (MCP), Security Plus"
+  }
+}

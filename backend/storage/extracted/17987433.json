@@ -1,0 +1,74 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Microbial testing",
+    "endotoxin- LAL Test",
+    "Nano particle Size and Charge analysis",
+    "Protein extractions",
+    "HPLC handling and Chromatography techniques",
+    "Polymerase chain reaction (PCR) technique",
+    "EPIC care",
+    "Method development",
+    "Method Validation",
+    "Method verification",
+    "Method transfer",
+    "Wet chemistry techniques",
+    "MS office",
+    "Efficient Internet Browsing",
+    "SAS programming"
+  ],
+  "education": [
+    {
+      "institution": "JSS College of Pharmacy",
+      "degree": "Master of Pharmacy",
+      "field_of_study": "Bio Technology",
+      "start_date": null,
+      "end_date": "August 2012"
+    },
+    {
+      "institution": "Kakatiya University",
+      "degree": "Bachelor of Pharmacy",
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": "May 2010"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "EPIC Information Technology Specialist",
+      "start_date": "04/2017",
+      "end_date": "06/2017",
+      "description": "Supported physicians and nurses with updating work list and flowsheet information. Provided instructions to staff on the use of EPIC Care. Provided support during the go-live."
+    },
+    {
+      "company": "Company Name",
+      "title": "Research Associate",
+      "start_date": "01/2016",
+      "end_date": "11/2016",
+      "description": "Study of Tera Spectra and Tera imaging. Analytical testing and method development and method validation. Maintenance and Calibration of Analytical Instruments."
+    },
+    {
+      "company": "Company Name",
+      "title": null,
+      "start_date": "11/2013",
+      "end_date": "12/2015",
+      "description": "Determine their thickness profile. Analytical testing and method development and method validation. Confirming the ability of this technique to resolve small variations in Ti02 layer thickness and consequently adsorption."
+    },
+    {
+      "company": "Company Name",
+      "title": "Research Associate",
+      "start_date": "12/2010",
+      "end_date": "04/2012",
+      "description": "Isolation, identification, Bioprocessing and characterization of secondary metabolites from the soil screened microorganism. Screening of soil actinomycetes from the different soil samples."
+    }
+  ],
+  "current_role": null,
+  "domain": "Bio-Pharma",
+  "extra_fields": {
+    "awards": "GOLD MEDAL for securing highest marks in Master of Pharmacy",
+    "seminars": "Indo-European Symposium on Alternative Approaches to Animal Testing, national workshop on potentials of medicinal plants of Nilgiri Biosphere reserve, Indian Pharmaceutical Student Congress-2009, Indian pharmaceutical congress-2011"
+  }
+}

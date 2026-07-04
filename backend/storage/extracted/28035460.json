@@ -1,0 +1,89 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Administrative",
+    "Excellent Interpersonal Skills",
+    "Excellent Communication",
+    "cost reduction",
+    "databases",
+    "electronic health records",
+    "Information Security",
+    "market development",
+    "materials",
+    "meetings",
+    "Microsoft Products",
+    "network management",
+    "organizational skills",
+    "Problem Solving Skills",
+    "processes",
+    "quality",
+    "Research",
+    "Risk analysis",
+    "safety",
+    "Security analysis",
+    "software development",
+    "technical support",
+    "troubleshoot"
+  ],
+  "education": [
+    {
+      "institution": "University of Lagos",
+      "degree": "Master of Science",
+      "field_of_study": "Chemical Engineering",
+      "start_date": "11/2005",
+      "end_date": null
+    },
+    {
+      "institution": "University of the District of Columbia",
+      "degree": "Master of Science Degree",
+      "field_of_study": "Computer Science and Information Technology",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "Federal University of Technology",
+      "degree": "Bachelor of Engineering",
+      "field_of_study": "Chemical Engineering",
+      "start_date": null,
+      "end_date": "09/2001"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name – State",
+      "title": "Information Technology Specialist",
+      "start_date": "08/2015",
+      "end_date": "05/2020",
+      "description": "Build, implement or support electronic health records and other systems that store patient's data. Assisted in network management and software development. Took periodic review of set standards and database."
+    },
+    {
+      "company": "National Board for Technology Incubation, Abuja Nigeria (Federal Ministry of Science and Technology)",
+      "title": "Principal Chemical Engineer / Information Technology Specialist",
+      "start_date": "10/2005",
+      "end_date": "06/2015",
+      "description": "Monitored, implemented, and maintained IT systems. Produced technical reports, analyzed data, and built databases. Facilitated discussions to resolve a safety concern with a key process monitoring instrument. Planned and designed technology related activities aimed at nurturing the growth of innovative businesses. Provided technical support and capacity building in science and technology. Collaborated with market development on new IT technologies for industrial and consumer groups."
+    },
+    {
+      "company": "Company Name",
+      "title": "Facility Engineer Intern",
+      "start_date": "10/2002",
+      "end_date": "09/2003",
+      "description": "Analyzed process data from newly revamped furnace to improve efficiency of long-term performance monitoring plan by over 50%. Developed and maintained of engineering/operating standards through periodic review. Improved 40% Reliability/uptime performance and cost reduction efforts for the production units. Managed materials through preventive/corrective maintenance of products."
+    },
+    {
+      "company": "Company Name",
+      "title": "Engineer Intern",
+      "start_date": "08/2000",
+      "end_date": "01/2001",
+      "description": "Produce a piping and instrumentation diagram of the pumphouse, cooling tower and condensate lines. Led weekly group meetings with interns and management for future improvements. Monitored, troubleshoot, and observed operations and processes for quality, damages and /or defects."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Licensed Registered Engineer Council for regulation of Engineering in Nigeria (COREN) Abuja, Nigeria 2006",
+    "affiliations": "Information Technology Specialist University of the District of Columbia, Workforce development 2018"
+  }
+}

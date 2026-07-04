@@ -1,0 +1,73 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Project Management",
+    "Portfolio Management",
+    "Conflict Resolution",
+    "Communication",
+    "Leadership",
+    "Timekeeping",
+    "Budgeting"
+  ],
+  "education": [
+    {
+      "institution": "VPI & SU (Virginia Tech)",
+      "degree": "B.A",
+      "field_of_study": "Foreign Languages and Literatures",
+      "start_date": null,
+      "end_date": "1997"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Manager, Information Technology Project Management Office",
+      "start_date": "06/2008",
+      "end_date": "Current",
+      "description": "Manage portfolio of all PMO projects related to Corporate Services and manage portfolio of all Infrastructure related projects."
+    },
+    {
+      "company": "Company Name",
+      "title": "Project Manager /Application Systems Analyst III",
+      "start_date": "06/2004",
+      "end_date": "06/2008",
+      "description": "Project manager for multiple new information technology systems per year, ranging from $500k to $4M budgets"
+    },
+    {
+      "company": "Company Name",
+      "title": "Systems Analyst II/ Product Manager - Vantive (PeopleSoft tool)",
+      "start_date": "05/2001",
+      "end_date": "06/2004",
+      "description": "Support Peoplesoft's Vantive application in nationwide call center environments."
+    },
+    {
+      "company": "Company Name",
+      "title": "Systems Analyst II/ Project Manager",
+      "start_date": "04/2000",
+      "end_date": "05/2001",
+      "description": "Project management for Patient Accounting and clinical upgrades, support of existing modules, and maintenance on MUMPS database in UNIX: IDX Hospital Software package."
+    },
+    {
+      "company": "Company Name",
+      "title": "Project Manager Intermediate /Software Analyst II",
+      "start_date": "12/1998",
+      "end_date": "04/2000",
+      "description": "Primary Financial Analyst on McKesson HBOC Star Financials, backup for McKesson HBOC Clinical system."
+    },
+    {
+      "company": "Company Name",
+      "title": "Systems Analyst/ Programmer",
+      "start_date": "05/1998",
+      "end_date": "12/1998",
+      "description": "Programmed in SQL for HBOC Clinical and Financial systems, developed various hospital reports for Financial departments."
+    }
+  ],
+  "current_role": "Manager, Information Technology Project Management Office",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Project Management Certification, Project Management Advanced Certificate, PMP Certification",
+    "languages": "Spanish"
+  }
+}

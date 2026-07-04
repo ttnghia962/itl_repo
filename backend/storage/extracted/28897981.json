@@ -1,0 +1,107 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "MS SharePoint",
+    "MS Access",
+    "MS Office",
+    "Adobe Suite",
+    "OS(s) Windows",
+    "Linux",
+    "Mac",
+    "Skype",
+    "WebEx",
+    "Adobe Connect",
+    "MS Lync",
+    "Drupal",
+    "Content Management Systems"
+  ],
+  "education": [
+    {
+      "institution": "Warner Pacific University",
+      "degree": "Master of Science",
+      "field_of_study": "Management and Organizational Leadership",
+      "start_date": null,
+      "end_date": "08/2015"
+    },
+    {
+      "institution": "Eastern Washington University",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Technology",
+      "start_date": null,
+      "end_date": "06/2009"
+    },
+    {
+      "institution": "New Horizons",
+      "degree": "Certification",
+      "field_of_study": "ITIL Foundation",
+      "start_date": null,
+      "end_date": "2016"
+    },
+    {
+      "institution": "OpenSourcery",
+      "degree": null,
+      "field_of_study": "Site Builder and Theming : Drupal, Content Management",
+      "start_date": null,
+      "end_date": "08/2012"
+    }
+  ],
+  "experience": [
+    {
+      "company": "U.S. Forest Service",
+      "title": "Information Technology Specialist (Web), GS-11",
+      "start_date": "08/2013",
+      "end_date": "02/2016",
+      "description": "Over two years of planning, coordinating, and identifying business and research functions, resources and services working with the Forest Services' Climate Change Resource Center (CCRC)."
+    },
+    {
+      "company": "U.S. Forest Service",
+      "title": "Computer Assistant, GS-5",
+      "start_date": "03/2010",
+      "end_date": "08/2013",
+      "description": "Managed internet and intranet sites. Created and modified publication database entries within the Forest Services' Research Information Tracking System (RITS)."
+    },
+    {
+      "company": "School District",
+      "title": "Computer Department Intern",
+      "start_date": "09/2008",
+      "end_date": "06/2009",
+      "description": "Designed and proto-typed a web-based, IT assets inventory tracking system, using Linux, Apache, MySQL, PHP, HTML, and CSS."
+    },
+    {
+      "company": null,
+      "title": "Database Intern",
+      "start_date": "06/2008",
+      "end_date": "08/2009",
+      "description": "Create a patient tracking system using MS Access relationship database to help market a naturopathic clinic."
+    },
+    {
+      "company": null,
+      "title": "Office/Building Manager",
+      "start_date": "01/2005",
+      "end_date": "10/2005",
+      "description": "Managed a church office, created correspondence and newsletters. Scheduled and setup satellite seminars and media presentations."
+    },
+    {
+      "company": "BestBuy",
+      "title": "Geek Squad Tech",
+      "start_date": "10/2004",
+      "end_date": "12/2004",
+      "description": "Assist customers with troubleshooting their computer problems, and technical questions."
+    },
+    {
+      "company": "U.S. Coast Guard",
+      "title": "Marine Science Technician, E-6",
+      "start_date": "11/1984",
+      "end_date": "05/2004",
+      "description": "Provided level I, II, and III IT support as a Regional System Manager for other 400 workstations, across multiple Coast Guard campus, at remote field stations, and for facilities on ships."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "ITIL Foundation",
+    "projects": "Regional Examination Center (REC) Merchant Mariner database"
+  }
+}

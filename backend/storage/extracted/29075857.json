@@ -1,0 +1,76 @@
+{
+  "name": "Joseph Mueller",
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Quality Engineering",
+    "Process Improvement",
+    "Acceptance Testing",
+    "Strategic Planning",
+    "Organizational Development",
+    "Requirement Assessment",
+    "Coaching & Mentoring",
+    "Business Intelligence",
+    "SDLC",
+    "People Management",
+    "Team Building",
+    "Data Analysis",
+    "Oracle SQL/MS Access",
+    "Progress RDB",
+    "Power Point",
+    "Data Warehousing",
+    "HP Quality Center",
+    "MS Test",
+    "Rational software",
+    "QA and PM templates",
+    "MS Word/Excel",
+    "MS Project",
+    "Visio",
+    "Clarity Software"
+  ],
+  "education": [
+    {
+      "institution": "University of New Haven",
+      "degree": "MS",
+      "field_of_study": "Computer Science",
+      "start_date": null,
+      "end_date": "1992"
+    },
+    {
+      "institution": "Fairleigh Dickinson University",
+      "degree": "BS",
+      "field_of_study": "Computer Science",
+      "start_date": null,
+      "end_date": "1985"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Adjunct Instructor",
+      "start_date": "January 1999",
+      "end_date": "November 2014",
+      "description": "Planning and Strategy, Leadership Development, Project Management, QA and Testing"
+    },
+    {
+      "company": "Company Name",
+      "title": "Software Developer",
+      "start_date": "January 1996",
+      "end_date": "January 1998",
+      "description": null
+    },
+    {
+      "company": "Company Name",
+      "title": "Software Developer/QA Project Lead",
+      "start_date": "January 1988",
+      "end_date": "January 1996",
+      "description": null
+    }
+  ],
+  "current_role": "Adjunct Instructor",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "AIT",
+    "linkedin": "http://www.linkedin.com/in/josephmueller201"
+  }
+}

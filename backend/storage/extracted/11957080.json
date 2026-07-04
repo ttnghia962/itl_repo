@@ -1,0 +1,110 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "ASP .NET",
+    "Client/Server",
+    "Crystal Reports",
+    "data analysis",
+    "Database design",
+    "database software",
+    "Desktop Publishing",
+    "Desktop Publisher",
+    "equipment inventory",
+    "special events",
+    "Front Office",
+    "help desk",
+    "HTML web design",
+    "in Design",
+    "instruction",
+    "Linux",
+    "Logging",
+    "macros",
+    "Publisher",
+    "network administrator",
+    "Newsletter",
+    "procurement",
+    "repairs",
+    "SAP R/3",
+    "software installation",
+    "SQL",
+    "systems administration",
+    "technical support",
+    "training material",
+    "tutoring",
+    "UNIX",
+    "Visual Studio",
+    "Web Applications",
+    "web server",
+    "MS Office Suite 2000-2016",
+    "O365",
+    "GroupWise",
+    "HEAT Call Logging",
+    "T3 VoiceMail",
+    "NetMotion",
+    "Novell",
+    "iManager",
+    "Active Directory",
+    "Windows 2000/XP/7/8/10",
+    "DOS"
+  ],
+  "education": [
+    {
+      "institution": "California State University",
+      "degree": "B.S",
+      "field_of_study": "Business Administration, Management Information Systems",
+      "start_date": null,
+      "end_date": "May, 2002"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Lead Information Technology Support Specialist",
+      "start_date": "03/2016",
+      "end_date": "Current",
+      "description": "Perform lead worker functions including assigning, coordinating and reviewing daily work of staff, training other employees and act as a resource to other staff. Perform help desk systems administration; develop and document procedures. Coordinate with technical support team, management, and users to define user needs for new or improved systems; coordinate software deployments and PC replacements; manage hardware and software inventories."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Support Specialist",
+      "start_date": "04/2007",
+      "end_date": "03/2016",
+      "description": "Identify, troubleshoot, install, program, configure, upgrade, analyze and maintain various computer and network peripherals including mobile data computing devices. Determine appropriate course of action and conduct repairs, modifications, procurement, and replacement of internal peripherals as needed. Install, configure, and support enterprise class, SQL compliant database software."
+    },
+    {
+      "company": "Company Name",
+      "title": "End User Support Specialist",
+      "start_date": "08/2004",
+      "end_date": "03/2007",
+      "description": "Ensure customer satisfaction by responding to calls to the help desk. Logs all customer questions and problems and tracks the same through to resolution. Field over 20,800 calls from user community per year. Analyze each call for problem symptoms then determine problem resolution."
+    },
+    {
+      "company": "Company Name",
+      "title": "Instructional Support Specialist",
+      "start_date": "08/2002",
+      "end_date": "05/2004",
+      "description": "Provided administrative/secretarial support to all full- and part-time instructors in the Business Computer Information Systems Department. Worked cooperatively with Department Chair and all other faculty of the Business Education Department located on the Main Campus, Chico Center, Orland, Paradise, and Glenn County."
+    },
+    {
+      "company": "Company Name",
+      "title": "Instructional Support Asst I",
+      "start_date": "02/2002",
+      "end_date": "05/2002",
+      "description": "Instructed and tutored Corporate Information Technology students in the basics of: Database design: including ERD diagrams, data dictionaries, using all functions of Microsoft Access. SAP R/3: enterprise wide functionality, materials requirement planning (MRP) functionality and to create a personnel file for a new employee."
+    },
+    {
+      "company": "Company Name",
+      "title": "Computer Systems Manager",
+      "start_date": "06/1994",
+      "end_date": "05/1997",
+      "description": "Database Manager and Desktop Publisher Managed and maintained customized church database with 6000+ entries including membership, attendance, and contribution modules. Produced tailored reports for administrator using data analysis and manipulation techniques."
+    }
+  ],
+  "current_role": "Lead Information Technology Support Specialist",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Microsoft Word XP Certification, Microsoft Office Specialist Program, Crystal Certification of Crystal Reports Design 9.0, Novell Certificate in Implementing Novell Open Enterprise Server 2 for Linux, Pearson VUE Certified Test Administrator, Siemon Certification in Design Principles and Installation Practices, FrontRange HEAT Administration I, FrontRange HEAT Administration II, Dell Certification for Online Self Dispatch for Desktops and Notebooks"
+  }
+}

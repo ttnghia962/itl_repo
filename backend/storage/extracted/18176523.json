@@ -1,0 +1,99 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "3Com",
+    "A+",
+    "Active Directory",
+    "Backup",
+    "Bay networks",
+    "business systems",
+    "Cisco",
+    "Citrix",
+    "hardware",
+    "network systems",
+    "Clients",
+    "direction",
+    "Disaster Recovery",
+    "Engineer",
+    "firewall",
+    "Hub",
+    "Macintosh",
+    "Microsoft Products",
+    "Microsoft Certified Professional",
+    "Exchange",
+    "Mail",
+    "Office",
+    "NT",
+    "Enterprise",
+    "network security",
+    "Network",
+    "networks",
+    "Netware",
+    "Novell Netware",
+    "PC's",
+    "policies",
+    "presentations",
+    "Red hat",
+    "repairs",
+    "Reporting",
+    "servers",
+    "SQL",
+    "software support",
+    "troubleshooting",
+    "upgrades"
+  ],
+  "education": [
+    {
+      "institution": "East Carolina University",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Industrial Technology",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "University of Phoenix/WIU",
+      "degree": "Associate of Arts",
+      "field_of_study": "Business",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Senior Information Technology Manager",
+      "start_date": "Jan 2000",
+      "end_date": "Jan 2016",
+      "description": "Program Manager that drove and finalized a major project initiative consisting of migrating 13,000 Exchange On-Premise mail users/accounts to cloud based services (Office 365). Program Manager responsible for implementation and management of systems that allow Asset/Lease Reporting, Enterprise Backup, Patch Management and Application Distribution to over 10,000 PC's globally utilizing cloud based solutions."
+    },
+    {
+      "company": "Company Name",
+      "title": "Senior Information Systems Professional",
+      "start_date": "Jan 1996",
+      "end_date": "Jan 1999",
+      "description": "Developed long and short-term technology Server and Storage plans, formulated policies and procedures, and provided technology presentations to diverse groups of internal customers."
+    },
+    {
+      "company": "Company Name",
+      "title": "Network Support Engineer",
+      "start_date": "Jan 1995",
+      "end_date": "Jan 1996",
+      "description": "Provided support for NT, Netware, Macintosh, Cisco, 3Com, and Bay networks."
+    },
+    {
+      "company": "Company Name",
+      "title": "Senior Technician",
+      "start_date": "Jan 1993",
+      "end_date": "Jan 1995",
+      "description": "End of the line hardware and software support. Responsible for troubleshooting, identifying, and resolving end user hardware and application issues."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Microsoft Certified Professional/Administrator, CompTIA A+, Network+, Security +, Novell Netware Engineer, Citrix Administrator, Red hat Administrator, CMA (Certified Management Accountant)",
+    "affiliations": "VMware Users group, EMC Users group, Association of Information Technology Professionals, Leadership Development Program"
+  }
+}

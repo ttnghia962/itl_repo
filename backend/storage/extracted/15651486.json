@@ -1,0 +1,105 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Cisco IOS",
+    "Cisco Routers",
+    "Hardware",
+    "Database",
+    "Dell",
+    "Dell PowerEdge servers",
+    "ERP",
+    "Firewall",
+    "Groupwise",
+    "Help Desk",
+    "HP",
+    "IBM",
+    "IDS",
+    "IT support",
+    "LAN",
+    "Laptops",
+    "Linux",
+    "MAS90",
+    "Networking",
+    "Networks",
+    "Operating Systems",
+    "PCI",
+    "Phone system",
+    "POS",
+    "Prime",
+    "Printers",
+    "Protocols",
+    "Quality assurance",
+    "Router",
+    "Routing",
+    "Scanners",
+    "SCO Unix",
+    "SQL",
+    "SSL",
+    "Switches",
+    "Symantec",
+    "Trend",
+    "Troubleshoot",
+    "Upgrades",
+    "Vendor management",
+    "Video",
+    "VPN",
+    "VoIP",
+    "WAN",
+    "Windows",
+    "Windows Server",
+    "Workflow"
+  ],
+  "education": [
+    {
+      "institution": "ITT Technical Institute",
+      "degree": "B.S",
+      "field_of_study": "Computer Networking Systems",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Director of Information Technology",
+      "start_date": "01/2015",
+      "end_date": "Current",
+      "description": "Serves as the main point of contact on all I.T. related matters. Located at the corporate headquarters supporting over 60 users locally and 150 users remotely. Worked with service providers and vendors cutting IT budget over 45%. Implemented new MPLS network and Phone system saving the company 180k a year. Oversees all IT financials."
+    },
+    {
+      "company": "Company Name",
+      "title": "Network Engineer/I.T. Manager",
+      "start_date": "01/2013",
+      "end_date": "01/2015",
+      "description": "Supervised and led IT infrastructure team (including Help Desk). Worked with service providers and vendors cutting IT budget over 15%. Managed and designed IT security solutions and policies for all locations. Oversaw data center operations being hands on in all areas related to infrastructure and security."
+    },
+    {
+      "company": "Company Name",
+      "title": "Network Administrator/Help Desk Manager",
+      "start_date": "01/2010",
+      "end_date": "01/2013",
+      "description": "Served as technical specialist in network problems and emergencies. Troubleshoot and resolve network production problems. Conduct technical research on network upgrades and components to determine feasibility, cost, time required and compatibility with current system."
+    },
+    {
+      "company": "Company Name",
+      "title": "Help Desk Analyst",
+      "start_date": "01/2010",
+      "end_date": null,
+      "description": "Provided help desk support for over 7,000 Taco Bell stores. Troubleshoot all issues dealing with the P.O.S., TACO computer, and all the connections in the store."
+    },
+    {
+      "company": "Company Name",
+      "title": "Help Desk Support/IT Technician/Network Admin",
+      "start_date": "01/2009",
+      "end_date": null,
+      "description": "Provided first level help desk IT support in a 300 user environment spanning over 15 remote sites. Troubleshoot hardware, software and connectivity issues for a mixed Windows 2003/2008 Server, mixed Linux , XP desktop environment, Cisco routers, and Cisco Switches."
+    }
+  ],
+  "current_role": "Director of Information Technology",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "CISCO Certified Network Associate (CCNA)"
+  }
+}

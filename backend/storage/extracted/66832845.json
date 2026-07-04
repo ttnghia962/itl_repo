@@ -1,0 +1,57 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "account management",
+    "cables",
+    "cabling",
+    "Help Desk",
+    "Linux",
+    "MS Exchange server",
+    "Sharepoint",
+    "network security",
+    "desktop support",
+    "Unix",
+    "HP Unix",
+    "VBscript",
+    "Visual Basic Programming",
+    "Windows Server",
+    "Active Directory",
+    "SCOM",
+    "SCCM",
+    "vbscripts",
+    "Powershell",
+    "SANs",
+    "Geographic Information system",
+    "group policy"
+  ],
+  "education": [
+    {
+      "institution": null,
+      "degree": null,
+      "field_of_study": "Computer Science",
+      "start_date": null,
+      "end_date": "2013"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Computer Network Specialist Company Name",
+      "title": "Information Technology Specialist I",
+      "start_date": "07/2008",
+      "end_date": "Current",
+      "description": "I serve as the Lan Administrator. I installed and maintain over 100 servers. I installed and maintain a Hyper V cluster of 9 nodes. I administer several systems including Exchange 2010, Lync 2013, Active Directory 2012 including user accounts & group policy, Microsoft System Center and Operations Manager 2012, Proofpoint spam filter and iBoss web filter, ArcGIS."
+    },
+    {
+      "company": "Company Name",
+      "title": "Technology Specialist III",
+      "start_date": "06/2001",
+      "end_date": "07/2008",
+      "description": "Install and configure HP network switches, program switch ports and assign vlans, connect network wall ports and terminate network cables when necessary, troubleshoot network port communication errors and take appropriate action to correct problems."
+    }
+  ],
+  "current_role": "Information Technology Specialist I",
+  "domain": "Information Technology",
+  "extra_fields": {}
+}

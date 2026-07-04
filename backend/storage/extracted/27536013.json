@@ -1,0 +1,98 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "branding",
+    "budgets",
+    "Business Analysis",
+    "BI",
+    "Business Intelligence",
+    "business management",
+    "Business Objects",
+    "CRM",
+    "data analysis",
+    "data warehouse",
+    "DBA",
+    "databases",
+    "database",
+    "decision making",
+    "ERP",
+    "Financial",
+    "focus",
+    "Help Desk",
+    "hiring",
+    "Leadership",
+    "managing",
+    "Microsoft Office",
+    "SharePoint",
+    "Oracle",
+    "personnel",
+    "Personnel Management",
+    "producing",
+    "progress",
+    "Project Management",
+    "quality",
+    "reporting",
+    "SAP BW",
+    "SAP",
+    "MS SQL",
+    "SQL",
+    "staff development",
+    "strategic planning",
+    "systems architecture",
+    "technical assistance",
+    "User Training",
+    "Upgrade",
+    "website"
+  ],
+  "education": [
+    {
+      "institution": "Western Governor's University",
+      "degree": "BA",
+      "field_of_study": "Management",
+      "start_date": null,
+      "end_date": "2012"
+    },
+    {
+      "institution": "University of Phoenix",
+      "degree": null,
+      "field_of_study": "General Studies business management focus",
+      "start_date": null,
+      "end_date": "2007"
+    },
+    {
+      "institution": "Denmark High School",
+      "degree": "Diploma",
+      "field_of_study": "General Studies",
+      "start_date": null,
+      "end_date": "1993"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Applications Team Leader",
+      "start_date": "05/2012",
+      "end_date": "Current",
+      "description": "Manager of Business Intelligence, DBA, SharePoint, and Web departments; including strategic planning, overall systems architecture, and personnel."
+    },
+    {
+      "company": "Company Name",
+      "title": "Business Intelligence Manager",
+      "start_date": "12/2005",
+      "end_date": "05/2012",
+      "description": "Manager of reporting department; including strategic planning, and overall systems architecture."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Systems Software Administrator",
+      "start_date": "11/1997",
+      "end_date": "10/2005",
+      "description": "Managed and maintained all software packages for the entire organization including ERP, CRM, SQL databases, and reporting software."
+    }
+  ],
+  "current_role": "Applications Team Leader",
+  "domain": "Information Technology",
+  "extra_fields": {}
+}

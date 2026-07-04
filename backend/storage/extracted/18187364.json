@@ -1,0 +1,160 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "account management",
+    "ad",
+    "analyst",
+    "application development",
+    "ASM",
+    "agency",
+    "audit reports",
+    "auditing",
+    "backup",
+    "budgets",
+    "c",
+    "Capability Maturity Model",
+    "CMM",
+    "capacity planning",
+    "client/server",
+    "COGNOS",
+    "concept",
+    "conferences",
+    "consultation",
+    "consulting",
+    "contracts",
+    "client",
+    "data dictionary system",
+    "database and applications",
+    "database administration",
+    "DBA",
+    "databases",
+    "Database",
+    "database design",
+    "Designing",
+    "disaster recovery",
+    "document management",
+    "due diligence",
+    "government regulations",
+    "IBM",
+    "Information Security",
+    "Information Systems",
+    "law",
+    "Managing",
+    "meetings",
+    "mentoring",
+    "access",
+    "Money",
+    "Windows NT",
+    "modeling",
+    "Enterprise",
+    "operating systems",
+    "Oracle Enterprise Manager",
+    "Oracle",
+    "Oracle database",
+    "PL/SQL",
+    "page",
+    "PeopleSoft",
+    "policies",
+    "procurement",
+    "Oracle RDBMS",
+    "Risk Assessment",
+    "scanning",
+    "servers",
+    "scripts",
+    "Scripting",
+    "software development",
+    "SQL",
+    "SQLLoader",
+    "statistics",
+    "Sybase",
+    "Systems development",
+    "Tivoli",
+    "training programs",
+    "troubleshooting",
+    "UNIX",
+    "UNIX shell scripts",
+    "upgrade",
+    "workshops"
+  ],
+  "education": [
+    {
+      "institution": "College of Saint Rose",
+      "degree": "Master of Science",
+      "field_of_study": "Management",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": null,
+      "degree": "Bachelor of Arts",
+      "field_of_study": "Music History",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist Information Security Officer",
+      "start_date": "October 2010",
+      "end_date": "July 2015",
+      "description": "Installing and configuring Oracle software versions 10g-12c. Scripting maintenance and monitoring tools. Creating Risk Assessment template based on NIST 800-30R1 to facilitate and evaluate secure software development practice."
+    },
+    {
+      "company": "Company Name",
+      "title": "Vice President",
+      "start_date": "April 2002",
+      "end_date": "September 2010",
+      "description": "Perform database penetration testing and regular server and database scanning for security vulnerabilities and compromised passwords. Technical lead for database consolidation, backup software replacement, PeopleSoft upgrade and Anti-Money Laundering projects."
+    },
+    {
+      "company": "Company Name",
+      "title": "Database Manager",
+      "start_date": "February 2000",
+      "end_date": "April 2002",
+      "description": "Created and supported multi-instance spatial environments for internet startup company. Gathered user requirements and designed and built logical and physical database structures."
+    },
+    {
+      "company": "Company Name",
+      "title": "Senior Database Administrator",
+      "start_date": "January 1999",
+      "end_date": "February 2000",
+      "description": "Technical liaison and support manager for international leasing company. Traveled abroad as needed. Participated in due diligence audits of takeover candidate companies."
+    },
+    {
+      "company": "Company Name",
+      "title": "System Staff Specialist/Database Administrator",
+      "start_date": "December 1997",
+      "end_date": "January 1999",
+      "description": "DBA for telesales, signature verification, and electronic payment systems. Participated in off-site disaster recovery exercises."
+    },
+    {
+      "company": "Company Name",
+      "title": "Senior Database Administrator",
+      "start_date": "June 1997",
+      "end_date": "December 1997",
+      "description": "Converted document management system from Sybase to Oracle. Mentored and trained Oracle database administrators at client sites."
+    },
+    {
+      "company": "Company Name",
+      "title": "Database Administrator",
+      "start_date": "September 1996",
+      "end_date": "June 1997",
+      "description": "Implemented and maintained critical high volume online and Internet server Oracle databases in UNIX environment."
+    },
+    {
+      "company": "Company Name",
+      "title": "Associate Computer Programmer/Analyst",
+      "start_date": "June 1991",
+      "end_date": "September 1996",
+      "description": "Technical lead responsible for Pavement and Bridge Management Systems development and production Oracle databases operating in client/server environment."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Oracle Certified Professional (OCP), Certified Information Systems Security Professional (CISSP), Certified Information Security Manager (CISM)"
+  }
+}

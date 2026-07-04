@@ -1,0 +1,80 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "COMMUNICATION",
+    "Cloud Environments Design & Implementation",
+    "Network Design & Implementation",
+    "VOIP",
+    "Cyber Security (NIST HITRUST/HIPAA)",
+    "Project Management",
+    "Technical Support Management",
+    "Budget Management",
+    "accounting",
+    "bi",
+    "Cisco Routers",
+    "ERP",
+    "financial",
+    "Firewalls",
+    "help desk",
+    "HR",
+    "Information Technology",
+    "insurance",
+    "managing",
+    "market",
+    "office",
+    "retail",
+    "RFP",
+    "selling",
+    "software development",
+    "strategic",
+    "strategic planning",
+    "technical support",
+    "Desktop Support",
+    "Windows Server",
+    "written communication skills"
+  ],
+  "education": [
+    {
+      "institution": "California State University, Fullerton, Mihaylo College of Business and Economics",
+      "degree": "M.S",
+      "field_of_study": "Information Technology",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "University of Phoenix",
+      "degree": "B.S",
+      "field_of_study": "Information Technology",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Adsystech",
+      "title": "Director of Information Technology",
+      "start_date": "Sep 2005",
+      "end_date": "Current",
+      "description": "Managing the day-to-day responsibilities of a 24x7x365 IT organization, designing and deploying the first data center, creating cyber security policies and controls, and putting together a team to support the data center and provide technical support for the new product offering."
+    },
+    {
+      "company": "City organization",
+      "title": "Information Technology Manager",
+      "start_date": "Sep 2003",
+      "end_date": "Sep 2005",
+      "description": "Managing a project support team, supervising network administrators, evaluating security risks, and ensuring HITECH/HIPAA protocol were followed."
+    },
+    {
+      "company": "Relax the Back",
+      "title": "Information Technology Manager",
+      "start_date": "Sep 1998",
+      "end_date": "Mar 2003",
+      "description": "Managing the overall management, infrastructure, and strategic planning of the National point of sale network, managing the ERP solution, and acting as liaison between vendors, operation staff, and the CFO for all major projects."
+    }
+  ],
+  "current_role": "Director of Information Technology",
+  "domain": "Information Technology",
+  "extra_fields": {}
+}

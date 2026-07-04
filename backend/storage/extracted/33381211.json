@@ -1,0 +1,80 @@
+{
+  "name": "Boppana Rao",
+  "email": null,
+  "phone": null,
+  "skills": [
+    "People Centered Leadership",
+    "Coaching and Talent Development",
+    "Strategic & Tactical Planning",
+    "Building a Culture of Innovation and Engagement",
+    "Software Engineering",
+    "Transformation and Change Advocate",
+    "Designing & Architecting Systems"
+  ],
+  "education": [
+    {
+      "institution": "Boston University",
+      "degree": "Mini MBA",
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "Anjuman Engineering College",
+      "degree": "BS",
+      "field_of_study": "Electronics And Communications Engineering",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Vice President Information Technology - Software Engineering",
+      "start_date": "03/2018",
+      "end_date": "Current",
+      "description": "Leading all aspects of IT Application Development and Corporate Systems teams encompassing 100+ IT associates plus consultants, $20m budget, key capital trans-formative projects for the full life-cycle of delivering world class business solutions."
+    },
+    {
+      "company": "Company Name",
+      "title": "Assistant Vice President - Solutions Delivery",
+      "start_date": "07/2015",
+      "end_date": "03/2018",
+      "description": "Defined and executed product vision for Safelite's overall core systems architecture that drives business growth from 5 national contact centers, 600+ retail locations, 6000 mobile technicians, 90 warehouses, 2 distribution centers, multiple customer driven responsive web applications and customer app engagement tools."
+    },
+    {
+      "company": "Company Name",
+      "title": "Director Of Technology",
+      "start_date": "04/2013",
+      "end_date": "07/2015",
+      "description": "Managed successful delivery of web responsive self-serviced digital portals for policyholders, agents, insurance claim/adjusters and cash customers."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Manager",
+      "start_date": "02/2008",
+      "end_date": "04/2013",
+      "description": "Transformed Safelite's systems and IT teams for Safelite Solutions, Safelite AutoGlass and Service AutoGlass business units from legacy platforms and run-support teams to modern systems and smaller product teams capable of extending needed business functionality and supporting Safelite's growth."
+    },
+    {
+      "company": "Company Name",
+      "title": "Team Lead",
+      "start_date": "06/2003",
+      "end_date": "02/2008",
+      "description": null
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Consultant",
+      "start_date": "04/1998",
+      "end_date": "06/2003",
+      "description": null
+    }
+  ],
+  "current_role": "Vice President Information Technology - Software Engineering",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "linkedin": "www.linkedin.com/in/boppanarao",
+    "awards": "2018 Stevie Award Gold Winner, 2017 Safelite Solutions Innovation Award, 2016 Belron Exceptional Customer Service Award, 2015 Safelite Group Customer Driven Leadership Award, 2013 Belron Exceptional Service Award, 2013 Safelite Group Wall of Fame Award, 2008 Safelite Group Wall of Fame Award"
+  }
+}

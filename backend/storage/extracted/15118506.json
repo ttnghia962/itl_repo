@@ -1,0 +1,64 @@
+{
+  "name": "Robert R. Jordan",
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Microsoft Server 2003",
+    "Microsoft Server 2008",
+    "Microsoft Server 2012",
+    "Exchange Server 2007",
+    "Exchange Server 2010",
+    "ITIL Service Catalog",
+    "VMware ESXi",
+    "VMware vCenter",
+    "VMware Horizon View",
+    "Microsoft Hyper-V",
+    "Cisco UCM",
+    "Cisco Unity"
+  ],
+  "education": [
+    {
+      "institution": "Cardinal Stritch University",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Management Information Systems",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Director of Information Technology",
+      "start_date": "11/2012",
+      "end_date": "Current",
+      "description": "Developed and implemented the IT strategy for the organization including software, support and infrastructure. Hired, developed, and managed IT staff. Negotiated terms and products from external vendors, including changes needed as business needs changed."
+    },
+    {
+      "company": "Company Name",
+      "title": "IT Administrator",
+      "start_date": "03/2008",
+      "end_date": "11/2012",
+      "description": "Planned, installed and managed Microsoft domain environment utilizing Microsoft Server 2008. Upgraded environment to Server 2012. Planned, installed and managed Microsoft Exchange server, successfully migrating end user data from third party non-Exchange environment."
+    },
+    {
+      "company": "Company Name",
+      "title": "New Car Sales",
+      "start_date": "08/2005",
+      "end_date": "02/2008",
+      "description": "Recognized by Toyota as one of the top salespeople in the Chicago Region"
+    },
+    {
+      "company": "Company Name",
+      "title": "IT Consultant",
+      "start_date": "01/2000",
+      "end_date": "08/2005",
+      "description": "Provided IT consultation and implementation of retail cash register networks. Managed staff of more than 10 independent IT contractors in implementation of contract projects."
+    }
+  ],
+  "current_role": "Director of Information Technology",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "VMware Certified Professional 5 - Data Center Virtualization, VMware Certified Professional 5 - Desktop Virtualization, ITIL Foundation Certified, Microsoft Certified Professional - Server 2012",
+    "linkedin": "www.linkedin.com/in/RobertRJordan"
+  }
+}

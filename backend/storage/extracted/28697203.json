@@ -1,0 +1,80 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Agile methodology",
+    "SAFe",
+    "Scrum",
+    "Kanban",
+    "Scrumban",
+    "Project management",
+    "Client relations",
+    "Release management",
+    "Team building",
+    "Atlassian suite (JIRA, Confluence, Trello)",
+    "Risk-assessment",
+    "SCADA",
+    "Supervisory Control and Data Acquisition",
+    "Spanish"
+  ],
+  "education": [
+    {
+      "institution": "American University",
+      "degree": "Master of Arts in International Affairs",
+      "field_of_study": "International Affairs",
+      "start_date": null,
+      "end_date": "2011"
+    },
+    {
+      "institution": "American University",
+      "degree": "Master of Arts in Natural Resources",
+      "field_of_study": "Natural Resources",
+      "start_date": null,
+      "end_date": "2011"
+    },
+    {
+      "institution": "Clemson University",
+      "degree": "Bachelor of Arts in Biological Sciences",
+      "field_of_study": "Biological Sciences",
+      "start_date": null,
+      "end_date": "2008"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "INFORMATION TECHNOLOGY PROJECT MANAGER",
+      "start_date": "03/2019",
+      "end_date": "Current",
+      "description": "Support Design-Build Supervisory Control and Data Acquisition (SCADA) Upgrade Project using project management expertise. Identify and implement technology tools to facilitate resource planning for multiple projects, identify interdivisional dependencies, encourage real-time team collaboration, and develop streamlined workflows to expedite project submittal reviews."
+    },
+    {
+      "company": "Company Name",
+      "title": "AGILE PROJECT MANAGER",
+      "start_date": "10/2014",
+      "end_date": "03/2019",
+      "description": "Led transition of risk-assessment tools from downloadable software to web-based platform, including EPA's Vulnerability Self Assessment Tool, Climate Resilience Evaluation and Awareness Tool (CREAT), and the Workshop Planner for Climate Change and Extreme Events Adaptation tool."
+    },
+    {
+      "company": "Company Name",
+      "title": "RELEASE MANAGER",
+      "start_date": "10/2014",
+      "end_date": "03/2019",
+      "description": "Negotiated, planned, and managed all release activities identifying risks and corresponding solutions to maintain the release schedule."
+    },
+    {
+      "company": "Company Name",
+      "title": "BUSINESS ANALYST / SCRUM MASTER",
+      "start_date": "10/2014",
+      "end_date": "03/2019",
+      "description": "Facilitated requirements meetings and grooming sessions with the development team and the client to identify desired features and functionality."
+    }
+  ],
+  "current_role": "INFORMATION TECHNOLOGY PROJECT MANAGER",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Scaled Agile Framework (SAFe) 4 Agilist certification, Project Management Professional (PMP)",
+    "languages": "Spanish"
+  }
+}

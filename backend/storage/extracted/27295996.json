@@ -1,0 +1,134 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "Active Directory",
+    "DHCP",
+    "DNS",
+    "WINS",
+    "GPO",
+    "backups",
+    "budgeting",
+    "Citrix",
+    "XenApp",
+    "VMware",
+    "Hyper V",
+    "Dynamic CRM",
+    "Dynamic GP",
+    "ERP",
+    "Crystal",
+    "Data Analysis",
+    "Databases",
+    "Disaster Recovery",
+    "documentation",
+    "Financial Management",
+    "firewalls",
+    "imaging",
+    "inventory control",
+    "LAN",
+    "WAN",
+    "Linux",
+    "Microsoft Exchange",
+    "Office365",
+    "Office",
+    "Microsoft SQL",
+    "Windows",
+    "Migration",
+    "negotiating",
+    "enterprise",
+    "network",
+    "PBX",
+    "printer",
+    "processes",
+    "procurement",
+    "improve products",
+    "project planning",
+    "project management",
+    "purchasing",
+    "Reporting",
+    "research",
+    "Sage",
+    "sales reports",
+    "servers",
+    "strategic plans",
+    "strategic planning",
+    "supervision",
+    "technical support",
+    "cloud",
+    "Azure"
+  ],
+  "education": [
+    {
+      "institution": "Hennepin Technical College",
+      "degree": "Associate of Applied Science",
+      "field_of_study": "Network Administration",
+      "start_date": null,
+      "end_date": "2010"
+    },
+    {
+      "institution": "Buchach University of Business and Management",
+      "degree": "Certificate",
+      "field_of_study": "IT Security Essentials",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "institution": "Zaporizhzhya Pedagogical College",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Elementary Teacher",
+      "start_date": null,
+      "end_date": "1999"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "IT Director",
+      "start_date": "August 2015",
+      "end_date": "Current",
+      "description": "Formulate and deploy long-term strategic plans for acquiring and enabling efficient and cost effective information processing and communication technologies."
+    },
+    {
+      "company": "Company Name",
+      "title": "Business Application Specialist",
+      "start_date": "August 2013",
+      "end_date": "August 2015",
+      "description": "Support major components of distributed business applications."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist",
+      "start_date": "February 2011",
+      "end_date": "August 2013",
+      "description": "Completive experience of VMware vSphere environment."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Specialist I",
+      "start_date": "October 2010",
+      "end_date": "January 2011",
+      "description": "Experience in imaging machines using Norton Ghost, Macrium Reflect, Acronis, FOG, Clonezilla."
+    },
+    {
+      "company": "Company Name",
+      "title": "Network Assistant",
+      "start_date": "February 2010",
+      "end_date": "July 2010",
+      "description": "Work-study Assess network performance."
+    },
+    {
+      "company": "Company Name",
+      "title": "General Manager",
+      "start_date": "July 2004",
+      "end_date": "January 2006",
+      "description": "Trained and coordinated 25 office personnel."
+    }
+  ],
+  "current_role": "IT Director",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "CXA-206-1, Citrix XenApp 6.5 Basic Administration, IT Security Essentials, Spiceworks 101: Foundations & Lab Introduction to SQL",
+    "military_experience": "Senior Sergeant, Military UA Army, Ukraine"
+  }
+}

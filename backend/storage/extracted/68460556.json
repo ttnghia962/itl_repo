@@ -1,0 +1,61 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "American Sign Language",
+    "Excellent communication",
+    "customer service",
+    "databases",
+    "English",
+    "access",
+    "Excel",
+    "Power Point",
+    "Microsoft Word",
+    "problem solving skills",
+    "Real-Time",
+    "repairs",
+    "translation",
+    "website",
+    "workshops"
+  ],
+  "education": [
+    {
+      "institution": "Bloomsburg University of Pennsylvania",
+      "degree": null,
+      "field_of_study": "Information and Technology Management, American Sign Language",
+      "start_date": null,
+      "end_date": "December 2016"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": null,
+      "start_date": "10/2014",
+      "end_date": "05/2015",
+      "description": "Provided assistance to students with weak study areas. Analyzed students in acquiring better understanding of specific weak areas within American Sign Language (ASL) courses. Contributed students to improve their ASL receptive and expressive skills."
+    },
+    {
+      "company": "Company Name",
+      "title": "Information Technology Intern",
+      "start_date": "06/2012",
+      "end_date": "08/2012",
+      "description": "Participated in human and technology interaction management with supervisor. Developed an interface between website and databases via Excel that allowed House of Representatives and Senators more effective and easier access to information. Completed several workshops and lectures about the history of the Library of Congress."
+    },
+    {
+      "company": "Company Name",
+      "title": "Media Student Assistant",
+      "start_date": "02/2012",
+      "end_date": "08/2012",
+      "description": "Set up and maintained the Computer Aided Real-Time translation (CART) system in classrooms and various locations around campus, when needed. Assisted staff, faculty and students on a daily basis with equipment repairs, customer service and technology problems. Verified that each classroom had the appropriate equipment and technology needed for success daily."
+    }
+  ],
+  "current_role": null,
+  "domain": "Information Technology",
+  "extra_fields": {
+    "languages": "American Sign Language, English",
+    "certifications": "Dean's list above 3.50 GPA Spring 2016, Bloomsburg University Career Intensive Boot Camp Spring 2016",
+    "activities": "Chi Alpha Epsilon Honor Society, Delta Alpha Pi Honor Society, Phi Sigma Pi National Honor Fraternity, Signify Club President, Delta Sigma Phi Fraternity Brother"
+  }
+}

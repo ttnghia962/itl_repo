@@ -1,0 +1,86 @@
+{
+  "name": null,
+  "email": null,
+  "phone": null,
+  "skills": [
+    "IT Strategy",
+    "Team building",
+    "IT Management",
+    "Enterprise platforms",
+    "Project management",
+    "Business continuity",
+    "Business Intelligence",
+    "Disaster recovery",
+    "Cloud computing",
+    "Budgeting/Cost control",
+    "SOX",
+    "HIPAA",
+    "GLBA",
+    "IT Infrastructure"
+  ],
+  "education": [
+    {
+      "institution": "University of Massachusetts",
+      "degree": "M.B.A",
+      "field_of_study": null,
+      "start_date": null,
+      "end_date": "Dec. 2007"
+    },
+    {
+      "institution": "Arizona State University",
+      "degree": "B.S",
+      "field_of_study": "Real Estate",
+      "start_date": null,
+      "end_date": "May 1994"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company Name",
+      "title": "Vice President, Information Technology",
+      "start_date": "November 2012",
+      "end_date": "Current",
+      "description": "Represent Information Technology as a member of the senior leadership team with oversight of all tactical and strategic aspects of corporate IT systems."
+    },
+    {
+      "company": "Company Name",
+      "title": "Director, IT Infrastructure",
+      "start_date": "March 2008",
+      "end_date": "November 2012",
+      "description": "Directly responsible for mission critical support of all computer, network, and telecom infrastructure."
+    },
+    {
+      "company": "Company Name",
+      "title": "Manager, IT Operations - Windows",
+      "start_date": "October 2006",
+      "end_date": "March 2008",
+      "description": "Managed eleven person team of Help Desk Technicians, System Administrators, System Engineers, and System Architects."
+    },
+    {
+      "company": "Company Name",
+      "title": "IT Manager - Networking, Systems, & Support",
+      "start_date": "September 1999",
+      "end_date": "October 2006",
+      "description": "Managed eight person team of Help Desk Engineers, Network Administrators, Network Engineers, and Telecommunications Administrators."
+    },
+    {
+      "company": "Company Name",
+      "title": "System Administrator",
+      "start_date": "March 1996",
+      "end_date": "September 1999",
+      "description": "Solely responsible for mission critical support of 400+ Windows 95/98 workstations and 30 Windows NT 4.0 servers."
+    },
+    {
+      "company": "Company Name",
+      "title": "Inside Sales Representative",
+      "start_date": "June 1994",
+      "end_date": "March 1996",
+      "description": null
+    }
+  ],
+  "current_role": "Vice President, Information Technology",
+  "domain": "Information Technology",
+  "extra_fields": {
+    "certifications": "Denver Peak Academy - Lean Process Improvement (Black Belt), Harvard ManageMentor Leadership and Management (12 Courses), Microsoft Certified Systems Engineer (MCSE), Microsoft Certified Systems Administrator (MCSA), Cisco Certified Network Associate (CCNA), Citrix Certified Administrator (CCA)"
+  }
+}
